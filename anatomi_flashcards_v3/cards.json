@@ -1,0 +1,602 @@
+[
+  {
+    "type": "muskel",
+    "region": "Rygg/bål",
+    "name": "Latissimus dorsi",
+    "sv": "Breda ryggmuskeln",
+    "view": "posterior",
+    "image": null
+  },
+  {
+    "type": "muskel",
+    "region": "Rygg/bål",
+    "name": "Erector spinae",
+    "sv": "Ryggsträckarna",
+    "view": "posterior",
+    "image": null
+  },
+  {
+    "type": "muskel",
+    "region": "Rygg/bål",
+    "name": "Serratus posterior superior",
+    "sv": "Övre bakre sågtandade muskeln",
+    "view": "posterior",
+    "image": null
+  },
+  {
+    "type": "muskel",
+    "region": "Rygg/bål",
+    "name": "Serratus posterior inferior",
+    "sv": "Nedre bakre sågtandade muskeln",
+    "view": "posterior",
+    "image": null
+  },
+  {
+    "type": "muskel",
+    "region": "Rygg/bål",
+    "name": "Quadratus lumborum",
+    "sv": "Fyrkantiga ländmuskeln",
+    "view": "posterior",
+    "image": null
+  },
+  {
+    "type": "muskel",
+    "region": "Rygg/bål",
+    "name": "Iliopsoas",
+    "sv": "Höftböjaren",
+    "view": "anterior",
+    "image": null
+  },
+  {
+    "type": "muskel",
+    "region": "Bröst/bål",
+    "name": "Pectoralis major",
+    "sv": "Stora bröstmuskeln",
+    "view": "anterior",
+    "image": null
+  },
+  {
+    "type": "muskel",
+    "region": "Bröst/bål",
+    "name": "Pectoralis minor",
+    "sv": "Lilla bröstmuskeln",
+    "view": "anterior",
+    "image": null
+  },
+  {
+    "type": "muskel",
+    "region": "Bröst/bål",
+    "name": "Subclavius",
+    "sv": "Lilla nyckelbensmuskeln",
+    "view": "anterior",
+    "image": null
+  },
+  {
+    "type": "muskel",
+    "region": "Bröst/bål",
+    "name": "Serratus anterior",
+    "sv": "Främre sågtandade muskeln",
+    "view": "lateral",
+    "image": null
+  },
+  {
+    "type": "muskel",
+    "region": "Buk",
+    "name": "Rectus abdominis",
+    "sv": "Raka bukmuskeln",
+    "view": "anterior",
+    "image": null
+  },
+  {
+    "type": "muskel",
+    "region": "Buk",
+    "name": "Obliquus externus abdominis",
+    "sv": "Yttre sneda bukmuskeln",
+    "view": "anterior",
+    "image": null
+  },
+  {
+    "type": "muskel",
+    "region": "Buk",
+    "name": "Obliquus internus abdominis",
+    "sv": "Inre sneda bukmuskeln",
+    "view": "anterior",
+    "image": null
+  },
+  {
+    "type": "muskel",
+    "region": "Buk",
+    "name": "Transversus abdominis",
+    "sv": "Tvärgående bukmuskeln",
+    "view": "anterior",
+    "image": null
+  },
+  {
+    "type": "muskel",
+    "region": "Bröst/bål",
+    "name": "Diafragma",
+    "sv": "Mellangärdet",
+    "view": "inferior",
+    "image": null
+  },
+  {
+    "type": "muskel",
+    "region": "Säte/höft",
+    "name": "Gluteus maximus",
+    "sv": "Stora sätesmuskeln",
+    "view": "posterior",
+    "image": "assets/hip_gluteus.png"
+  },
+  {
+    "type": "muskel",
+    "region": "Säte/höft",
+    "name": "Gluteus medius",
+    "sv": "Mellersta sätesmuskeln",
+    "view": "lateral",
+    "image": "assets/hip_gluteus.png"
+  },
+  {
+    "type": "muskel",
+    "region": "Säte/höft",
+    "name": "Gluteus minimus",
+    "sv": "Lilla sätesmuskeln",
+    "view": "lateral",
+    "image": "assets/hip_gluteus.png"
+  },
+  {
+    "type": "muskel",
+    "region": "Säte/höft",
+    "name": "Tensor fasciae latae",
+    "sv": "Tensor fasciae latae",
+    "view": "lateral",
+    "image": null
+  },
+  {
+    "type": "muskel",
+    "region": "Säte/höft",
+    "name": "Piriformis",
+    "sv": "Piriformis",
+    "view": "posterior",
+    "image": null
+  },
+  {
+    "type": "muskel",
+    "region": "Lår",
+    "name": "Sartorius",
+    "sv": "Skräddarmuskeln",
+    "view": "anterior",
+    "image": null
+  },
+  {
+    "type": "muskel",
+    "region": "Lår",
+    "name": "Rectus femoris",
+    "sv": "Raka lårmuskeln",
+    "view": "anterior",
+    "image": null
+  },
+  {
+    "type": "muskel",
+    "region": "Lår",
+    "name": "Vastus medialis",
+    "sv": "Vastus medialis",
+    "view": "anterior",
+    "image": null
+  },
+  {
+    "type": "muskel",
+    "region": "Lår",
+    "name": "Vastus lateralis",
+    "sv": "Vastus lateralis",
+    "view": "anterior",
+    "image": null
+  },
+  {
+    "type": "muskel",
+    "region": "Lår",
+    "name": "Vastus intermedius",
+    "sv": "Vastus intermedius",
+    "view": "anterior",
+    "image": null
+  },
+  {
+    "type": "muskel",
+    "region": "Lår",
+    "name": "Pectineus",
+    "sv": "Pectineus",
+    "view": "anterior",
+    "image": null
+  },
+  {
+    "type": "muskel",
+    "region": "Lår",
+    "name": "Adductor brevis",
+    "sv": "Adductor brevis",
+    "view": "anterior",
+    "image": null
+  },
+  {
+    "type": "muskel",
+    "region": "Lår",
+    "name": "Adductor longus",
+    "sv": "Adductor longus",
+    "view": "anterior",
+    "image": null
+  },
+  {
+    "type": "muskel",
+    "region": "Lår",
+    "name": "Adductor magnus",
+    "sv": "Adductor magnus",
+    "view": "posterior",
+    "image": null
+  },
+  {
+    "type": "muskel",
+    "region": "Lår",
+    "name": "Gracilis",
+    "sv": "Gracilis",
+    "view": "anterior",
+    "image": null
+  },
+  {
+    "type": "muskel",
+    "region": "Lår",
+    "name": "Biceps femoris",
+    "sv": "Biceps femoris",
+    "view": "posterior",
+    "image": null
+  },
+  {
+    "type": "muskel",
+    "region": "Lår",
+    "name": "Semitendinosus",
+    "sv": "Semitendinosus",
+    "view": "posterior",
+    "image": null
+  },
+  {
+    "type": "muskel",
+    "region": "Lår",
+    "name": "Semimembranosus",
+    "sv": "Semimembranosus",
+    "view": "posterior",
+    "image": null
+  },
+  {
+    "type": "muskel",
+    "region": "Underben",
+    "name": "Gastrocnemius",
+    "sv": "Gastrocnemius",
+    "view": "posterior",
+    "image": null
+  },
+  {
+    "type": "muskel",
+    "region": "Underben",
+    "name": "Soleus",
+    "sv": "Soleus",
+    "view": "posterior",
+    "image": null
+  },
+  {
+    "type": "muskel",
+    "region": "Underben",
+    "name": "Tibialis anterior",
+    "sv": "Tibialis anterior",
+    "view": "anterior",
+    "image": null
+  },
+  {
+    "type": "muskel",
+    "region": "Underben",
+    "name": "Extensor digitorum longus",
+    "sv": "Extensor digitorum longus",
+    "view": "anterior",
+    "image": null
+  },
+  {
+    "type": "muskel",
+    "region": "Underben",
+    "name": "Extensor hallucis longus",
+    "sv": "Extensor hallucis longus",
+    "view": "anterior",
+    "image": null
+  },
+  {
+    "type": "muskel",
+    "region": "Underben",
+    "name": "Fibularis longus",
+    "sv": "Fibularis longus",
+    "view": "lateral",
+    "image": null
+  },
+  {
+    "type": "muskel",
+    "region": "Underben",
+    "name": "Fibularis brevis",
+    "sv": "Fibularis brevis",
+    "view": "lateral",
+    "image": null
+  },
+  {
+    "type": "ben",
+    "region": "Övre extremitet",
+    "name": "Scapula",
+    "sv": "Skulderblad",
+    "view": "posterior",
+    "image": null
+  },
+  {
+    "type": "ben",
+    "region": "Övre extremitet",
+    "name": "Clavicula",
+    "sv": "Nyckelben",
+    "view": "anterior",
+    "image": null
+  },
+  {
+    "type": "ben",
+    "region": "Övre extremitet",
+    "name": "Humerus",
+    "sv": "Överarmsben",
+    "view": "anterior",
+    "image": null
+  },
+  {
+    "type": "ben",
+    "region": "Övre extremitet",
+    "name": "Radius",
+    "sv": "Strålben",
+    "view": "anterior",
+    "image": null
+  },
+  {
+    "type": "ben",
+    "region": "Övre extremitet",
+    "name": "Ulna",
+    "sv": "Armbågsben",
+    "view": "anterior",
+    "image": "assets/ulna.png"
+  },
+  {
+    "type": "ben",
+    "region": "Nedre extremitet",
+    "name": "Femur",
+    "sv": "Lårben",
+    "view": "anterior",
+    "image": null
+  },
+  {
+    "type": "ben",
+    "region": "Nedre extremitet",
+    "name": "Patella",
+    "sv": "Knäskål",
+    "view": "anterior",
+    "image": null
+  },
+  {
+    "type": "ben",
+    "region": "Nedre extremitet",
+    "name": "Tibia",
+    "sv": "Skenben",
+    "view": "anterior",
+    "image": null
+  },
+  {
+    "type": "ben",
+    "region": "Nedre extremitet",
+    "name": "Fibula",
+    "sv": "Vadben",
+    "view": "anterior",
+    "image": null
+  },
+  {
+    "type": "ben",
+    "region": "Fot",
+    "name": "Calcaneus",
+    "sv": "Hälben",
+    "view": "lateral",
+    "image": null
+  },
+  {
+    "type": "landmark",
+    "region": "Ryggrad",
+    "name": "Processus spinosus",
+    "sv": "Taggutskott",
+    "view": "posterior",
+    "image": null
+  },
+  {
+    "type": "landmark",
+    "region": "Ryggrad",
+    "name": "Processus transversus",
+    "sv": "Tvärutskott",
+    "view": "posterior",
+    "image": null
+  },
+  {
+    "type": "landmark",
+    "region": "Ryggrad",
+    "name": "Foramen vertebrale",
+    "sv": "Kothål",
+    "view": "superior",
+    "image": null
+  },
+  {
+    "type": "landmark",
+    "region": "Bäcken",
+    "name": "Crista iliaca",
+    "sv": "Höftbenskammen",
+    "view": "anterior",
+    "image": null
+  },
+  {
+    "type": "landmark",
+    "region": "Bäcken",
+    "name": "SIAS",
+    "sv": "Spina iliaca anterior superior",
+    "view": "anterior",
+    "image": null
+  },
+  {
+    "type": "landmark",
+    "region": "Bäcken",
+    "name": "SIAI",
+    "sv": "Spina iliaca anterior inferior",
+    "view": "anterior",
+    "image": null
+  },
+  {
+    "type": "landmark",
+    "region": "Bäcken",
+    "name": "Tuber ischiadicum",
+    "sv": "Sittbensknölen",
+    "view": "posterior",
+    "image": null
+  },
+  {
+    "type": "landmark",
+    "region": "Bäcken",
+    "name": "Acetabulum",
+    "sv": "Höftledsskålen",
+    "view": "lateral",
+    "image": null
+  },
+  {
+    "type": "landmark",
+    "region": "Femur",
+    "name": "Caput femoris",
+    "sv": "Lårbenshuvudet",
+    "view": "anterior",
+    "image": null
+  },
+  {
+    "type": "landmark",
+    "region": "Femur",
+    "name": "Collum femoris",
+    "sv": "Lårbenshalsen",
+    "view": "anterior",
+    "image": null
+  },
+  {
+    "type": "landmark",
+    "region": "Femur",
+    "name": "Trochanter major",
+    "sv": "Stora trochantern",
+    "view": "lateral",
+    "image": null
+  },
+  {
+    "type": "landmark",
+    "region": "Femur",
+    "name": "Trochanter minor",
+    "sv": "Lilla trochantern",
+    "view": "posterior",
+    "image": null
+  },
+  {
+    "type": "landmark",
+    "region": "Femur",
+    "name": "Linea aspera",
+    "sv": "Sträva linjen",
+    "view": "posterior",
+    "image": null
+  },
+  {
+    "type": "landmark",
+    "region": "Scapula",
+    "name": "Processus coracoideus",
+    "sv": "Korpnäbbsutskott",
+    "view": "anterior",
+    "image": "assets/scapula_coracoid.png"
+  },
+  {
+    "type": "landmark",
+    "region": "Scapula",
+    "name": "Acromion",
+    "sv": "Akromion",
+    "view": "posterior",
+    "image": null
+  },
+  {
+    "type": "landmark",
+    "region": "Scapula",
+    "name": "Spina scapulae",
+    "sv": "Skulderbladskammen",
+    "view": "posterior",
+    "image": null
+  },
+  {
+    "type": "landmark",
+    "region": "Scapula",
+    "name": "Cavitas glenoidalis",
+    "sv": "Ledpannan",
+    "view": "lateral",
+    "image": null
+  },
+  {
+    "type": "landmark",
+    "region": "Scapula",
+    "name": "Fossa subscapularis",
+    "sv": "Subscapularisgropen",
+    "view": "anterior",
+    "image": null
+  },
+  {
+    "type": "landmark",
+    "region": "Scapula",
+    "name": "Fossa supraspinata",
+    "sv": "Supraspinatagropen",
+    "view": "posterior",
+    "image": null
+  },
+  {
+    "type": "landmark",
+    "region": "Scapula",
+    "name": "Fossa infraspinata",
+    "sv": "Infraspinatagropen",
+    "view": "posterior",
+    "image": null
+  },
+  {
+    "type": "landmark",
+    "region": "Humerus",
+    "name": "Tuberculum majus",
+    "sv": "Stora knölen",
+    "view": "anterior",
+    "image": null
+  },
+  {
+    "type": "landmark",
+    "region": "Humerus",
+    "name": "Tuberculum minus",
+    "sv": "Lilla knölen",
+    "view": "anterior",
+    "image": null
+  },
+  {
+    "type": "landmark",
+    "region": "Tibia",
+    "name": "Tuberositas tibiae",
+    "sv": "Skenbensknölen",
+    "view": "anterior",
+    "image": null
+  },
+  {
+    "type": "landmark",
+    "region": "Fibula",
+    "name": "Caput fibulae",
+    "sv": "Fibulahuvudet",
+    "view": "lateral",
+    "image": null
+  },
+  {
+    "type": "landmark",
+    "region": "Fot",
+    "name": "Tuber calcanei",
+    "sv": "Hälbensknölen",
+    "view": "posterior",
+    "image": null
+  }
+]
