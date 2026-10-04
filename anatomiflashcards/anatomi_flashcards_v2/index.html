@@ -1,0 +1,36 @@
+<!doctype html>
+<html lang="sv">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<meta name="theme-color" content="#122844">
+<title>Anatomi Flashcards</title>
+<link rel="stylesheet" href="style.css">
+</head>
+<body><div class="app"><aside><div class="brand">🧠 Anatomi<br>Flashcards</div>
+<nav>
+<button class="active" data-mode="flash">🃏 Flashcards</button>
+<button data-mode="multi">🎯 Flervalsquiz</button>
+<button data-mode="write">⌨️ Skriv svaret</button>
+<button data-mode="review">🔥 Repetition</button>
+<button data-mode="stats">📊 Statistik</button>
+</nav><div class="small">Kategorier</div><div class="cats">
+<button class="catbtn active" data-cat="all">Alla</button>
+<button class="catbtn" data-cat="muskel">💪 Muskler</button>
+<button class="catbtn" data-cat="ben">🦴 Skelett</button>
+<button class="catbtn" data-cat="landmark">📍 Landmärken</button>
+</div><div class="version">Version 2 · deploybar webbapp</div></aside><main>
+<div class="top"><select id="region"><option value="all">Alla regioner</option></select><select id="order"><option value="random">Slumpad ordning</option><option value="name">A–Ö</option></select><span class="pill" id="count"></span><span class="progress" id="prog"></span></div>
+<div id="study"><div class="grid">
+<section class="panel visual" id="visual"></section>
+<section class="panel answer">
+<div id="front"><span class="pill">Framsida</span><h1>Vilken struktur är markerad?</h1><div class="box hidden" id="hintbox"></div></div>
+<div id="back" class="hidden"><span class="pill">Baksida</span><h1 id="name"></h1><h2 id="sv"></h2><div class="box"><b>🧠 Minnestips</b><br><span id="mn"></span></div><div class="box"><b>📚 Kursinfo</b><br><span id="info"></span></div></div>
+<div id="multi" class="hidden"><h1>Välj rätt namn</h1><div class="quizopts" id="opts"></div></div>
+<div id="write" class="hidden"><h1>Skriv namnet</h1><div class="write"><input id="writein" autocomplete="off" placeholder="t.ex. gluteus medius"><button class="primary" id="check">Rätta</button></div><div class="box hidden" id="feedback"></div></div>
+</section></div>
+<div class="controls" id="controls"><button class="primary" id="flip">↻ Vänd kort</button><button class="bad" data-score="bad">✕ Kunde inte</button><button class="mid" data-score="mid">? Nästan</button><button class="good" data-score="good">✓ Kunde</button><button class="hint" id="hint">💡 Visa ledtråd</button></div></div>
+<div id="statsview" class="hidden"><h1>Din statistik</h1><div class="stats" id="statboxes"></div><p class="note">Progress sparas lokalt i den här webbläsaren.</p></div>
+<p class="note">Innehållet bygger på dina uppladdade kursdokument. Illustrationerna i denna version är nyritade schematiska studieillustrationer och kopierar inte kursbilderna. För exakta små landmärken är kursens benämningar styrande.</p>
+</main></div>
+<script src="app.js"></script></body></html>
