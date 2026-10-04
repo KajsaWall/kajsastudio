@@ -1,0 +1,22 @@
+GRUNDMEDICIN – BLOCK 1
+
+INSTALLATION PÅ DIN DOMÄN
+1. Packa upp ZIP-filen på datorn.
+2. Ladda upp innehållet till webbhotellets public_html, www eller motsvarande webbrot.
+   index.html ska ligga direkt i den mapp som adressen pekar på.
+   Du kan också lägga innehållet i en undermapp, till exempel /studieapp/.
+3. Behåll mappstrukturen: pages och figures måste följa med.
+4. Öppna adressen i din webbläsare. Appen kräver ingen databas, PHP eller installation.
+
+ANVÄNDNING
+Öppna appen via webbhotellet, inte genom att dubbelklicka på index.html lokalt.
+Lektioner, kort, prov, beskurna bokfigurer, uppläsning och milstolpar ingår.
+Uppläsningen använder enhetens svenska röster och kan variera mellan enheter.
+
+DINA FRAMSTEG
+Framsteg sparas i den webbläsare och på den domän där du använder appen.
+Tidigare framsteg på ChatGPT-adressen flyttas inte automatiskt till din domän.
+
+PRIVAT ANVÄNDNING
+Appen har ingen egen inloggning. Använd webbhotellets lösenordsskydd om du vill
+att endast du ska kunna öppna den. Kursmaterialet är avsett för dina egna studier.
