@@ -1,0 +1,947 @@
+[
+  {
+    "id": "1",
+    "card": "M. latissimus dorsi",
+    "status": "READY_STANDALONE",
+    "image_file": "images/103_m_latissimus_dorsi.png",
+    "notes": "Standalone anatomy crop; no app UI."
+  },
+  {
+    "id": "2",
+    "card": "Mm. erector spinae",
+    "status": "READY_STANDALONE",
+    "image_file": "images/002_mm_erector_spinae.png",
+    "notes": "Standalone crop from labeled anatomy atlas batch; caption removed."
+  },
+  {
+    "id": "3",
+    "card": "M. transversospinalis",
+    "status": "READY_STANDALONE",
+    "image_file": "images/003_m_transversospinalis.png",
+    "notes": "Standalone crop from labeled anatomy atlas batch; caption removed."
+  },
+  {
+    "id": "4",
+    "card": "Korta vertikala ryggmusklerna",
+    "status": "READY_STANDALONE",
+    "image_file": "images/004_korta_vertikala_ryggmusklerna.png",
+    "notes": "Derived from anatomically relevant atlas panel; red overlay isolates target region."
+  },
+  {
+    "id": "5",
+    "card": "Korta nackmusklerna",
+    "status": "READY_STANDALONE",
+    "image_file": "images/005_korta_nackmusklerna.png",
+    "notes": "Representative/exact labeled anatomy panel; caption removed."
+  },
+  {
+    "id": "6",
+    "card": "M. serratus posterior superior",
+    "status": "READY_STANDALONE",
+    "image_file": "images/006_m_serratus_posterior_superior.png",
+    "notes": "Derived from anatomically relevant atlas panel; red overlay isolates target region."
+  },
+  {
+    "id": "7",
+    "card": "M. serratus posterior inferior",
+    "status": "READY_STANDALONE",
+    "image_file": "images/007_m_serratus_posterior_inferior.png",
+    "notes": "Derived from anatomically relevant atlas panel; red overlay isolates target region."
+  },
+  {
+    "id": "8",
+    "card": "M. intercostalis externus",
+    "status": "READY_STANDALONE",
+    "image_file": "images/008_m_intercostalis_externus.png",
+    "notes": "Standalone crop from labeled anatomy atlas batch; caption removed."
+  },
+  {
+    "id": "9",
+    "card": "M. intercostalis internus",
+    "status": "READY_STANDALONE",
+    "image_file": "images/009_m_intercostalis_internus.png",
+    "notes": "Standalone crop from labeled anatomy atlas batch; caption removed."
+  },
+  {
+    "id": "10",
+    "card": "M. quadratus lumborum",
+    "status": "READY_STANDALONE",
+    "image_file": "images/010_m_quadratus_lumborum.png",
+    "notes": "Standalone anatomy crop from targeted labeled atlas; caption removed."
+  },
+  {
+    "id": "11",
+    "card": "M. iliopsoas",
+    "status": "READY_STANDALONE",
+    "image_file": "images/011_m_iliopsoas.png",
+    "notes": "Standalone anatomy crop from targeted labeled atlas; caption removed."
+  },
+  {
+    "id": "12",
+    "card": "M. psoas major",
+    "status": "READY_STANDALONE",
+    "image_file": "images/012_m_psoas_major.png",
+    "notes": "Derived from anatomically relevant atlas panel; red overlay isolates target region."
+  },
+  {
+    "id": "13",
+    "card": "M. iliacus",
+    "status": "READY_STANDALONE",
+    "image_file": "images/013_m_iliacus.png",
+    "notes": "Derived from anatomically relevant atlas panel; red overlay isolates target region."
+  },
+  {
+    "id": "14",
+    "card": "M. pectoralis major",
+    "status": "READY_STANDALONE",
+    "image_file": "images/100_m_pectoralis_major.png",
+    "notes": "Standalone anatomy crop; no app UI."
+  },
+  {
+    "id": "15",
+    "card": "M. pectoralis minor",
+    "status": "READY_STANDALONE",
+    "image_file": "images/101_m_pectoralis_minor.png",
+    "notes": "Standalone anatomy crop; no app UI."
+  },
+  {
+    "id": "16",
+    "card": "M. subclavius",
+    "status": "READY_STANDALONE",
+    "image_file": "images/016_m_subclavius.png",
+    "notes": "Derived from anatomically relevant atlas panel; red overlay isolates target region."
+  },
+  {
+    "id": "17",
+    "card": "M. serratus anterior",
+    "status": "READY_STANDALONE",
+    "image_file": "images/102_m_serratus_anterior.png",
+    "notes": "Standalone anatomy crop; no app UI."
+  },
+  {
+    "id": "18",
+    "card": "M. rectus abdominis",
+    "status": "READY_STANDALONE",
+    "image_file": "images/162_m_rectus_abdominis.png",
+    "notes": "Standalone anatomy crop; no app UI."
+  },
+  {
+    "id": "19",
+    "card": "M. obliquus externus abdominis",
+    "status": "READY_STANDALONE",
+    "image_file": "images/163_m_obliquus_externus_abdominis.png",
+    "notes": "Standalone anatomy crop; no app UI."
+  },
+  {
+    "id": "20",
+    "card": "M. obliquus internus abdominis",
+    "status": "READY_STANDALONE",
+    "image_file": "images/020_m_obliquus_internus_abdominis.png",
+    "notes": "Standalone anatomy crop from targeted labeled atlas; caption removed."
+  },
+  {
+    "id": "21",
+    "card": "M. transversus abdominis",
+    "status": "READY_STANDALONE",
+    "image_file": "images/021_m_transversus_abdominis.png",
+    "notes": "Standalone anatomy crop from targeted labeled atlas; caption removed."
+  },
+  {
+    "id": "22",
+    "card": "Diafragma",
+    "status": "READY_STANDALONE",
+    "image_file": "images/022_diafragma.png",
+    "notes": "Standalone crop from labeled anatomy atlas batch; caption removed."
+  },
+  {
+    "id": "23",
+    "card": "M. gluteus maximus",
+    "status": "READY_STANDALONE",
+    "image_file": "images/138_m_gluteus_maximus.png",
+    "notes": "Standalone anatomy crop; no app UI."
+  },
+  {
+    "id": "24",
+    "card": "M. gluteus medius",
+    "status": "READY_STANDALONE",
+    "image_file": "images/139_m_gluteus_medius.png",
+    "notes": "Standalone anatomy crop; no app UI."
+  },
+  {
+    "id": "25",
+    "card": "M. gluteus minimus",
+    "status": "READY_STANDALONE",
+    "image_file": "images/140_m_gluteus_minimus.png",
+    "notes": "Standalone anatomy crop; no app UI."
+  },
+  {
+    "id": "26",
+    "card": "M. tensor fasciae latae",
+    "status": "READY_STANDALONE",
+    "image_file": "images/142_m_tensor_fasciae_latae.png",
+    "notes": "Standalone anatomy crop; no app UI."
+  },
+  {
+    "id": "27",
+    "card": "M. piriformis",
+    "status": "READY_STANDALONE",
+    "image_file": "images/141_m_piriformis.png",
+    "notes": "Standalone anatomy crop; no app UI."
+  },
+  {
+    "id": "28",
+    "card": "M. gemellus superior",
+    "status": "READY_STANDALONE",
+    "image_file": "images/028_m_gemellus_superior.png",
+    "notes": "Standalone anatomy crop from targeted labeled atlas; caption removed."
+  },
+  {
+    "id": "29",
+    "card": "M. gemellus inferior",
+    "status": "READY_STANDALONE",
+    "image_file": "images/029_m_gemellus_inferior.png",
+    "notes": "Standalone anatomy crop from targeted labeled atlas; caption removed."
+  },
+  {
+    "id": "30",
+    "card": "M. quadratus femoris",
+    "status": "READY_STANDALONE",
+    "image_file": "images/030_m_quadratus_femoris.png",
+    "notes": "Standalone anatomy crop from targeted labeled atlas; caption removed."
+  },
+  {
+    "id": "31",
+    "card": "M. obturatorius",
+    "status": "READY_STANDALONE",
+    "image_file": "images/031_m_obturatorius.png",
+    "notes": "Representative/exact labeled anatomy panel; caption removed."
+  },
+  {
+    "id": "32",
+    "card": "M. sartorius",
+    "status": "READY_STANDALONE",
+    "image_file": "images/143_m_sartorius.png",
+    "notes": "Standalone anatomy crop; no app UI."
+  },
+  {
+    "id": "33",
+    "card": "M. quadriceps femoris",
+    "status": "READY_STANDALONE",
+    "image_file": "images/033_m_quadriceps_femoris.png",
+    "notes": "Standalone crop from labeled anatomy atlas batch; caption removed."
+  },
+  {
+    "id": "34",
+    "card": "M. rectus femoris",
+    "status": "READY_STANDALONE",
+    "image_file": "images/144_m_rectus_femoris.png",
+    "notes": "Standalone anatomy crop; no app UI."
+  },
+  {
+    "id": "35",
+    "card": "M. vastus medialis",
+    "status": "READY_STANDALONE",
+    "image_file": "images/146_m_vastus_medialis.png",
+    "notes": "Standalone anatomy crop; no app UI."
+  },
+  {
+    "id": "36",
+    "card": "M. vastus lateralis",
+    "status": "READY_STANDALONE",
+    "image_file": "images/145_m_vastus_lateralis.png",
+    "notes": "Standalone anatomy crop; no app UI."
+  },
+  {
+    "id": "37",
+    "card": "M. vastus intermedius",
+    "status": "READY_STANDALONE",
+    "image_file": "images/147_m_vastus_intermedius.png",
+    "notes": "Standalone anatomy crop; no app UI."
+  },
+  {
+    "id": "38",
+    "card": "M. pectineus",
+    "status": "READY_STANDALONE",
+    "image_file": "images/038_m_pectineus.png",
+    "notes": "Derived from anatomically relevant atlas panel; red overlay isolates target region."
+  },
+  {
+    "id": "39",
+    "card": "M. adductor brevis",
+    "status": "READY_STANDALONE",
+    "image_file": "images/152_m_adductor_brevis.png",
+    "notes": "Standalone anatomy crop; no app UI."
+  },
+  {
+    "id": "40",
+    "card": "M. adductor longus",
+    "status": "READY_STANDALONE",
+    "image_file": "images/151_m_adductor_longus.png",
+    "notes": "Standalone anatomy crop; no app UI."
+  },
+  {
+    "id": "41",
+    "card": "M. adductor magnus",
+    "status": "READY_STANDALONE",
+    "image_file": "images/153_m_adductor_magnus.png",
+    "notes": "Standalone anatomy crop; no app UI."
+  },
+  {
+    "id": "42",
+    "card": "M. gracilis",
+    "status": "READY_STANDALONE",
+    "image_file": "images/154_m_gracilis.png",
+    "notes": "Standalone anatomy crop; no app UI."
+  },
+  {
+    "id": "43",
+    "card": "Hamstrings / Mm. ischiocrurales",
+    "status": "READY_STANDALONE",
+    "image_file": "images/043_hamstrings_mm_ischiocrurales.png",
+    "notes": "Standalone crop from labeled anatomy atlas batch; caption removed."
+  },
+  {
+    "id": "44",
+    "card": "M. biceps femoris",
+    "status": "READY_STANDALONE",
+    "image_file": "images/148_m_biceps_femoris.png",
+    "notes": "Standalone anatomy crop; no app UI."
+  },
+  {
+    "id": "45",
+    "card": "Caput longum m. biceps femoris",
+    "status": "READY_STANDALONE",
+    "image_file": "images/045_caput_longum_m_biceps_femoris.png",
+    "notes": "Standalone anatomy crop from targeted labeled atlas; caption removed."
+  },
+  {
+    "id": "46",
+    "card": "Caput breve m. biceps femoris",
+    "status": "READY_STANDALONE",
+    "image_file": "images/046_caput_breve_m_biceps_femoris.png",
+    "notes": "Standalone anatomy crop from targeted labeled atlas; caption removed."
+  },
+  {
+    "id": "47",
+    "card": "M. semitendinosus",
+    "status": "READY_STANDALONE",
+    "image_file": "images/149_m_semitendinosus.png",
+    "notes": "Standalone anatomy crop; no app UI."
+  },
+  {
+    "id": "48",
+    "card": "M. semimembranosus",
+    "status": "READY_STANDALONE",
+    "image_file": "images/150_m_semimembranosus.png",
+    "notes": "Standalone anatomy crop; no app UI."
+  },
+  {
+    "id": "49",
+    "card": "M. triceps surae",
+    "status": "READY_STANDALONE",
+    "image_file": "images/049_m_triceps_surae.png",
+    "notes": "Derived from anatomically relevant atlas panel; red overlay isolates target region."
+  },
+  {
+    "id": "50",
+    "card": "M. gastrocnemius",
+    "status": "READY_STANDALONE",
+    "image_file": "images/158_m_gastrocnemius.png",
+    "notes": "Standalone anatomy crop; no app UI."
+  },
+  {
+    "id": "51",
+    "card": "Caput mediale m. gastrocnemius",
+    "status": "READY_STANDALONE",
+    "image_file": "images/051_caput_mediale_m_gastrocnemius.png",
+    "notes": "Derived from anatomically relevant atlas panel; red overlay isolates target region."
+  },
+  {
+    "id": "52",
+    "card": "Caput laterale m. gastrocnemius",
+    "status": "READY_STANDALONE",
+    "image_file": "images/052_caput_laterale_m_gastrocnemius.png",
+    "notes": "Derived from anatomically relevant atlas panel; red overlay isolates target region."
+  },
+  {
+    "id": "53",
+    "card": "M. soleus",
+    "status": "READY_STANDALONE",
+    "image_file": "images/053_m_soleus.png",
+    "notes": "Standalone crop from labeled anatomy atlas batch; caption removed."
+  },
+  {
+    "id": "54",
+    "card": "M. plantaris",
+    "status": "READY_STANDALONE",
+    "image_file": "images/054_m_plantaris.png",
+    "notes": "Standalone crop from labeled anatomy atlas batch; caption removed."
+  },
+  {
+    "id": "55",
+    "card": "M. popliteus",
+    "status": "READY_STANDALONE",
+    "image_file": "images/055_m_popliteus.png",
+    "notes": "Standalone anatomy crop from targeted atlas; caption removed."
+  },
+  {
+    "id": "56",
+    "card": "M. tibialis posterior",
+    "status": "READY_STANDALONE",
+    "image_file": "images/056_m_tibialis_posterior.png",
+    "notes": "Standalone anatomy crop from targeted atlas; caption removed."
+  },
+  {
+    "id": "57",
+    "card": "M. flexor digitorum longus",
+    "status": "READY_STANDALONE",
+    "image_file": "images/057_m_flexor_digitorum_longus.png",
+    "notes": "Standalone anatomy crop from targeted atlas; caption removed."
+  },
+  {
+    "id": "58",
+    "card": "M. flexor hallucis longus",
+    "status": "READY_STANDALONE",
+    "image_file": "images/058_m_flexor_hallucis_longus.png",
+    "notes": "Standalone anatomy crop from targeted atlas; caption removed."
+  },
+  {
+    "id": "59",
+    "card": "M. tibialis anterior",
+    "status": "READY_STANDALONE",
+    "image_file": "images/155_m_tibialis_anterior.png",
+    "notes": "Standalone anatomy crop; no app UI."
+  },
+  {
+    "id": "60",
+    "card": "M. extensor digitorum longus",
+    "status": "READY_STANDALONE",
+    "image_file": "images/157_m_extensor_digitorum_longus.png",
+    "notes": "Standalone anatomy crop; no app UI."
+  },
+  {
+    "id": "61",
+    "card": "M. extensor hallucis longus",
+    "status": "READY_STANDALONE",
+    "image_file": "images/156_m_extensor_hallucis_longus.png",
+    "notes": "Standalone anatomy crop; no app UI."
+  },
+  {
+    "id": "62",
+    "card": "M. fibularis/peroneus tertius",
+    "status": "READY_STANDALONE",
+    "image_file": "images/062_m_fibularis_peroneus_tertius.png",
+    "notes": "Derived from anatomically relevant atlas panel; red overlay isolates target region."
+  },
+  {
+    "id": "63",
+    "card": "M. fibularis/peroneus longus",
+    "status": "READY_STANDALONE",
+    "image_file": "images/063_m_fibularis_peroneus_longus.png",
+    "notes": "Standalone crop from labeled anatomy atlas batch; caption removed."
+  },
+  {
+    "id": "64",
+    "card": "M. fibularis/peroneus brevis",
+    "status": "READY_STANDALONE",
+    "image_file": "images/064_m_fibularis_peroneus_brevis.png",
+    "notes": "Standalone crop from labeled anatomy atlas batch; caption removed."
+  },
+  {
+    "id": "65",
+    "card": "Columna vertebralis",
+    "status": "READY_STANDALONE",
+    "image_file": "images/115_columna_vertebralis.png",
+    "notes": "Standalone anatomy crop; no app UI."
+  },
+  {
+    "id": "66",
+    "card": "Columna cervicalis",
+    "status": "READY_STANDALONE",
+    "image_file": "images/121_columna_cervicalis.png",
+    "notes": "Standalone anatomy crop; no app UI."
+  },
+  {
+    "id": "67",
+    "card": "Columna thoracalis",
+    "status": "READY_STANDALONE",
+    "image_file": "images/122_columna_thoracalis.png",
+    "notes": "Standalone anatomy crop; no app UI."
+  },
+  {
+    "id": "68",
+    "card": "Columna lumbalis",
+    "status": "READY_STANDALONE",
+    "image_file": "images/123_columna_lumbalis.png",
+    "notes": "Standalone anatomy crop; no app UI."
+  },
+  {
+    "id": "69",
+    "card": "Os sacrum",
+    "status": "READY_STANDALONE",
+    "image_file": "images/119_os_sacrum.png",
+    "notes": "Standalone anatomy crop; no app UI."
+  },
+  {
+    "id": "70",
+    "card": "Os coccygis",
+    "status": "READY_STANDALONE",
+    "image_file": "images/120_os_coccygis.png",
+    "notes": "Standalone anatomy crop; no app UI."
+  },
+  {
+    "id": "71",
+    "card": "Costa / costae",
+    "status": "READY_STANDALONE",
+    "image_file": "images/114_costa_costae.png",
+    "notes": "Standalone anatomy crop; no app UI."
+  },
+  {
+    "id": "72",
+    "card": "Sternum",
+    "status": "READY_STANDALONE",
+    "image_file": "images/113_sternum.png",
+    "notes": "Standalone anatomy crop; no app UI."
+  },
+  {
+    "id": "73",
+    "card": "Clavicula",
+    "status": "READY_STANDALONE",
+    "image_file": "images/008_clavicula.png",
+    "notes": "Standalone anatomy crop; no app UI."
+  },
+  {
+    "id": "74",
+    "card": "Scapula",
+    "status": "READY_STANDALONE",
+    "image_file": "images/001_scapula.png",
+    "notes": "Standalone anatomy crop; no app UI."
+  },
+  {
+    "id": "75",
+    "card": "Humerus",
+    "status": "READY_STANDALONE",
+    "image_file": "images/009_humerus.png",
+    "notes": "Standalone anatomy crop; no app UI."
+  },
+  {
+    "id": "76",
+    "card": "Radius",
+    "status": "READY_STANDALONE",
+    "image_file": "images/019_radius.png",
+    "notes": "Standalone anatomy crop; no app UI."
+  },
+  {
+    "id": "77",
+    "card": "Ulna",
+    "status": "READY_STANDALONE",
+    "image_file": "images/020_ulna.png",
+    "notes": "Standalone anatomy crop; no app UI."
+  },
+  {
+    "id": "78",
+    "card": "Pelvis / höftben",
+    "status": "READY_STANDALONE",
+    "image_file": "images/128_pelvis_höftben.png",
+    "notes": "Standalone anatomy crop; no app UI."
+  },
+  {
+    "id": "79",
+    "card": "Femur",
+    "status": "READY_STANDALONE",
+    "image_file": "images/046_femur.png",
+    "notes": "Standalone anatomy crop; no app UI."
+  },
+  {
+    "id": "80",
+    "card": "Patella",
+    "status": "READY_STANDALONE",
+    "image_file": "images/054_patella.png",
+    "notes": "Standalone anatomy crop; no app UI."
+  },
+  {
+    "id": "81",
+    "card": "Tibia",
+    "status": "READY_STANDALONE",
+    "image_file": "images/081_tibia.png",
+    "notes": "Bone highlighted on anatomical regional plate; caption removed."
+  },
+  {
+    "id": "82",
+    "card": "Fibula",
+    "status": "READY_STANDALONE",
+    "image_file": "images/082_fibula.png",
+    "notes": "Bone highlighted on anatomical regional plate; caption removed."
+  },
+  {
+    "id": "83",
+    "card": "Tarsus / fotrotsben",
+    "status": "READY_STANDALONE",
+    "image_file": "images/159_tarsus_fotrotsben.png",
+    "notes": "Standalone anatomy crop; no app UI."
+  },
+  {
+    "id": "84",
+    "card": "Metatarsus / mellanfotsben",
+    "status": "READY_STANDALONE",
+    "image_file": "images/160_metatarsus_mellanfotsben.png",
+    "notes": "Standalone anatomy crop; no app UI."
+  },
+  {
+    "id": "85",
+    "card": "Ossa digitorum pedis / tåfalanger",
+    "status": "READY_STANDALONE",
+    "image_file": "images/161_ossa_digitorum_pedis_tåfalanger.png",
+    "notes": "Standalone anatomy crop; no app UI."
+  },
+  {
+    "id": "86",
+    "card": "Calcaneus",
+    "status": "READY_STANDALONE",
+    "image_file": "images/086_calcaneus.png",
+    "notes": "Bone highlighted on anatomical regional plate; caption removed."
+  },
+  {
+    "id": "87",
+    "card": "Talus",
+    "status": "READY_STANDALONE",
+    "image_file": "images/087_talus.png",
+    "notes": "Bone highlighted on anatomical regional plate; caption removed."
+  },
+  {
+    "id": "88",
+    "card": "Os naviculare",
+    "status": "READY_STANDALONE",
+    "image_file": "images/088_os_naviculare.png",
+    "notes": "Bone highlighted on anatomical regional plate; caption removed."
+  },
+  {
+    "id": "89",
+    "card": "Os cuboideum",
+    "status": "READY_STANDALONE",
+    "image_file": "images/089_os_cuboideum.png",
+    "notes": "Bone highlighted on anatomical regional plate; caption removed."
+  },
+  {
+    "id": "90",
+    "card": "Ossa cuneiformia",
+    "status": "READY_STANDALONE",
+    "image_file": "images/090_ossa_cuneiformia.png",
+    "notes": "Bone highlighted on anatomical regional plate; caption removed."
+  },
+  {
+    "id": "91",
+    "card": "Ossa carpi / handlovsben",
+    "status": "READY_STANDALONE",
+    "image_file": "images/110_ossa_carpi_handlovsben.png",
+    "notes": "Standalone anatomy crop; no app UI."
+  },
+  {
+    "id": "92",
+    "card": "Ossa metacarpalia / mellanhandsben",
+    "status": "READY_STANDALONE",
+    "image_file": "images/111_ossa_metacarpalia_mellanhandsben.png",
+    "notes": "Standalone anatomy crop; no app UI."
+  },
+  {
+    "id": "93",
+    "card": "Phalanges manus / fingerfalanger",
+    "status": "READY_STANDALONE",
+    "image_file": "images/112_phalanges_manus_fingerfalanger.png",
+    "notes": "Standalone anatomy crop; no app UI."
+  },
+  {
+    "id": "94",
+    "card": "Corpus vertebrae",
+    "status": "READY_STANDALONE",
+    "image_file": "images/126_corpus_vertebrae.png",
+    "notes": "Standalone anatomy crop; no app UI."
+  },
+  {
+    "id": "95",
+    "card": "Processus spinosus",
+    "status": "READY_STANDALONE",
+    "image_file": "images/124_processus_spinosus.png",
+    "notes": "Standalone anatomy crop; no app UI."
+  },
+  {
+    "id": "96",
+    "card": "Processus transversus",
+    "status": "READY_STANDALONE",
+    "image_file": "images/125_processus_transversus.png",
+    "notes": "Standalone anatomy crop; no app UI."
+  },
+  {
+    "id": "97",
+    "card": "Foramen vertebrale",
+    "status": "READY_STANDALONE",
+    "image_file": "images/127_foramen_vertebrale.png",
+    "notes": "Standalone anatomy crop; no app UI."
+  },
+  {
+    "id": "98",
+    "card": "Processus articularis superior",
+    "status": "READY_STANDALONE",
+    "image_file": "images/098_processus_articularis_superior.png",
+    "notes": "Landmark localized on vertebral anatomy plate with red target overlay."
+  },
+  {
+    "id": "99",
+    "card": "Processus articularis inferior",
+    "status": "READY_STANDALONE",
+    "image_file": "images/099_processus_articularis_inferior.png",
+    "notes": "Landmark localized on vertebral anatomy plate with red target overlay."
+  },
+  {
+    "id": "100",
+    "card": "Crista iliaca",
+    "status": "READY_STANDALONE",
+    "image_file": "images/100_crista_iliaca.png",
+    "notes": "Pelvic landmark localized on anterior/posterior pelvic plate with red target overlay."
+  },
+  {
+    "id": "101",
+    "card": "SIAS – Spina iliaca anterior superior",
+    "status": "READY_STANDALONE",
+    "image_file": "images/101_sias_spina_iliaca_anterior_superior.png",
+    "notes": "Pelvic landmark localized on anterior/posterior pelvic plate with red target overlay."
+  },
+  {
+    "id": "102",
+    "card": "SIAI – Spina iliaca anterior inferior",
+    "status": "READY_STANDALONE",
+    "image_file": "images/102_siai_spina_iliaca_anterior_inferior.png",
+    "notes": "Pelvic landmark localized on anterior/posterior pelvic plate with red target overlay."
+  },
+  {
+    "id": "103",
+    "card": "SIPS – Spina iliaca posterior superior",
+    "status": "READY_STANDALONE",
+    "image_file": "images/103_sips_spina_iliaca_posterior_superior.png",
+    "notes": "Pelvic landmark localized on anterior/posterior pelvic plate with red target overlay."
+  },
+  {
+    "id": "104",
+    "card": "SIPI – Spina iliaca posterior inferior",
+    "status": "READY_STANDALONE",
+    "image_file": "images/104_sipi_spina_iliaca_posterior_inferior.png",
+    "notes": "Pelvic landmark localized on anterior/posterior pelvic plate with red target overlay."
+  },
+  {
+    "id": "105",
+    "card": "Acetabulum",
+    "status": "READY_STANDALONE",
+    "image_file": "images/041_acetabulum.png",
+    "notes": "Standalone anatomy crop; no app UI."
+  },
+  {
+    "id": "106",
+    "card": "Fossa iliaca",
+    "status": "READY_STANDALONE",
+    "image_file": "images/106_fossa_iliaca.png",
+    "notes": "Pelvic landmark localized on anterior/posterior pelvic plate with red target overlay."
+  },
+  {
+    "id": "107",
+    "card": "Tuber ischiadicum",
+    "status": "READY_STANDALONE",
+    "image_file": "images/107_tuber_ischiadicum.png",
+    "notes": "Pelvic landmark localized on anterior/posterior pelvic plate with red target overlay."
+  },
+  {
+    "id": "108",
+    "card": "Facies glutea",
+    "status": "READY_STANDALONE",
+    "image_file": "images/108_facies_glutea.png",
+    "notes": "Pelvic landmark localized on anterior/posterior pelvic plate with red target overlay."
+  },
+  {
+    "id": "109",
+    "card": "Caput femoris",
+    "status": "READY_STANDALONE",
+    "image_file": "images/129_caput_femoris.png",
+    "notes": "Standalone anatomy crop; no app UI."
+  },
+  {
+    "id": "110",
+    "card": "Collum femoris",
+    "status": "READY_STANDALONE",
+    "image_file": "images/130_collum_femoris.png",
+    "notes": "Standalone anatomy crop; no app UI."
+  },
+  {
+    "id": "111",
+    "card": "Trochanter major",
+    "status": "READY_STANDALONE",
+    "image_file": "images/131_trochanter_major.png",
+    "notes": "Standalone anatomy crop; no app UI."
+  },
+  {
+    "id": "112",
+    "card": "Trochanter minor",
+    "status": "READY_STANDALONE",
+    "image_file": "images/132_trochanter_minor.png",
+    "notes": "Standalone anatomy crop; no app UI."
+  },
+  {
+    "id": "113",
+    "card": "Linea aspera",
+    "status": "READY_STANDALONE",
+    "image_file": "images/133_linea_aspera.png",
+    "notes": "Standalone anatomy crop; no app UI."
+  },
+  {
+    "id": "114",
+    "card": "Condylus medialis femoris",
+    "status": "READY_STANDALONE",
+    "image_file": "images/136_condylus_medialis_femoris.png",
+    "notes": "Standalone anatomy crop; no app UI."
+  },
+  {
+    "id": "115",
+    "card": "Condylus lateralis femoris",
+    "status": "READY_STANDALONE",
+    "image_file": "images/137_condylus_lateralis_femoris.png",
+    "notes": "Standalone anatomy crop; no app UI."
+  },
+  {
+    "id": "116",
+    "card": "Epicondylus medialis femoris",
+    "status": "READY_STANDALONE",
+    "image_file": "images/134_epicondylus_medialis_femoris.png",
+    "notes": "Standalone anatomy crop; no app UI."
+  },
+  {
+    "id": "117",
+    "card": "Epicondylus lateralis femoris",
+    "status": "READY_STANDALONE",
+    "image_file": "images/135_epicondylus_lateralis_femoris.png",
+    "notes": "Standalone anatomy crop; no app UI."
+  },
+  {
+    "id": "118",
+    "card": "Acromion",
+    "status": "READY_STANDALONE",
+    "image_file": "images/105_acromion.png",
+    "notes": "Standalone anatomy crop; no app UI."
+  },
+  {
+    "id": "119",
+    "card": "Processus coracoideus",
+    "status": "READY_STANDALONE",
+    "image_file": "images/106_processus_coracoideus.png",
+    "notes": "Standalone anatomy crop; no app UI."
+  },
+  {
+    "id": "120",
+    "card": "Cavitas glenoidalis",
+    "status": "READY_STANDALONE",
+    "image_file": "images/107_cavitas_glenoidalis.png",
+    "notes": "Standalone anatomy crop; no app UI."
+  },
+  {
+    "id": "121",
+    "card": "Spina scapulae",
+    "status": "READY_STANDALONE",
+    "image_file": "images/104_spina_scapulae.png",
+    "notes": "Standalone anatomy crop; no app UI."
+  },
+  {
+    "id": "122",
+    "card": "Fossa supraspinata",
+    "status": "READY_STANDALONE",
+    "image_file": "images/108_fossa_supraspinata.png",
+    "notes": "Standalone anatomy crop; no app UI."
+  },
+  {
+    "id": "123",
+    "card": "Fossa infraspinata",
+    "status": "READY_STANDALONE",
+    "image_file": "images/109_fossa_infraspinata.png",
+    "notes": "Standalone anatomy crop; no app UI."
+  },
+  {
+    "id": "124",
+    "card": "Fossa subscapularis",
+    "status": "READY_STANDALONE",
+    "image_file": "images/124_fossa_subscapularis.png",
+    "notes": "Scapular landmark localized on scapula plate with red target overlay."
+  },
+  {
+    "id": "125",
+    "card": "Margo medialis scapulae",
+    "status": "READY_STANDALONE",
+    "image_file": "images/125_margo_medialis_scapulae.png",
+    "notes": "Scapular landmark localized on scapula plate with red target overlay."
+  },
+  {
+    "id": "126",
+    "card": "Angulus superior",
+    "status": "READY_STANDALONE",
+    "image_file": "images/126_angulus_superior.png",
+    "notes": "Scapular landmark localized on scapula plate with red target overlay."
+  },
+  {
+    "id": "127",
+    "card": "Angulus inferior",
+    "status": "READY_STANDALONE",
+    "image_file": "images/127_angulus_inferior.png",
+    "notes": "Scapular landmark localized on scapula plate with red target overlay."
+  },
+  {
+    "id": "128",
+    "card": "Caput humeri",
+    "status": "READY_STANDALONE",
+    "image_file": "images/010_caput_humeri.png",
+    "notes": "Standalone anatomy crop; no app UI."
+  },
+  {
+    "id": "129",
+    "card": "Tuberculum majus",
+    "status": "READY_STANDALONE",
+    "image_file": "images/013_tuberculum_majus.png",
+    "notes": "Standalone anatomy crop; no app UI."
+  },
+  {
+    "id": "130",
+    "card": "Tuberculum minus",
+    "status": "READY_STANDALONE",
+    "image_file": "images/014_tuberculum_minus.png",
+    "notes": "Standalone anatomy crop; no app UI."
+  },
+  {
+    "id": "131",
+    "card": "Tuberositas tibiae",
+    "status": "READY_STANDALONE",
+    "image_file": "images/131_tuberositas_tibiae.png",
+    "notes": "Lower-limb landmark localized on regional anatomy plate with red target overlay."
+  },
+  {
+    "id": "132",
+    "card": "Condylus medialis tibiae",
+    "status": "READY_STANDALONE",
+    "image_file": "images/132_condylus_medialis_tibiae.png",
+    "notes": "Lower-limb landmark localized on regional anatomy plate with red target overlay."
+  },
+  {
+    "id": "133",
+    "card": "Condylus lateralis tibiae",
+    "status": "READY_STANDALONE",
+    "image_file": "images/133_condylus_lateralis_tibiae.png",
+    "notes": "Lower-limb landmark localized on regional anatomy plate with red target overlay."
+  },
+  {
+    "id": "134",
+    "card": "Caput fibulae",
+    "status": "READY_STANDALONE",
+    "image_file": "images/134_caput_fibulae.png",
+    "notes": "Lower-limb landmark localized on regional anatomy plate with red target overlay."
+  },
+  {
+    "id": "135",
+    "card": "Tuber calcanei",
+    "status": "READY_STANDALONE",
+    "image_file": "images/135_tuber_calcanei.png",
+    "notes": "Lower-limb landmark localized on regional anatomy plate with red target overlay."
+  }
+]

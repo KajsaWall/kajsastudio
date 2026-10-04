@@ -1,0 +1,23 @@
+ANATOMI BILDBANK – KÄLLOR OCH LICENSNOTERINGAR
+
+GENERERADE ARBETSBILDER
+- images/: fristående anatomibilder utklippta från atlasark genererade specifikt för detta projekt.
+- reference/approved_style_reference.png: stilreferens; ska inte användas som flashcard.
+- Inga appskärmdumpar används som kortbilder.
+
+VERIFIERADE EXTERNA KÄLLOR FÖR FORTSATT/ERSÄTTANDE MATERIAL
+Wikimedia Commons – Gray's Anatomy / Public Domain:
+- Radius and Ulna: https://commons.wikimedia.org/wiki/File:Radius_and_Ulna.jpg
+- Femur: https://commons.wikimedia.org/wiki/File:Femur.png
+- Left Scapula: https://commons.wikimedia.org/wiki/File:Left_Scapula.jpg
+- Thigh muscles back: https://commons.wikimedia.org/wiki/File:Thigh_muscles_back.png
+- Gluteus muscles: https://commons.wikimedia.org/wiki/File:Gluteus_muscles.PNG
+- Muscles anterior: https://commons.wikimedia.org/wiki/File:Muscles_anterior.png
+- Corpus vertebrae: https://commons.wikimedia.org/wiki/File:Corpusvertebrae.png
+- Gray foot bone lateral view: https://commons.wikimedia.org/wiki/File:Gray_foot_bone_lateral_view.gif
+- Female Pelvis Gray's Anatomy 1893: https://commons.wikimedia.org/wiki/File:Female_Pelvis_Grays_Anatomy_1893.jpg
+- Hand bone: https://commons.wikimedia.org/wiki/File:Hand_bone.png
+
+IMPORTANT
+Manifestet skiljer medvetet på READY_STANDALONE och NEEDS_SOURCE_OR_GENERATION.
+Kort utan säker bild har INTE fått en fejkad placeholder.

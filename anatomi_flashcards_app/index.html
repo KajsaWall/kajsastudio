@@ -1,0 +1,7 @@
+<!doctype html><html lang="sv"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>Anatomi 135</title><link rel="stylesheet" href="style.css"></head>
+<body><main><header><div><h1>Anatomi 135</h1><p>Bildbaserade flashcards från kursmaterialet</p></div><div class="stat"><b id="progress">0 / 135</b><span>visade</span></div></header>
+<section class="controls"><select id="cat"><option>Alla kategorier</option><option>Muskler</option><option>Skelett/ben</option><option>Anatomiska landmärken</option></select><select id="diff"><option>Alla nivåer</option><option>Grundnivå</option><option>Detaljnivå</option></select><button id="shuffle">Blanda</button><button id="mistakes">Repetera fel</button></section>
+<div id="mode"><button data-mode="flash" class="active">Flashcards</button><button data-mode="mcq">Flervalsfrågor</button><button data-mode="type">Skriv svar</button></div>
+<section class="card" id="card"><div class="front"><img id="pic"><p id="hint"></p><div id="answerbox"></div><button id="reveal">Visa svar</button></div><div class="back hidden" id="back"><h2 id="name"></h2><h3 id="sv"></h3><div id="facts"></div></div></section>
+<section class="rating hidden" id="rating"><button data-rate="wrong">Fel</button><button data-rate="hard">Svårt</button><button data-rate="right">Rätt</button></section>
+<nav><button id="prev">← Föregående</button><span id="counter"></span><button id="next">Nästa →</button></nav></main><script src="data/cards.js"></script><script src="app.js"></script></body></html>

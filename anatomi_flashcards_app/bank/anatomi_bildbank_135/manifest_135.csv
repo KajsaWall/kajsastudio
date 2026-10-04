@@ -1,0 +1,136 @@
+﻿id,card,status,image_file,notes
+1,M. latissimus dorsi,READY_STANDALONE,images/103_m_latissimus_dorsi.png,Standalone anatomy crop; no app UI.
+2,Mm. erector spinae,READY_STANDALONE,images/002_mm_erector_spinae.png,Standalone crop from labeled anatomy atlas batch; caption removed.
+3,M. transversospinalis,READY_STANDALONE,images/003_m_transversospinalis.png,Standalone crop from labeled anatomy atlas batch; caption removed.
+4,Korta vertikala ryggmusklerna,READY_STANDALONE,images/004_korta_vertikala_ryggmusklerna.png,Derived from anatomically relevant atlas panel; red overlay isolates target region.
+5,Korta nackmusklerna,READY_STANDALONE,images/005_korta_nackmusklerna.png,Representative/exact labeled anatomy panel; caption removed.
+6,M. serratus posterior superior,READY_STANDALONE,images/006_m_serratus_posterior_superior.png,Derived from anatomically relevant atlas panel; red overlay isolates target region.
+7,M. serratus posterior inferior,READY_STANDALONE,images/007_m_serratus_posterior_inferior.png,Derived from anatomically relevant atlas panel; red overlay isolates target region.
+8,M. intercostalis externus,READY_STANDALONE,images/008_m_intercostalis_externus.png,Standalone crop from labeled anatomy atlas batch; caption removed.
+9,M. intercostalis internus,READY_STANDALONE,images/009_m_intercostalis_internus.png,Standalone crop from labeled anatomy atlas batch; caption removed.
+10,M. quadratus lumborum,READY_STANDALONE,images/010_m_quadratus_lumborum.png,Standalone anatomy crop from targeted labeled atlas; caption removed.
+11,M. iliopsoas,READY_STANDALONE,images/011_m_iliopsoas.png,Standalone anatomy crop from targeted labeled atlas; caption removed.
+12,M. psoas major,READY_STANDALONE,images/012_m_psoas_major.png,Derived from anatomically relevant atlas panel; red overlay isolates target region.
+13,M. iliacus,READY_STANDALONE,images/013_m_iliacus.png,Derived from anatomically relevant atlas panel; red overlay isolates target region.
+14,M. pectoralis major,READY_STANDALONE,images/100_m_pectoralis_major.png,Standalone anatomy crop; no app UI.
+15,M. pectoralis minor,READY_STANDALONE,images/101_m_pectoralis_minor.png,Standalone anatomy crop; no app UI.
+16,M. subclavius,READY_STANDALONE,images/016_m_subclavius.png,Derived from anatomically relevant atlas panel; red overlay isolates target region.
+17,M. serratus anterior,READY_STANDALONE,images/102_m_serratus_anterior.png,Standalone anatomy crop; no app UI.
+18,M. rectus abdominis,READY_STANDALONE,images/162_m_rectus_abdominis.png,Standalone anatomy crop; no app UI.
+19,M. obliquus externus abdominis,READY_STANDALONE,images/163_m_obliquus_externus_abdominis.png,Standalone anatomy crop; no app UI.
+20,M. obliquus internus abdominis,READY_STANDALONE,images/020_m_obliquus_internus_abdominis.png,Standalone anatomy crop from targeted labeled atlas; caption removed.
+21,M. transversus abdominis,READY_STANDALONE,images/021_m_transversus_abdominis.png,Standalone anatomy crop from targeted labeled atlas; caption removed.
+22,Diafragma,READY_STANDALONE,images/022_diafragma.png,Standalone crop from labeled anatomy atlas batch; caption removed.
+23,M. gluteus maximus,READY_STANDALONE,images/138_m_gluteus_maximus.png,Standalone anatomy crop; no app UI.
+24,M. gluteus medius,READY_STANDALONE,images/139_m_gluteus_medius.png,Standalone anatomy crop; no app UI.
+25,M. gluteus minimus,READY_STANDALONE,images/140_m_gluteus_minimus.png,Standalone anatomy crop; no app UI.
+26,M. tensor fasciae latae,READY_STANDALONE,images/142_m_tensor_fasciae_latae.png,Standalone anatomy crop; no app UI.
+27,M. piriformis,READY_STANDALONE,images/141_m_piriformis.png,Standalone anatomy crop; no app UI.
+28,M. gemellus superior,READY_STANDALONE,images/028_m_gemellus_superior.png,Standalone anatomy crop from targeted labeled atlas; caption removed.
+29,M. gemellus inferior,READY_STANDALONE,images/029_m_gemellus_inferior.png,Standalone anatomy crop from targeted labeled atlas; caption removed.
+30,M. quadratus femoris,READY_STANDALONE,images/030_m_quadratus_femoris.png,Standalone anatomy crop from targeted labeled atlas; caption removed.
+31,M. obturatorius,READY_STANDALONE,images/031_m_obturatorius.png,Representative/exact labeled anatomy panel; caption removed.
+32,M. sartorius,READY_STANDALONE,images/143_m_sartorius.png,Standalone anatomy crop; no app UI.
+33,M. quadriceps femoris,READY_STANDALONE,images/033_m_quadriceps_femoris.png,Standalone crop from labeled anatomy atlas batch; caption removed.
+34,M. rectus femoris,READY_STANDALONE,images/144_m_rectus_femoris.png,Standalone anatomy crop; no app UI.
+35,M. vastus medialis,READY_STANDALONE,images/146_m_vastus_medialis.png,Standalone anatomy crop; no app UI.
+36,M. vastus lateralis,READY_STANDALONE,images/145_m_vastus_lateralis.png,Standalone anatomy crop; no app UI.
+37,M. vastus intermedius,READY_STANDALONE,images/147_m_vastus_intermedius.png,Standalone anatomy crop; no app UI.
+38,M. pectineus,READY_STANDALONE,images/038_m_pectineus.png,Derived from anatomically relevant atlas panel; red overlay isolates target region.
+39,M. adductor brevis,READY_STANDALONE,images/152_m_adductor_brevis.png,Standalone anatomy crop; no app UI.
+40,M. adductor longus,READY_STANDALONE,images/151_m_adductor_longus.png,Standalone anatomy crop; no app UI.
+41,M. adductor magnus,READY_STANDALONE,images/153_m_adductor_magnus.png,Standalone anatomy crop; no app UI.
+42,M. gracilis,READY_STANDALONE,images/154_m_gracilis.png,Standalone anatomy crop; no app UI.
+43,Hamstrings / Mm. ischiocrurales,READY_STANDALONE,images/043_hamstrings_mm_ischiocrurales.png,Standalone crop from labeled anatomy atlas batch; caption removed.
+44,M. biceps femoris,READY_STANDALONE,images/148_m_biceps_femoris.png,Standalone anatomy crop; no app UI.
+45,Caput longum m. biceps femoris,READY_STANDALONE,images/045_caput_longum_m_biceps_femoris.png,Standalone anatomy crop from targeted labeled atlas; caption removed.
+46,Caput breve m. biceps femoris,READY_STANDALONE,images/046_caput_breve_m_biceps_femoris.png,Standalone anatomy crop from targeted labeled atlas; caption removed.
+47,M. semitendinosus,READY_STANDALONE,images/149_m_semitendinosus.png,Standalone anatomy crop; no app UI.
+48,M. semimembranosus,READY_STANDALONE,images/150_m_semimembranosus.png,Standalone anatomy crop; no app UI.
+49,M. triceps surae,READY_STANDALONE,images/049_m_triceps_surae.png,Derived from anatomically relevant atlas panel; red overlay isolates target region.
+50,M. gastrocnemius,READY_STANDALONE,images/158_m_gastrocnemius.png,Standalone anatomy crop; no app UI.
+51,Caput mediale m. gastrocnemius,READY_STANDALONE,images/051_caput_mediale_m_gastrocnemius.png,Derived from anatomically relevant atlas panel; red overlay isolates target region.
+52,Caput laterale m. gastrocnemius,READY_STANDALONE,images/052_caput_laterale_m_gastrocnemius.png,Derived from anatomically relevant atlas panel; red overlay isolates target region.
+53,M. soleus,READY_STANDALONE,images/053_m_soleus.png,Standalone crop from labeled anatomy atlas batch; caption removed.
+54,M. plantaris,READY_STANDALONE,images/054_m_plantaris.png,Standalone crop from labeled anatomy atlas batch; caption removed.
+55,M. popliteus,READY_STANDALONE,images/055_m_popliteus.png,Standalone anatomy crop from targeted atlas; caption removed.
+56,M. tibialis posterior,READY_STANDALONE,images/056_m_tibialis_posterior.png,Standalone anatomy crop from targeted atlas; caption removed.
+57,M. flexor digitorum longus,READY_STANDALONE,images/057_m_flexor_digitorum_longus.png,Standalone anatomy crop from targeted atlas; caption removed.
+58,M. flexor hallucis longus,READY_STANDALONE,images/058_m_flexor_hallucis_longus.png,Standalone anatomy crop from targeted atlas; caption removed.
+59,M. tibialis anterior,READY_STANDALONE,images/155_m_tibialis_anterior.png,Standalone anatomy crop; no app UI.
+60,M. extensor digitorum longus,READY_STANDALONE,images/157_m_extensor_digitorum_longus.png,Standalone anatomy crop; no app UI.
+61,M. extensor hallucis longus,READY_STANDALONE,images/156_m_extensor_hallucis_longus.png,Standalone anatomy crop; no app UI.
+62,M. fibularis/peroneus tertius,READY_STANDALONE,images/062_m_fibularis_peroneus_tertius.png,Derived from anatomically relevant atlas panel; red overlay isolates target region.
+63,M. fibularis/peroneus longus,READY_STANDALONE,images/063_m_fibularis_peroneus_longus.png,Standalone crop from labeled anatomy atlas batch; caption removed.
+64,M. fibularis/peroneus brevis,READY_STANDALONE,images/064_m_fibularis_peroneus_brevis.png,Standalone crop from labeled anatomy atlas batch; caption removed.
+65,Columna vertebralis,READY_STANDALONE,images/115_columna_vertebralis.png,Standalone anatomy crop; no app UI.
+66,Columna cervicalis,READY_STANDALONE,images/121_columna_cervicalis.png,Standalone anatomy crop; no app UI.
+67,Columna thoracalis,READY_STANDALONE,images/122_columna_thoracalis.png,Standalone anatomy crop; no app UI.
+68,Columna lumbalis,READY_STANDALONE,images/123_columna_lumbalis.png,Standalone anatomy crop; no app UI.
+69,Os sacrum,READY_STANDALONE,images/119_os_sacrum.png,Standalone anatomy crop; no app UI.
+70,Os coccygis,READY_STANDALONE,images/120_os_coccygis.png,Standalone anatomy crop; no app UI.
+71,Costa / costae,READY_STANDALONE,images/114_costa_costae.png,Standalone anatomy crop; no app UI.
+72,Sternum,READY_STANDALONE,images/113_sternum.png,Standalone anatomy crop; no app UI.
+73,Clavicula,READY_STANDALONE,images/008_clavicula.png,Standalone anatomy crop; no app UI.
+74,Scapula,READY_STANDALONE,images/001_scapula.png,Standalone anatomy crop; no app UI.
+75,Humerus,READY_STANDALONE,images/009_humerus.png,Standalone anatomy crop; no app UI.
+76,Radius,READY_STANDALONE,images/019_radius.png,Standalone anatomy crop; no app UI.
+77,Ulna,READY_STANDALONE,images/020_ulna.png,Standalone anatomy crop; no app UI.
+78,Pelvis / höftben,READY_STANDALONE,images/128_pelvis_höftben.png,Standalone anatomy crop; no app UI.
+79,Femur,READY_STANDALONE,images/046_femur.png,Standalone anatomy crop; no app UI.
+80,Patella,READY_STANDALONE,images/054_patella.png,Standalone anatomy crop; no app UI.
+81,Tibia,READY_STANDALONE,images/081_tibia.png,Bone highlighted on anatomical regional plate; caption removed.
+82,Fibula,READY_STANDALONE,images/082_fibula.png,Bone highlighted on anatomical regional plate; caption removed.
+83,Tarsus / fotrotsben,READY_STANDALONE,images/159_tarsus_fotrotsben.png,Standalone anatomy crop; no app UI.
+84,Metatarsus / mellanfotsben,READY_STANDALONE,images/160_metatarsus_mellanfotsben.png,Standalone anatomy crop; no app UI.
+85,Ossa digitorum pedis / tåfalanger,READY_STANDALONE,images/161_ossa_digitorum_pedis_tåfalanger.png,Standalone anatomy crop; no app UI.
+86,Calcaneus,READY_STANDALONE,images/086_calcaneus.png,Bone highlighted on anatomical regional plate; caption removed.
+87,Talus,READY_STANDALONE,images/087_talus.png,Bone highlighted on anatomical regional plate; caption removed.
+88,Os naviculare,READY_STANDALONE,images/088_os_naviculare.png,Bone highlighted on anatomical regional plate; caption removed.
+89,Os cuboideum,READY_STANDALONE,images/089_os_cuboideum.png,Bone highlighted on anatomical regional plate; caption removed.
+90,Ossa cuneiformia,READY_STANDALONE,images/090_ossa_cuneiformia.png,Bone highlighted on anatomical regional plate; caption removed.
+91,Ossa carpi / handlovsben,READY_STANDALONE,images/110_ossa_carpi_handlovsben.png,Standalone anatomy crop; no app UI.
+92,Ossa metacarpalia / mellanhandsben,READY_STANDALONE,images/111_ossa_metacarpalia_mellanhandsben.png,Standalone anatomy crop; no app UI.
+93,Phalanges manus / fingerfalanger,READY_STANDALONE,images/112_phalanges_manus_fingerfalanger.png,Standalone anatomy crop; no app UI.
+94,Corpus vertebrae,READY_STANDALONE,images/126_corpus_vertebrae.png,Standalone anatomy crop; no app UI.
+95,Processus spinosus,READY_STANDALONE,images/124_processus_spinosus.png,Standalone anatomy crop; no app UI.
+96,Processus transversus,READY_STANDALONE,images/125_processus_transversus.png,Standalone anatomy crop; no app UI.
+97,Foramen vertebrale,READY_STANDALONE,images/127_foramen_vertebrale.png,Standalone anatomy crop; no app UI.
+98,Processus articularis superior,READY_STANDALONE,images/098_processus_articularis_superior.png,Landmark localized on vertebral anatomy plate with red target overlay.
+99,Processus articularis inferior,READY_STANDALONE,images/099_processus_articularis_inferior.png,Landmark localized on vertebral anatomy plate with red target overlay.
+100,Crista iliaca,READY_STANDALONE,images/100_crista_iliaca.png,Pelvic landmark localized on anterior/posterior pelvic plate with red target overlay.
+101,SIAS – Spina iliaca anterior superior,READY_STANDALONE,images/101_sias_spina_iliaca_anterior_superior.png,Pelvic landmark localized on anterior/posterior pelvic plate with red target overlay.
+102,SIAI – Spina iliaca anterior inferior,READY_STANDALONE,images/102_siai_spina_iliaca_anterior_inferior.png,Pelvic landmark localized on anterior/posterior pelvic plate with red target overlay.
+103,SIPS – Spina iliaca posterior superior,READY_STANDALONE,images/103_sips_spina_iliaca_posterior_superior.png,Pelvic landmark localized on anterior/posterior pelvic plate with red target overlay.
+104,SIPI – Spina iliaca posterior inferior,READY_STANDALONE,images/104_sipi_spina_iliaca_posterior_inferior.png,Pelvic landmark localized on anterior/posterior pelvic plate with red target overlay.
+105,Acetabulum,READY_STANDALONE,images/041_acetabulum.png,Standalone anatomy crop; no app UI.
+106,Fossa iliaca,READY_STANDALONE,images/106_fossa_iliaca.png,Pelvic landmark localized on anterior/posterior pelvic plate with red target overlay.
+107,Tuber ischiadicum,READY_STANDALONE,images/107_tuber_ischiadicum.png,Pelvic landmark localized on anterior/posterior pelvic plate with red target overlay.
+108,Facies glutea,READY_STANDALONE,images/108_facies_glutea.png,Pelvic landmark localized on anterior/posterior pelvic plate with red target overlay.
+109,Caput femoris,READY_STANDALONE,images/129_caput_femoris.png,Standalone anatomy crop; no app UI.
+110,Collum femoris,READY_STANDALONE,images/130_collum_femoris.png,Standalone anatomy crop; no app UI.
+111,Trochanter major,READY_STANDALONE,images/131_trochanter_major.png,Standalone anatomy crop; no app UI.
+112,Trochanter minor,READY_STANDALONE,images/132_trochanter_minor.png,Standalone anatomy crop; no app UI.
+113,Linea aspera,READY_STANDALONE,images/133_linea_aspera.png,Standalone anatomy crop; no app UI.
+114,Condylus medialis femoris,READY_STANDALONE,images/136_condylus_medialis_femoris.png,Standalone anatomy crop; no app UI.
+115,Condylus lateralis femoris,READY_STANDALONE,images/137_condylus_lateralis_femoris.png,Standalone anatomy crop; no app UI.
+116,Epicondylus medialis femoris,READY_STANDALONE,images/134_epicondylus_medialis_femoris.png,Standalone anatomy crop; no app UI.
+117,Epicondylus lateralis femoris,READY_STANDALONE,images/135_epicondylus_lateralis_femoris.png,Standalone anatomy crop; no app UI.
+118,Acromion,READY_STANDALONE,images/105_acromion.png,Standalone anatomy crop; no app UI.
+119,Processus coracoideus,READY_STANDALONE,images/106_processus_coracoideus.png,Standalone anatomy crop; no app UI.
+120,Cavitas glenoidalis,READY_STANDALONE,images/107_cavitas_glenoidalis.png,Standalone anatomy crop; no app UI.
+121,Spina scapulae,READY_STANDALONE,images/104_spina_scapulae.png,Standalone anatomy crop; no app UI.
+122,Fossa supraspinata,READY_STANDALONE,images/108_fossa_supraspinata.png,Standalone anatomy crop; no app UI.
+123,Fossa infraspinata,READY_STANDALONE,images/109_fossa_infraspinata.png,Standalone anatomy crop; no app UI.
+124,Fossa subscapularis,READY_STANDALONE,images/124_fossa_subscapularis.png,Scapular landmark localized on scapula plate with red target overlay.
+125,Margo medialis scapulae,READY_STANDALONE,images/125_margo_medialis_scapulae.png,Scapular landmark localized on scapula plate with red target overlay.
+126,Angulus superior,READY_STANDALONE,images/126_angulus_superior.png,Scapular landmark localized on scapula plate with red target overlay.
+127,Angulus inferior,READY_STANDALONE,images/127_angulus_inferior.png,Scapular landmark localized on scapula plate with red target overlay.
+128,Caput humeri,READY_STANDALONE,images/010_caput_humeri.png,Standalone anatomy crop; no app UI.
+129,Tuberculum majus,READY_STANDALONE,images/013_tuberculum_majus.png,Standalone anatomy crop; no app UI.
+130,Tuberculum minus,READY_STANDALONE,images/014_tuberculum_minus.png,Standalone anatomy crop; no app UI.
+131,Tuberositas tibiae,READY_STANDALONE,images/131_tuberositas_tibiae.png,Lower-limb landmark localized on regional anatomy plate with red target overlay.
+132,Condylus medialis tibiae,READY_STANDALONE,images/132_condylus_medialis_tibiae.png,Lower-limb landmark localized on regional anatomy plate with red target overlay.
+133,Condylus lateralis tibiae,READY_STANDALONE,images/133_condylus_lateralis_tibiae.png,Lower-limb landmark localized on regional anatomy plate with red target overlay.
+134,Caput fibulae,READY_STANDALONE,images/134_caput_fibulae.png,Lower-limb landmark localized on regional anatomy plate with red target overlay.
+135,Tuber calcanei,READY_STANDALONE,images/135_tuber_calcanei.png,Lower-limb landmark localized on regional anatomy plate with red target overlay.
