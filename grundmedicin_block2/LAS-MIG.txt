@@ -1,0 +1,25 @@
+GRUNDMEDICIN – BLOCK 2
+
+INSTALLATION
+Packa upp ZIP-filen och ladda upp innehållet till en egen undermapp,
+till exempel public_html/grundmedicin_block2/. index.html ska ligga direkt
+inuti mappen. Behåll pages och figures tillsammans med övriga filer.
+Öppna appens adress på din domän. Ingen databas, PHP eller installation krävs.
+Öppna via webbserver, inte genom att dubbelklicka på index.html.
+
+INNEHÅLL
+6 kapitel, 43 pedagogiska lektioner och övningar utifrån Block 2.
+Beskurna figurer visas i lektionerna; originalsidornas 57 bilder finns under Källsidor.
+Svensk uppläsning, kortrepetition, prov, poäng, studiedagar och milstolpar ingår.
+Uppläsningen använder enhetens svenska röster och kan variera mellan enheter.
+Öppna provsvar bedömer du själv mot facit. Flervalsfrågor rättas automatiskt.
+Bokbaserade frågor och pedagogiska förtydliganden är märkta i appen.
+Kompletterande medicinska förklaringar anges uttryckligen och har källänkar.
+
+FRAMSTEG
+Progress sparas i webbläsaren. Block 2 använder en separat lagringsnyckel,
+så Block 1 påverkas inte. Framsteg synkas inte mellan enheter eller domäner.
+
+PRIVAT ANVÄNDNING
+Appen har ingen egen inloggning. Använd webbhotellets lösenordsskydd för
+privat åtkomst till kursmaterialet. Materialet är avsett för dina egna studier.

@@ -1,0 +1,849 @@
+[
+  {
+    "id": "circulation",
+    "number": "1.5",
+    "title": "Cirkulationsorganen",
+    "intro": "Blodet transporterar ämnen; hjärtat driver flödet och lymfan återför vätska.",
+    "topics": [
+      "Hjärta och blodkärl",
+      "Blodets kretslopp",
+      "Blod och lymfa"
+    ],
+    "questions": [
+      {
+        "id": "circulation-1",
+        "q": "Vilka är cirkulationsorganens huvuduppgifter?",
+        "a": "Att transportera syre, koldioxid, hormoner, näringsämnen och avfallsprodukter till och från kroppens olika delar.",
+        "kind": "recall",
+        "source": "Instuderingsfrågor Block 2 · fråga 1"
+      },
+      {
+        "id": "circulation-2",
+        "q": "Vilka organ räknas till cirkulationsorganen?",
+        "a": "Blodsystemet med hjärta, blodkärl, blod, lymfsystem med lymfkärl, lymfnoder, lymfa och mjälte.",
+        "kind": "recall",
+        "source": "Instuderingsfrågor Block 2 · fråga 2"
+      },
+      {
+        "id": "circulation-3",
+        "q": "Vad är en normal vilopuls hos en vuxen person?",
+        "a": "En normal puls i vila är 60–80 slag per minut.",
+        "kind": "recall",
+        "source": "Instuderingsfrågor Block 2 · fråga 3"
+      },
+      {
+        "id": "circulation-4",
+        "q": "Beskriv i stort en blodkropps väg genom kroppen.",
+        "a": "Blodkroppen tar upp syre i lungans lungblåsor. Blodkroppen går sedan via lungvenerna in i vänster förmak. Blodkroppen går genom segelklaffen och vidare ner i vänster kammare. Därefter går blodkroppen ut i aorta genom fickklaffen och åker sedan ut i kroppen genom dess artärer. Artärerna delar upp sig i allt mindre artärer och vidare i kapillärerna där blodkroppen avger sitt syre till cellerna. Cellen gör av med koldioxid till kapillären. Blodkroppen fortsätter genom venerna upp mot hjärtats högra förmak. Blodkroppen går genom höger hjärtklaff ner i högerkammare. Därefter går blodkroppen ut genom fickklaffen till lungartären vidare till lungans lungblåsor.",
+        "kind": "recall",
+        "source": "Instuderingsfrågor Block 2 · fråga 4"
+      },
+      {
+        "id": "circulation-5",
+        "q": "Vad heter stora kroppspulsådern på latin?",
+        "a": "Aorta",
+        "kind": "recall",
+        "source": "Instuderingsfrågor Block 2 · fråga 5"
+      },
+      {
+        "id": "circulation-6",
+        "q": "Nämn en av de röda blodkropparnas funktion?",
+        "a": "I de röda blodkropparna binds syre.",
+        "kind": "recall",
+        "source": "Instuderingsfrågor Block 2 · fråga 6"
+      },
+      {
+        "id": "circulation-7",
+        "q": "Vad fyller blodplättarna för funktion?",
+        "a": "Blodplättarna har till uppgift att få blodet att levra sig och täpper till skadade kärlväggar.",
+        "kind": "recall",
+        "source": "Instuderingsfrågor Block 2 · fråga 7"
+      },
+      {
+        "id": "circulation-9",
+        "q": "Beskriv lilla och stora kretsloppet.",
+        "a": "Lilla kretsloppet kallas blodets bana från höger kammare, det går då upp i lungorna och sedan vidare till vänster förmak. Stora kretsloppet kallas blodets bana från vänsterkammare och ut i kroppen. Efter att ha forslat runt syre i kroppen går det vidare till höger förmak.",
+        "kind": "recall",
+        "source": "Instuderingsfrågor Block 2 · fråga 9"
+      },
+      {
+        "id": "circulation-11",
+        "q": "Vilken funktion fyller hjärtklaffarna samt vilka olika typer finns det?",
+        "a": "Hjärtklaffarna har till uppgift att hindra blodet från att rinna tillbaka in i förmak eller in i kamrarna. Det finns segelklaffar mellan förmak och kammare och det finns fickklaffar mellan kammare och kärlen.",
+        "kind": "recall",
+        "source": "Instuderingsfrågor Block 2 · fråga 11"
+      },
+      {
+        "id": "circulation-12",
+        "q": "Vilken funktion fyller sinusknutan?",
+        "a": "Sinusknutan avger en elektrisk signal, som får förmaken att dra ihop sig.",
+        "kind": "recall",
+        "source": "Instuderingsfrågor Block 2 · fråga 12"
+      },
+      {
+        "id": "circulation-13",
+        "q": "Beskriv vad systole och diastole innebär.",
+        "a": "Systole innebär hjärtats arbetsfas (hjärtmuskulaturens kontaktionsfas) Diastole innebär hjärtats vilofas (Hjärtmuskulaturens avslappningsfas).",
+        "kind": "recall",
+        "source": "Instuderingsfrågor Block 2 · fråga 13"
+      },
+      {
+        "id": "circulation-17",
+        "q": "Vad fyller de vita blodkropparna för funktion?",
+        "a": "Vita blodkroppar deltar i kroppens försvar.",
+        "kind": "recall",
+        "source": "Instuderingsfrågor Block 2 · fråga 17"
+      },
+      {
+        "id": "circulation-18",
+        "q": "Vad sker i lymfknoder?",
+        "a": "I lymfnoderna bildas antikroppar som deltar i immunförsvaret /I lymfnoderna filtreras lymfvätska.",
+        "kind": "recall",
+        "source": "Instuderingsfrågor Block 2 · fråga 18"
+      },
+      {
+        "id": "circulation-19",
+        "q": "Vilka uppgifter fyller mjälten?",
+        "a": "Mjälten bryter ner gamla röda blodkroppar/ och deltar i bildandet av vita blodkroppar under fosterstadiet/den fungerar som ett förråd för röda blodkroppar/den deltar i kroppens försvar mot infektioner.",
+        "kind": "recall",
+        "source": "Instuderingsfrågor Block 2 · fråga 19"
+      },
+      {
+        "id": "circulation-e1",
+        "q": "Vad har lymfsystemet för uppgift?",
+        "a": "Lymfsystemets uppgift är att fånga upp överskottsvätska från kroppens vävnader samt fett från mag-tarmkanalen och därefter transportera detta till de stora venerna. Lymfan deltar också i kroppens försvar mot bakterier, virus och cancer. I lymfsystemets vägg finns lymfnoder som filtrerar vätskan, där främmande ämnen som tex. bakterier och virus och cancerceller oskadliggörs.",
+        "kind": "recall",
+        "source": "Instuderingsfrågor Block 2 · extrauppgift"
+      },
+      {
+        "id": "circulation-e2",
+        "q": "Vad är lymfa?",
+        "a": "Lymfvätska även kallad lymfa är den extracellulära vätskan som finns i lymfkärl och lymfknoder.",
+        "kind": "recall",
+        "source": "Instuderingsfrågor Block 2 · extrauppgift"
+      },
+      {
+        "id": "circulation-e3",
+        "q": "I vilken riktning transporteras lymfa?",
+        "a": "Lymfan transporteras utifrån och in i riktning mot nyckelbenen.",
+        "kind": "recall",
+        "source": "Instuderingsfrågor Block 2 · extrauppgift"
+      },
+      {
+        "id": "circulation-e4",
+        "q": "Var töms lymfan in till blodcirkulationen?",
+        "a": "I höjd med nyckelbenen töms lymfan till vener och blandas med blodet. Lymfa från nedre delen av kroppen och från vänster övre kroppshalva töms tillbaka i blodbanan i höjd med vänstra nyckelbenet. Lymfa från övre högra kroppshalvan töms i höjd med höger nyckelben.",
+        "kind": "recall",
+        "source": "Instuderingsfrågor Block 2 · extrauppgift"
+      },
+      {
+        "id": "circulation-e5",
+        "q": "Vad innebär lymfsvullnad?",
+        "a": "Lymfsvullnad eller lymfödem beror på att den kroppsvätska som kallas lymfa har svårt att transporteras och i stället samlas under huden. Bristande transportkapacitet i lymfsystemet kan orsakas av missbildning, sjukdom, trauma eller tidigare behandling tex. kirurgi eller strålbehandling.",
+        "kind": "recall",
+        "source": "Instuderingsfrågor Block 2 · extrauppgift"
+      },
+      {
+        "id": "circulation-check0",
+        "q": "Vilka två saker behöver blodet både leverera och hämta?",
+        "a": "Det levererar bland annat syre och näring och hämtar koldioxid och andra avfallsprodukter.",
+        "kind": "recall",
+        "source": "Lektionskontroll · bokbaserad · D1_P01"
+      },
+      {
+        "id": "circulation-check1",
+        "q": "Varför har vänster kammare en kraftigare vägg?",
+        "a": "Den pumpar genom hela kroppen och behöver utveckla ett högre tryck.",
+        "kind": "recall",
+        "source": "Lektionskontroll · bokbaserad · D1_P03"
+      },
+      {
+        "id": "circulation-check2",
+        "q": "Till vilket förmak återkommer blodet från lungorna?",
+        "a": "Till vänster förmak via lungvenerna.",
+        "kind": "recall",
+        "source": "Lektionskontroll · bokbaserad · D1_P07"
+      },
+      {
+        "id": "circulation-check3",
+        "q": "Är ett kärl en artär för att blodet är syrerikt?",
+        "a": "Nej. Artär betyder att kärlet leder blod bort från hjärtat.",
+        "kind": "recall",
+        "source": "Lektionskontroll · bokbaserad · D1_P09"
+      },
+      {
+        "id": "circulation-check4",
+        "q": "Vad har sinusknutan för huvuduppgift?",
+        "a": "Att starta hjärtats normala elektriska rytm.",
+        "kind": "recall",
+        "source": "Lektionskontroll · bokbaserad · D1_P04"
+      },
+      {
+        "id": "circulation-check5",
+        "q": "Vilken fas motsvarar det övre blodtrycksvärdet?",
+        "a": "Det systoliska trycket, när kamrarna drar ihop sig.",
+        "kind": "recall",
+        "source": "Lektionskontroll · bokbaserad · D1_P05"
+      },
+      {
+        "id": "circulation-check6",
+        "q": "Vilken blodkomponent hjälper till att täppa till en kärlskada?",
+        "a": "Blodplättarna, tillsammans med koagulationssystemet.",
+        "kind": "recall",
+        "source": "Lektionskontroll · bokbaserad · D1_P10"
+      },
+      {
+        "id": "circulation-check7",
+        "q": "Var återförs lymfan till blodbanan?",
+        "a": "Till stora vener i området vid nyckelbenen.",
+        "kind": "recall",
+        "source": "Lektionskontroll · bokbaserad · D1_P12"
+      },
+      {
+        "id": "circulation-check8",
+        "q": "Vad är skillnaden mellan slagvolym och minutvolym?",
+        "a": "Slagvolym gäller ett slag; minutvolym gäller en minut.",
+        "kind": "recall",
+        "source": "Lektionskontroll · bokbaserad · D1_P06"
+      },
+      {
+        "id": "circulation-check9",
+        "q": "Varför måste blodets kompatibilitet kontrolleras vid transfusion?",
+        "a": "Immunförsvaret kan reagera mot markörer på oförenliga röda blodkroppar.",
+        "kind": "recall",
+        "source": "Lektionskontroll · bokbaserad · D1_P11"
+      }
+    ],
+    "pages": [
+      "D1_P01",
+      "D1_P02",
+      "D1_P03",
+      "D1_P04",
+      "D1_P05",
+      "D1_P06",
+      "D1_P07",
+      "D1_P08",
+      "D1_P09",
+      "D1_P10",
+      "D1_P11",
+      "D1_P12",
+      "D1_P13",
+      "D1_P14"
+    ]
+  },
+  {
+    "id": "heartdisease",
+    "number": "4.6",
+    "title": "Cirkulationsorganens sjukdomar",
+    "intro": "Förstå hur förändrade kärl och nedsatt pumpförmåga påverkar kroppen.",
+    "topics": [
+      "Ateroskleros och blodtryck",
+      "Kärlkramp och hjärtinfarkt",
+      "Hjärtsvikt och blodpropp"
+    ],
+    "questions": [
+      {
+        "id": "heartdisease-1",
+        "q": "Vilka värden räknar man som för högt blodtryck?",
+        "a": "Blodtryck över 140/90 uppmätt vid tre tillfällen räknas som förhöjt blodtryck.",
+        "kind": "recall",
+        "source": "Instuderingsfrågor Block 2 · fråga 1"
+      },
+      {
+        "id": "heartdisease-2",
+        "q": "Vad innebär systoliskt tryck respektive diastoliskt tryck vid mätning av blodtryck?",
+        "a": "Systole innebär det tryck som råder i artären under kamrarnas arbetsfas. Diastole innebär det tryck som råder i artären under kamrarnas vilofas.",
+        "kind": "recall",
+        "source": "Instuderingsfrågor Block 2 · fråga 2"
+      },
+      {
+        "id": "heartdisease-5",
+        "q": "Vilka är symtomen på hjärtinfarkt?",
+        "a": "Symtomen vid hjärtinfarkt är en stark och ihållande smärta i bröstkorgen. Smärtan kan stråla ut i armarna bak i ryggen ner i magen och upp i halsen. Andra symtom som ofta finns med är illamående, andnöd, kallsvett, yrsel och ångest.",
+        "kind": "recall",
+        "source": "Instuderingsfrågor Block 2 · fråga 5"
+      },
+      {
+        "id": "heartdisease-7",
+        "q": "Vilka är symtomen vid högerkammarsvikt och varför uppstår det?",
+        "a": "Symtomen vid högerkammarsvikt är svullna ben och anklar samt viktuppgång till följd av vätskeansamling uti i kroppen. Personen kissar ofta nattetid. Symtomen uppkommer genom att höger hjärthalva inte orkar ta emot allt blod, vilket leder till att vätska träder ut i vävnaden.",
+        "kind": "recall",
+        "source": "Instuderingsfrågor Block 2 · fråga 7"
+      },
+      {
+        "id": "heartdisease-8",
+        "q": "Vilka är symtomen vid vänsterkammarsvikt och varför uppstår de?",
+        "a": "Vid vänsterkammarsvikt har blodet svårt att ta sig igenom hjärtats vänstra hjärthalva. Blodet ansamlas då i lungorna och vätska träder ut i lungan och ger upphov till s.k. lungödem med svårigheter att andas och syresätta sig.",
+        "kind": "recall",
+        "source": "Instuderingsfrågor Block 2 · fråga 8"
+      },
+      {
+        "id": "heartdisease-12",
+        "q": "Vilka är symtomen på ventrombos?",
+        "a": "Symtomen på ventrombos är svullnad, värmeökning och rodnad över vaden. Patienten har också smärtor i vaden.",
+        "kind": "recall",
+        "source": "Instuderingsfrågor Block 2 · fråga 12"
+      },
+      {
+        "id": "heartdisease-14",
+        "q": "Varför bör man alltid behandla en djup ventrombos?",
+        "a": "Det finns alltid risk att en ventrombos lossnar och förs med cirkulationen till lungan. I lungan ger proppen då upphov till en s.k. lungemboli vilket är ett livsfarligt tillstånd.",
+        "kind": "recall",
+        "source": "Instuderingsfrågor Block 2 · fråga 14"
+      },
+      {
+        "id": "heartdisease-check0",
+        "q": "Varför kan sjukdom i kranskärlen skada hjärtat?",
+        "a": "Kranskärlen försörjer hjärtmuskeln med syre och näring.",
+        "kind": "recall",
+        "source": "Lektionskontroll · bokbaserad · D1_P15"
+      },
+      {
+        "id": "heartdisease-check1",
+        "q": "Varför räcker inte symtom för att upptäcka högt blodtryck?",
+        "a": "Det kan förekomma utan tydliga symtom.",
+        "kind": "recall",
+        "source": "Lektionskontroll · bokbaserad · D1_P16"
+      },
+      {
+        "id": "heartdisease-check2",
+        "q": "Vad skiljer en infarkt från enbart tillfällig syrebrist?",
+        "a": "Vid infarkt skadas hjärtmuskelvävnad.",
+        "kind": "recall",
+        "source": "Lektionskontroll · bokbaserad · D1_P19"
+      },
+      {
+        "id": "heartdisease-check3",
+        "q": "Varför kan vänsterkammarsvikt ge andningsbesvär?",
+        "a": "Ökat tryck bakåt mot lungorna kan ge vätskeansamling där.",
+        "kind": "recall",
+        "source": "Lektionskontroll · bokbaserad · D1_P20"
+      },
+      {
+        "id": "heartdisease-check4",
+        "q": "Varför kan en propp i benets vener fastna i lungan?",
+        "a": "Venblodet går via höger hjärthalva till lungornas kärl.",
+        "kind": "recall",
+        "source": "Lektionskontroll · bokbaserad · D1_P23"
+      },
+      {
+        "id": "heartdisease-check5",
+        "q": "Är åderbråck och lymfödem samma sjukdom?",
+        "a": "Nej. Åderbråck gäller vener; lymfödem gäller otillräcklig lymftransport.",
+        "kind": "recall",
+        "source": "Lektionskontroll · bokbaserad · D1_P22"
+      },
+      {
+        "id": "heartdisease-check6",
+        "q": "Är lungödem samma sak som lunginflammation?",
+        "a": "Nej. Lungödem är vätskeansamling; lunginflammation är inflammation i lungvävnaden, ofta vid infektion.",
+        "kind": "recall",
+        "source": "Lektionskontroll · bokbaserad · D1_P22"
+      }
+    ],
+    "pages": [
+      "D1_P15",
+      "D1_P16",
+      "D1_P17",
+      "D1_P18",
+      "D1_P19",
+      "D1_P20",
+      "D1_P21",
+      "D1_P22",
+      "D1_P23"
+    ]
+  },
+  {
+    "id": "breathing",
+    "number": "1.6",
+    "title": "Andningsorganen",
+    "intro": "Följ luften från näsan till gasutbytet och förstå varför bröstkorgen rör sig.",
+    "topics": [
+      "Luftvägar och lungor",
+      "Gasutbyte",
+      "Andningsmekanik och reglering"
+    ],
+    "questions": [
+      {
+        "id": "breathing-1",
+        "q": "Redogör för lungans anatomi, rita gärna.",
+        "a": "Vi har två lungor vilka har två lungsäcksblad som omsluter lungan. Vänster lunga består av två lober och höger lunga består av tre lober. Luftrör mynnar in i var sin lunga och förgrenar sig och slutar i lungblåsor där utbytet av syrgas och koldioxid sker.",
+        "kind": "recall",
+        "source": "Instuderingsfrågor Block 2 · fråga 1"
+      },
+      {
+        "id": "breathing-2",
+        "q": "Varför andas vi?",
+        "a": "För att bilda energi krävs syre och alla kroppens celler behöver energi för att kunna arbeta. Syre kommer in i kroppen och till cellerna via andningsorganen.",
+        "kind": "recall",
+        "source": "Instuderingsfrågor Block 2 · fråga 2"
+      },
+      {
+        "id": "breathing-3",
+        "q": "Vilken funktion fyller näsan?",
+        "a": "Näsan värmer, renar och fuktar inandningsluften. Näsan har även luktsinnesceller.",
+        "kind": "recall",
+        "source": "Instuderingsfrågor Block 2 · fråga 3"
+      },
+      {
+        "id": "breathing-4",
+        "q": "Hur många andetag gör en vuxen person i vila per minut?",
+        "a": "12–15 andetag/minut.",
+        "kind": "recall",
+        "source": "Instuderingsfrågor Block 2 · fråga 4"
+      },
+      {
+        "id": "breathing-5",
+        "q": "Var sker gasutbytet?",
+        "a": "I lungblåsorna.",
+        "kind": "recall",
+        "source": "Instuderingsfrågor Block 2 · fråga 5"
+      },
+      {
+        "id": "breathing-6",
+        "q": "Hur sker gasutbytet?",
+        "a": "Syre diffunderar från alveolerna till kapillärblodet och koldioxid från blodet till alveolerna över tunna väggar, drivet av skillnader i partialtryck. Syre binds till hemoglobin. Koldioxid transporteras huvudsakligen som bikarbonat, men även löst och bundet till proteiner.",
+        "kind": "recall",
+        "source": "Instuderingsfrågor Block 2 · fråga 6 · pedagogiskt förtydligat"
+      },
+      {
+        "id": "breathing-7",
+        "q": "Hur är koncentrationen av olika gaser i luften?",
+        "a": "Inandningsluften innehåller 78% kväve, 21% syre och 1% andra gaser.",
+        "kind": "recall",
+        "source": "Instuderingsfrågor Block 2 · fråga 7"
+      },
+      {
+        "id": "breathing-8",
+        "q": "Beskriv inandningen.",
+        "a": "Muskulaturen runt bröstkorgen och diafragma drar ihop sig vilket medför att lungorna vidgar sig då lungorna via lungsäcksbladen följer med revbenen där de är fästa. Luftsugs in.",
+        "kind": "recall",
+        "source": "Instuderingsfrågor Block 2 · fråga 8"
+      },
+      {
+        "id": "breathing-9",
+        "q": "Beskriv utandningen.",
+        "a": "När muskulaturen i bröstkorgen och diafragma slappnar av och går tillbaka pressas luften ut.",
+        "kind": "recall",
+        "source": "Instuderingsfrågor Block 2 · fråga 9"
+      },
+      {
+        "id": "breathing-10",
+        "q": "Vad reglerar vilka typer av andetag vi tar?",
+        "a": "Andningscentrum i hjärnstammen styr rytmen och påverkas av signaler om framför allt koldioxid och pH samt bland annat syre från perifera kemoreceptorer. Sträckreceptorer och viljemässig påverkan bidrar också. Arbete och stress kan förändra andningen.",
+        "kind": "recall",
+        "source": "Instuderingsfrågor Block 2 · fråga 10 · pedagogiskt förtydligat"
+      },
+      {
+        "id": "breathing-e1",
+        "q": "Vad innebär accessoriska andningsmuskler?",
+        "a": "Muskler som hjälper till vid ansträngd in och eller utandning.",
+        "kind": "recall",
+        "source": "Instuderingsfrågor Block 2 · extrauppgift"
+      },
+      {
+        "id": "breathing-e2",
+        "q": "Vilken funktion har lungsäcken?",
+        "a": "Lungsäcken håller lungan utspänd med hjälp av ett svagt undertryck som finns mellan de två lungsäcksbladen. Där finns också vätska för att motverka friktion och underlätta andningsrörelser.",
+        "kind": "recall",
+        "source": "Instuderingsfrågor Block 2 · extrauppgift"
+      },
+      {
+        "id": "breathing-check0",
+        "q": "Var sker gasutbytet med blodet?",
+        "a": "I alveolerna, lungblåsorna.",
+        "kind": "recall",
+        "source": "Lektionskontroll · bokbaserad · D1_P24"
+      },
+      {
+        "id": "breathing-check1",
+        "q": "Vilken lunga har tre lober?",
+        "a": "Höger lunga.",
+        "kind": "recall",
+        "source": "Lektionskontroll · bokbaserad · D2_P03"
+      },
+      {
+        "id": "breathing-check2",
+        "q": "Varför är tunna väggar viktiga?",
+        "a": "Gaserna har en kort sträcka att diffundera över.",
+        "kind": "recall",
+        "source": "Lektionskontroll · bokbaserad · D2_P03"
+      },
+      {
+        "id": "breathing-check3",
+        "q": "Vad händer med diafragma vid inandning?",
+        "a": "Den drar ihop sig och sänks, så brösthålans volym ökar.",
+        "kind": "recall",
+        "source": "Lektionskontroll · bokbaserad · D2_P04"
+      },
+      {
+        "id": "breathing-check4",
+        "q": "Behöver diafragma dra ihop sig för lugn utandning?",
+        "a": "Nej, den slappnar av och återgår uppåt.",
+        "kind": "recall",
+        "source": "Lektionskontroll · bokbaserad · D2_P04"
+      },
+      {
+        "id": "breathing-check5",
+        "q": "Varför brukar andningen öka under arbete?",
+        "a": "Kroppen behöver mer syre och måste föra bort mer koldioxid.",
+        "kind": "recall",
+        "source": "Lektionskontroll · bokbaserad · D2_P05"
+      }
+    ],
+    "pages": [
+      "D1_P24",
+      "D2_P01",
+      "D2_P02",
+      "D2_P03",
+      "D2_P04",
+      "D2_P05",
+      "D2_P06"
+    ]
+  },
+  {
+    "id": "lungdisease",
+    "number": "4.7",
+    "title": "Andningsorganens sjukdomar",
+    "intro": "Skilj infektion, KOL och astma genom att förstå vad som förändras.",
+    "topics": [
+      "Lunginflammation",
+      "KOL och emfysem",
+      "Astma"
+    ],
+    "questions": [
+      {
+        "id": "lungdisease-1",
+        "q": "Vad är orsaken till lunginflammation?",
+        "a": "Både bakterier, virus och svampar kan orsaka lunginflammation.",
+        "kind": "recall",
+        "source": "Instuderingsfrågor Block 2 · fråga 1"
+      },
+      {
+        "id": "lungdisease-2",
+        "q": "Vilka symtom tyder på lunginflammation?",
+        "a": "Symtomen vid lunginflammation är hosta, trötthet, feber, andningssvårigheter, smärta vid djupandning, snabb ytlig andning, snabb puls samt allmän sjukdomskänsla. Ibland förekommer färgad upphostning.",
+        "kind": "recall",
+        "source": "Instuderingsfrågor Block 2 · fråga 2"
+      },
+      {
+        "id": "lungdisease-3",
+        "q": "Hur behandlas en person med lunginflammation?",
+        "a": "Om orsaken är bakterier ges antibiotika. I annat fall ges symtomatisk behandling såsom febernedsättande och hostdämpande läkemedel.",
+        "kind": "recall",
+        "source": "Instuderingsfrågor Block 2 · fråga 3"
+      },
+      {
+        "id": "lungdisease-4",
+        "q": "Vilka är symtomen av KOL?",
+        "a": "Symtomen på KOL är andfåddhet vid ansträngning. Patienten får alltmer hosta och täta luftvägsinfektioner. Så småningom magrar ofta personen och andnöden uppkommer även i vila.",
+        "kind": "recall",
+        "source": "Instuderingsfrågor Block 2 · fråga 4"
+      },
+      {
+        "id": "lungdisease-5",
+        "q": "Vilken är behandlingen av KOL?",
+        "a": "Behandlingen av KOL är att sluta röka. Läkemedel kan ges för att göra sekretet tunnare. I svåra fall ges oxygen för att förbättra syrgasupptagningen till kroppen. Influensavaccin ges för att förebygga luftvägsinfektioner till följd av influensa.",
+        "kind": "recall",
+        "source": "Instuderingsfrågor Block 2 · fråga 5"
+      },
+      {
+        "id": "lungdisease-6",
+        "q": "Ge exempel på symtom på astma.",
+        "a": "Symtom på astma är försvårad , pipande, väsande, tung och ansträngd andning.",
+        "kind": "recall",
+        "source": "Instuderingsfrågor Block 2 · fråga 6"
+      },
+      {
+        "id": "lungdisease-7",
+        "q": "Hur diagnosticeras astma?",
+        "a": "Astma diagnosticeras med hjälp av sjukdomshistorien, spirometri, PEF-mätning. Pricktest görs för att komma fram till om astman är allergiutlöst och vilket i så fall det allergiframkallande ämnet är.",
+        "kind": "recall",
+        "source": "Instuderingsfrågor Block 2 · fråga 7"
+      },
+      {
+        "id": "lungdisease-8",
+        "q": "Hur behandlas ett astmaanfall?",
+        "a": "Vid astmaanfall ges inhalation av luftrörsvidgande läkemedel. Kortison kan ges för att dämpa den inflammatoriska reaktionen. Ibland ges syrgas.",
+        "kind": "recall",
+        "source": "Instuderingsfrågor Block 2 · fråga 8"
+      },
+      {
+        "id": "lungdisease-9",
+        "q": "Vad innebär status astmaticus?",
+        "a": "Status astmaticus innebär att symtomen kvarstår även efter behandling och patienten behöver då sjukhusvård.",
+        "kind": "recall",
+        "source": "Instuderingsfrågor Block 2 · fråga 9"
+      },
+      {
+        "id": "lungdisease-check0",
+        "q": "Varför är antibiotika inte ett automatiskt svar vid all lunginflammation?",
+        "a": "Eftersom orsaken kan vara virus eller annat; behandlingen måste anpassas.",
+        "kind": "recall",
+        "source": "Lektionskontroll · bokbaserad · D2_P07"
+      },
+      {
+        "id": "lungdisease-check1",
+        "q": "Hur kan förstörda alveolväggar försämra gasutbytet?",
+        "a": "Den fungerande ytan minskar och lungans struktur förändras.",
+        "kind": "recall",
+        "source": "Lektionskontroll · bokbaserad · D2_P08"
+      },
+      {
+        "id": "lungdisease-check2",
+        "q": "Vad mäter PEF i stora drag?",
+        "a": "Det högsta flödet vid en kraftig utandning.",
+        "kind": "recall",
+        "source": "Lektionskontroll · bokbaserad · D2_P10"
+      },
+      {
+        "id": "lungdisease-check3",
+        "q": "Varför har luftrörsvidgande läkemedel och kortison olika roller?",
+        "a": "Det ena minskar muskelkramp; det andra dämpar inflammation.",
+        "kind": "recall",
+        "source": "Lektionskontroll · bokbaserad · D2_P11"
+      },
+      {
+        "id": "lungdisease-check4",
+        "q": "Kan man avgöra sjukdomen enbart genom att någon hostar?",
+        "a": "Nej. Symtom behöver sättas i sammanhang och bedömas medicinskt.",
+        "kind": "recall",
+        "source": "Lektionskontroll · bokbaserad · D2_P12"
+      }
+    ],
+    "pages": [
+      "D2_P07",
+      "D2_P08",
+      "D2_P09",
+      "D2_P10",
+      "D2_P11",
+      "D2_P12",
+      "D2_P13"
+    ]
+  },
+  {
+    "id": "urinary",
+    "number": "1.10",
+    "title": "Urinorganen",
+    "intro": "Njurarna renar blodet och reglerar kroppens inre miljö.",
+    "topics": [
+      "Urinbildning",
+      "Vätska och hormoner",
+      "Syra–basbalans"
+    ],
+    "questions": [
+      {
+        "id": "urinary-1",
+        "q": "Vilka uppgifter har urinorganen?",
+        "a": "Urinorgan har till uppgift att rena blodet, utsöndra avfallsprodukter med urinen samt reglerar kroppens vätske-, salt- och syra-bas-balans",
+        "kind": "recall",
+        "source": "Instuderingsfrågor Block 2 · fråga 1"
+      },
+      {
+        "id": "urinary-2",
+        "q": "Vilka organ räknas till urinorganen?",
+        "a": "Urinorganen består av njurarna, urinledarna, urinblåsa och urinrör.",
+        "kind": "recall",
+        "source": "Instuderingsfrågor Block 2 · fråga 2"
+      },
+      {
+        "id": "urinary-5",
+        "q": "Vilka är symtomen på dehydrering?",
+        "a": "Symtom på dehydrering är minskad urinmängd, torra slemhinnor, illamående, blodtryckssänkning, trötthet och förvirring.",
+        "kind": "recall",
+        "source": "Instuderingsfrågor Block 2 · fråga 5"
+      },
+      {
+        "id": "urinary-6",
+        "q": "Vad är tecken på ödem?",
+        "a": "Tecken på ödem är att vävnaden svullnar av vätskan i t.ex. benen.",
+        "kind": "recall",
+        "source": "Instuderingsfrågor Block 2 · fråga 6"
+      },
+      {
+        "id": "urinary-7",
+        "q": "Hur diagnosticerar du ödem?",
+        "a": "En kvarstående grop efter fingertryck är ett tecken på pittingödem. Det visar inte säkert orsaken och alla ödem ger inte en grop; medicinsk bedömning behövs för diagnos.",
+        "kind": "recall",
+        "source": "Instuderingsfrågor Block 2 · fråga 7 · pedagogiskt förtydligat"
+      },
+      {
+        "id": "urinary-9",
+        "q": "Beskriv njurens funktion.",
+        "a": "Njurens funktioner är: Bilda urin som transporterar kroppens restprodukter ut ur kroppen. Reglera vätske- och saltbalansen. Utsöndra slaggprodukter. Reglera syra-bas- balans. Upprätthålla blodtrycket. Produktion av hormonet erytropoetin. Reglera nivån av kalcium och fosfor i blodet.",
+        "kind": "recall",
+        "source": "Instuderingsfrågor Block 2 · fråga 9"
+      },
+      {
+        "id": "urinary-10",
+        "q": "Vilken funktion fyller ADH?",
+        "a": "ADH, antidiuretiskt hormon, gör att vätska sparas genom att vatten återresorberas från tubuli till blodkärlen.",
+        "kind": "recall",
+        "source": "Instuderingsfrågor Block 2 · fråga 10"
+      },
+      {
+        "id": "urinary-11",
+        "q": "Vilken funktion fyller aldosteron?",
+        "a": "Aldosteron ökar njurarnas återupptag av natrium och utsöndring av kalium. Vatten kan följa natrium, vilket påverkar vätskevolymen.",
+        "kind": "recall",
+        "source": "Instuderingsfrågor Block 2 · fråga 11 · pedagogiskt förtydligat"
+      },
+      {
+        "id": "urinary-16",
+        "q": "Förklara vad recipiratorisk acidos och alkalos innebär och hur tillstånden uppstår?",
+        "a": "Respiratorisk acidos innebär att otillräcklig ventilation gör att koldioxid ansamlas och miljön blir surare. Respiratorisk alkalos innebär att ventilationen är för stor i förhållande till behovet, så för mycket koldioxid vädras ut. Andetagens djup ensamt avgör inte tillståndet.",
+        "kind": "recall",
+        "source": "Instuderingsfrågor Block 2 · fråga 16 · pedagogiskt förtydligat"
+      },
+      {
+        "id": "urinary-17",
+        "q": "Förklara vad metabolisk acidos och alkalos innebär och hur tillstånden uppstår?",
+        "a": "Metabolisk acidos kan uppstå när syror ansamlas eller bas går förlorad, exempelvis vid ketoacidos. All diabetes innebär inte ketoacidos. Metabolisk alkalos kan exempelvis uppstå vid förlust av magsyra genom långvariga kräkningar.",
+        "kind": "recall",
+        "source": "Instuderingsfrågor Block 2 · fråga 17 · pedagogiskt förtydligat"
+      },
+      {
+        "id": "urinary-check0",
+        "q": "Vilken struktur leder urin från njuren till blåsan?",
+        "a": "Urinledaren.",
+        "kind": "recall",
+        "source": "Lektionskontroll · bokbaserad · D2_P14"
+      },
+      {
+        "id": "urinary-check1",
+        "q": "Varför kissar vi inte ut allt som filtreras?",
+        "a": "Mycket vatten och nyttiga ämnen tas tillbaka till blodet.",
+        "kind": "recall",
+        "source": "Lektionskontroll · bokbaserad · D2_P16"
+      },
+      {
+        "id": "urinary-check2",
+        "q": "Vad betyder återresorption?",
+        "a": "Att ämnen och vatten tas tillbaka från tubuli till blodet.",
+        "kind": "recall",
+        "source": "Lektionskontroll · bokbaserad · D2_P16"
+      },
+      {
+        "id": "urinary-check3",
+        "q": "Vad händer med urinmängden när ADH ökar?",
+        "a": "Mer vatten tas tillbaka och urinmängden minskar.",
+        "kind": "recall",
+        "source": "Lektionskontroll · bokbaserad · D2_P17"
+      },
+      {
+        "id": "urinary-check4",
+        "q": "Vilket njurhormon stimulerar bildning av röda blodkroppar?",
+        "a": "Erytropoetin, EPO.",
+        "kind": "recall",
+        "source": "Lektionskontroll · bokbaserad · D2_P15"
+      },
+      {
+        "id": "urinary-check5",
+        "q": "Visar en grop efter tryck säkert varför benet är svullet?",
+        "a": "Nej. Det är ett tecken på vissa ödem men säger inte orsaken.",
+        "kind": "recall",
+        "source": "Lektionskontroll · bokbaserad · D2_P20"
+      },
+      {
+        "id": "urinary-check6",
+        "q": "Vilka två organ hjälper till att reglera syra–basbalansen?",
+        "a": "Lungorna och njurarna.",
+        "kind": "recall",
+        "source": "Lektionskontroll · bokbaserad · D2_P19"
+      },
+      {
+        "id": "urinary-check7",
+        "q": "Vilken rubbning kan överdriven ventilation ge?",
+        "a": "Respiratorisk alkalos, eftersom för mycket koldioxid vädras ut.",
+        "kind": "recall",
+        "source": "Lektionskontroll · bokbaserad · D2_P21"
+      },
+      {
+        "id": "urinary-check8",
+        "q": "Vilket organ bildar urinen och vilket lagrar den?",
+        "a": "Njurarna bildar urinen; urinblåsan lagrar den.",
+        "kind": "recall",
+        "source": "Lektionskontroll · bokbaserad · D2_P18"
+      }
+    ],
+    "pages": [
+      "D2_P14",
+      "D2_P15",
+      "D2_P16",
+      "D2_P17",
+      "D2_P18",
+      "D2_P19",
+      "D2_P20",
+      "D2_P21",
+      "D2_P22"
+    ]
+  },
+  {
+    "id": "kidneydisease",
+    "number": "4.12",
+    "title": "Urinorganens sjukdomar",
+    "intro": "Förstå sjukdomar i njurar och urinvägar och hur de påverkar flöde och rening.",
+    "topics": [
+      "Infektion och inflammation",
+      "Sten och njursvikt",
+      "Urinläckage och prostata"
+    ],
+    "questions": [
+      {
+        "id": "kidneydisease-b1",
+        "q": "Var sitter inflammationen vid cystit?",
+        "a": "I urinblåsan.",
+        "kind": "recall",
+        "source": "Bokbaserad övning · Del 2 · PDel F-sida 23"
+      },
+      {
+        "id": "kidneydisease-b2",
+        "q": "Varför kan protein i urinen vara relevant vid njursjukdom?",
+        "a": "Det kan tyda på att njurens filtreringsbarriär är påverkad.",
+        "kind": "recall",
+        "source": "Bokbaserad övning · Del 3 · PDel F-sida 01"
+      },
+      {
+        "id": "kidneydisease-b3",
+        "q": "Vad menas med ansträngningsinkontinens?",
+        "a": "Läckage när buktrycket ökar, exempelvis vid hosta eller ansträngning.",
+        "kind": "recall",
+        "source": "Bokbaserad övning · Del 3 · PDel F-sida 02"
+      },
+      {
+        "id": "kidneydisease-b4",
+        "q": "Varför kan en liten sten i urinledaren ge kraftig smärta?",
+        "a": "Den kan hindra flödet och orsaka tryck och sammandragningar.",
+        "kind": "recall",
+        "source": "Bokbaserad övning · Del 3 · PDel F-sida 05"
+      },
+      {
+        "id": "kidneydisease-b5",
+        "q": "Vilka två saker avlägsnas bland annat vid dialys?",
+        "a": "Avfallsämnen och överskottsvätska.",
+        "kind": "recall",
+        "source": "Bokbaserad övning · Del 3 · PDel F-sida 07"
+      },
+      {
+        "id": "kidneydisease-b6",
+        "q": "Varför kan prostataförstoring ge svag urinstråle?",
+        "a": "Förstoringen kan trycka på urinröret och öka motståndet.",
+        "kind": "recall",
+        "source": "Bokbaserad övning · Del 3 · PDel F-sida 08"
+      }
+    ],
+    "pages": [
+      "D2_P23",
+      "D2_P24",
+      "D3_P01",
+      "D3_P02",
+      "D3_P03",
+      "D3_P04",
+      "D3_P05",
+      "D3_P06",
+      "D3_P07",
+      "D3_P08",
+      "D3_P09"
+    ]
+  }
+]
