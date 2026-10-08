@@ -1,0 +1,965 @@
+[
+  {
+    "id": "nerves",
+    "number": "1.3",
+    "title": "Nervsystemet",
+    "intro": "Förstå hur nervsignaler kopplar ihop kroppens intryck och reaktioner.",
+    "topics": [
+      "Nervceller och signaler",
+      "Hjärna och ryggmärg",
+      "Reflexer och autonom reglering"
+    ],
+    "questions": [
+      {
+        "id": "nerves-1",
+        "q": "Vad räknas till det centrala och perifera nervsystemet?",
+        "a": "Hjärna och ryggmärg bildar tillsammans det centrala nervsystemet. Sensoriska och motoriska nerver tillhör det perifera nervsystemet.",
+        "kind": "recall",
+        "source": "Instuderingsfrågor Block 3 · fråga 1"
+      },
+      {
+        "id": "nerves-2",
+        "q": "Vilken är skillnaden mellan somatiska och autonoma nervsystemet?",
+        "a": "Somatiska nervsystemet omfattar bland annat viljemässig skelettmuskelstyrning, men även automatiska somatiska reflexer. Autonoma nervsystemet reglerar främst inre organ, körtlar och glatt muskulatur utan direkt medveten kontroll.",
+        "kind": "recall",
+        "source": "Instuderingsfrågor Block 3 · fråga 2 · medicinskt förtydligat/rättat",
+        "originalAnswer": "Det somatiska nervsystemet påverkas av viljan. Det autonoma nervsystemet kan inte påverkas av viljan."
+      },
+      {
+        "id": "nerves-3",
+        "q": "Hur är uppdelningen av det autonoma nervsystemet?",
+        "a": "Det delas upp i det sympatiska, parasympatiska och det enteriska nervsystemet.",
+        "kind": "recall",
+        "source": "Instuderingsfrågor Block 3 · fråga 3"
+      },
+      {
+        "id": "nerves-4",
+        "q": "Vad är skillnaden mellan sensoriska och motoriska nerver?",
+        "a": "Sensoriska, afferenta, signaler går från receptorer mot CNS. Motoriska, efferenta, signaler går från CNS till effektorer, bland annat muskler. Sensoriska signaler behöver inte alltid nå medvetandet innan en reflex uppstår.",
+        "kind": "recall",
+        "source": "Instuderingsfrågor Block 3 · fråga 4 · medicinskt förtydligat/rättat",
+        "originalAnswer": "Sensoriska nerver leder impulsen ”utifrån” och upp till hjärnan. Motoriska nerver sänder istället signaler från hjärnan ut till musklernas motorändplattor."
+      },
+      {
+        "id": "nerves-6",
+        "q": "Hur reagerar kroppens övriga organ på sympatikusaktivering?",
+        "a": "Sympatikus mobiliserar kroppen: hjärtats arbete kan öka, luftrören vidgas, pupiller vidgas och mag-tarmaktivitet minskar. Effekter varierar mellan organ och situationer; immunförsvaret är inte generellt alltid hämmat.",
+        "kind": "recall",
+        "source": "Instuderingsfrågor Block 3 · fråga 6 · medicinskt förtydligat/rättat",
+        "originalAnswer": "Andningsfrekvensen ökar, luftrören vidgas, pulsfrekvensen ökar, blodtrycket ökar, kärlen i huden drar ihop sig, urinproduktionen minskar, muskelspänningen ökar, mag- tarmkanalens rörelser minskar, pupillerna vidgas och immunförsvaret hämmas."
+      },
+      {
+        "id": "nerves-8",
+        "q": "Vilken funktion fyller myelinet?",
+        "a": "Myelinet har en stödjande och isolerande funktion.",
+        "kind": "recall",
+        "source": "Instuderingsfrågor Block 3 · fråga 8"
+      },
+      {
+        "id": "nerves-9",
+        "q": "Beskriv hur en nervimpuls fortleds.",
+        "a": "En nervretning startar genom att den fångas upp av dendriter och sprids genom nervcellens axon på elektisk väg. När impulsen når fram till synapsblåsorna frisätts transmittorsubstanser vilka påverkar nästa nervcells dendriter.",
+        "kind": "recall",
+        "source": "Instuderingsfrågor Block 3 · fråga 9"
+      },
+      {
+        "id": "nerves-12",
+        "q": "Vad sker i lillhjärnan?",
+        "a": "I lilla hjärnan regleras muskelspänning, koordination samt balans.",
+        "kind": "recall",
+        "source": "Instuderingsfrågor Block 3 · fråga 12"
+      },
+      {
+        "id": "nerves-13",
+        "q": "Vilka kärl försörjer hjärnan?",
+        "a": "Hjärnans huvudsakliga artärförsörjning kommer från de inre halsartärerna, a. carotis interna, och kotartärerna, a. vertebralis. De yttre halsartärerna är inte en huvudförsörjning av själva hjärnan.",
+        "kind": "recall",
+        "source": "Instuderingsfrågor Block 3 · fråga 13 · medicinskt förtydligat/rättat",
+        "originalAnswer": "Det är framförallt de inre halsartärerna a. carotis interna på vänster och höger sida som står för hjärnans blodförsörjning. De två kortartärerna a. vertebralis ingår. Även de yttre halsartärerna, a. carotis externa, är involverade eftersom de försörjer en del av hjärnan."
+      },
+      {
+        "id": "nerves-14",
+        "q": "Var slutar ryggmärgen i ryggraden?",
+        "a": "Hos vuxna slutar ryggmärgen vanligen ungefär vid L1–L2. Nervrötter fortsätter nedanför som cauda equina.",
+        "kind": "recall",
+        "source": "Instuderingsfrågor Block 3 · fråga 14 · medicinskt förtydligat/rättat",
+        "originalAnswer": "Ryggmärgen slutar vid den första lumbalkotan."
+      },
+      {
+        "id": "nerves-16",
+        "q": "Vad är ryggmärgen?",
+        "a": "Ryggmärgen är en del av CNS med nervcellskroppar och nervbanor. Den leder information mellan hjärna och kropp och kopplar om många reflexer.",
+        "kind": "recall",
+        "source": "Instuderingsfrågor Block 3 · fråga 16 · medicinskt förtydligat/rättat",
+        "originalAnswer": "Ryggmärgen är en sammanflätning av nervceller."
+      },
+      {
+        "id": "nerves-17",
+        "q": "Vad är en reflex?",
+        "a": "En reflex är en automatiserad reaktion på en retning. Spinala reflexer kopplas om i ryggmärgen utan att invänta ett medvetet beslut; information kan samtidigt gå till hjärnan. Alla reflexer är inte spinala.",
+        "kind": "recall",
+        "source": "Instuderingsfrågor Block 3 · fråga 17 · medicinskt förtydligat/rättat",
+        "originalAnswer": "En reflex är när en inåtgående nervimpuls omkopplas i ryggmärgen och går direkt tillbaka till en motorisk nervbana. En impuls leds även vidare upp i hjärnan och registreras, men det är inte den impulsen som orsakar den initiala reaktionen."
+      },
+      {
+        "id": "nerves-extra12",
+        "q": "Vad är en sträckreflex?",
+        "a": "När en muskel sträcks aktiveras muskelspolar som skickar signaler till ryggmärgen. Motoriska signaler tillbaka får muskeln att kontrahera. Reflexen hjälper till att reglera muskellängd och hållning.",
+        "kind": "recall",
+        "source": "Instuderingsfrågor Block 3 · extrauppgift"
+      },
+      {
+        "id": "nerves-extra13",
+        "q": "Vilka två organ bildar CNS?",
+        "a": "Hjärnan och ryggmärgen.",
+        "kind": "recall",
+        "source": "Lektionskontroll · bokbaserad · D1_P01"
+      },
+      {
+        "id": "nerves-extra14",
+        "q": "Är en nerv och en nervcell samma sak?",
+        "a": "Nej. En nerv innehåller många nervfibrer.",
+        "kind": "recall",
+        "source": "Lektionskontroll · bokbaserad · D1_P01"
+      },
+      {
+        "id": "nerves-extra15",
+        "q": "Vad frisätts vid en kemisk synaps?",
+        "a": "Signalsubstanser, transmittorsubstanser.",
+        "kind": "recall",
+        "source": "Lektionskontroll · bokbaserad · D1_P02"
+      },
+      {
+        "id": "nerves-extra16",
+        "q": "Hur kan skadat myelin påverka nervsignalen?",
+        "a": "Fortledningen kan bli långsammare eller störas.",
+        "kind": "recall",
+        "source": "Lektionskontroll · bokbaserad · D1_P23"
+      },
+      {
+        "id": "nerves-extra17",
+        "q": "Vilken riktning har en sensorisk signal?",
+        "a": "Från receptor mot centrala nervsystemet.",
+        "kind": "recall",
+        "source": "Lektionskontroll · bokbaserad · D1_P08"
+      },
+      {
+        "id": "nerves-extra18",
+        "q": "Vilken del är särskilt viktig för koordination och balans?",
+        "a": "Lillhjärnan.",
+        "kind": "recall",
+        "source": "Lektionskontroll · bokbaserad · D1_P05"
+      },
+      {
+        "id": "nerves-extra19",
+        "q": "Vilka två artärsystem står för hjärnans huvudsakliga blodförsörjning?",
+        "a": "Inre halsartärerna och kotartärerna.",
+        "kind": "recall",
+        "source": "Lektionskontroll · bokbaserad · D1_P06"
+      },
+      {
+        "id": "nerves-extra20",
+        "q": "Slutar ryggmärgen längst ned i korsbenet?",
+        "a": "Nej. Hos vuxna slutar den vanligen ungefär vid L1–L2.",
+        "kind": "recall",
+        "source": "Lektionskontroll · bokbaserad · D1_P07"
+      },
+      {
+        "id": "nerves-extra21",
+        "q": "Vad utlöser sträckreflexen?",
+        "a": "Sträckning av muskeln som registreras av muskelspolar.",
+        "kind": "recall",
+        "source": "Lektionskontroll · bokbaserad · D1_P10"
+      },
+      {
+        "id": "nerves-extra22",
+        "q": "Är alla somatiska reaktioner medvetna?",
+        "a": "Nej. Somatiska reflexer är automatiska.",
+        "kind": "recall",
+        "source": "Lektionskontroll · bokbaserad · D1_P10"
+      },
+      {
+        "id": "nerves-extra23",
+        "q": "Vad händer ofta med hjärtfrekvensen vid sympatikusaktivering?",
+        "a": "Den ökar.",
+        "kind": "recall",
+        "source": "Lektionskontroll · bokbaserad · D1_P11"
+      }
+    ],
+    "pages": [
+      "D1_P01",
+      "D1_P02",
+      "D1_P03",
+      "D1_P04",
+      "D1_P05",
+      "D1_P06",
+      "D1_P07",
+      "D1_P08",
+      "D1_P09",
+      "D1_P10",
+      "D1_P11",
+      "D1_P12",
+      "D1_P13"
+    ]
+  },
+  {
+    "id": "senses",
+    "number": "1.4",
+    "title": "Sinnesorganen",
+    "intro": "Följ hur ljus, ljud, rörelse, lukt och smak blir nervsignaler.",
+    "topics": [
+      "Syn",
+      "Hörsel och balans",
+      "Lukt, smak och känsel"
+    ],
+    "questions": [
+      {
+        "id": "senses-1",
+        "q": "Var registrerar vi lukt?",
+        "a": "Luktsinnesceller finns i övre delen av näshålan.",
+        "kind": "recall",
+        "source": "Instuderingsfrågor Block 3 · fråga 1"
+      },
+      {
+        "id": "senses-2",
+        "q": "Var registrerar vi smak?",
+        "a": "Smaksinnesceller, även kallade smaklökar, finns på tungan.",
+        "kind": "recall",
+        "source": "Instuderingsfrågor Block 3 · fråga 2"
+      },
+      {
+        "id": "senses-3",
+        "q": "Var registreras känsel?",
+        "a": "Känselreceptorer finns i princip överallt på huden.",
+        "kind": "recall",
+        "source": "Instuderingsfrågor Block 3 · fråga 3"
+      },
+      {
+        "id": "senses-4",
+        "q": "Vilken funktion fyller trumhinnan?",
+        "a": "Trumhinnan är en tunn hinna som sätts i svängning av ljudvågor och som förmedlar dessa svängningar till de tre hörselbenen i mellanörat.",
+        "kind": "recall",
+        "source": "Instuderingsfrågor Block 3 · fråga 4"
+      },
+      {
+        "id": "senses-5",
+        "q": "Beskriv hur vi hör.",
+        "a": "Ljudvågor sätter trumhinnan i rörelse. Ljudets svängningar passar vidare in till de tre hörselbenen som har till uppgift att förstärka ljudvågorna. Svängningarna fortsätter till det ovala fönstret som täcker ingången till hörselsnäckan. Hörselsnäckan innehåller små hår med sinnesceller. Dessa sinnesceller registrerar ljudet och för informationen vidare till hjärnan via hörselnerven.",
+        "kind": "recall",
+        "source": "Instuderingsfrågor Block 3 · fråga 5"
+      },
+      {
+        "id": "senses-6",
+        "q": "Vad är en vaxpropp i örat?",
+        "a": "En vaxpropp består av svett och talg, döda öronhår och hudceller.",
+        "kind": "recall",
+        "source": "Instuderingsfrågor Block 3 · fråga 6"
+      },
+      {
+        "id": "senses-7",
+        "q": "Var registreras färger i ögat?",
+        "a": "Färger registreras i näthinnans tappar.",
+        "kind": "recall",
+        "source": "Instuderingsfrågor Block 3 · fråga 7"
+      },
+      {
+        "id": "senses-8",
+        "q": "Vilken funktion fyller pupillen?",
+        "a": "Pupillen släpper in ljus i ögat.",
+        "kind": "recall",
+        "source": "Instuderingsfrågor Block 3 · fråga 8"
+      },
+      {
+        "id": "senses-9",
+        "q": "Vilken funktion fyller tårvätskan?",
+        "a": "Tårvätska håller hornhinnan fuktig och ren.",
+        "kind": "recall",
+        "source": "Instuderingsfrågor Block 3 · fråga 9"
+      },
+      {
+        "id": "senses-10",
+        "q": "Beskriv hur vi ser.",
+        "a": "Inkommande ljusstrålar bryts först i hornhinnan och i vätskan i den främre ögonkammaren. Ljusstrålarna går sedan genom pupillen där de bryts i linsen och senare i glaskroppen. Bilden hamnar förminskad och upp- och nervänd på näthinnan och registreras av sinnesceller. Synnerven leder informationen till hjärnans syncentrum. Bilden uppfattas där rättvänd.",
+        "kind": "recall",
+        "source": "Instuderingsfrågor Block 3 · fråga 10"
+      },
+      {
+        "id": "senses-11",
+        "q": "Beskriv hur vi registrerar balansen.",
+        "a": "Innerörats tre båggångar registrerar rotationsrörelser. De två hinnsäckarna registrerar linjär acceleration och tyngdkraft med hjälp av sinnesstrukturer där kalkkristaller finns. Balansinformation samordnas även med syn och proprioception.",
+        "kind": "recall",
+        "source": "Instuderingsfrågor Block 3 · fråga 11 · medicinskt förtydligat/rättat",
+        "originalAnswer": "Balansen registreras i innerörat. Balansorganet består av tre båggångar och två hinnsäckar. Båggångarna innehåller vätska och små kristaller. Vid lägesändring av huvudet rör sig vätskan och kristallerna. Balanssinnescellerna förmedlar impulser via balansnerven till lilla hjärnan."
+      },
+      {
+        "id": "senses-extra11",
+        "q": "Varför räcker inte en receptor ensam för en medveten sinnesupplevelse?",
+        "a": "Informationen måste också föras vidare och bearbetas av nervsystemet.",
+        "kind": "recall",
+        "source": "Lektionskontroll · bokbaserad · D1_P14"
+      },
+      {
+        "id": "senses-extra12",
+        "q": "Är pupillen en lins?",
+        "a": "Nej. Den är en öppning som släpper in ljus.",
+        "kind": "recall",
+        "source": "Lektionskontroll · bokbaserad · D1_P14"
+      },
+      {
+        "id": "senses-extra13",
+        "q": "Vilka sinnesceller registrerar färger?",
+        "a": "Tapparna i näthinnan.",
+        "kind": "recall",
+        "source": "Lektionskontroll · bokbaserad · D1_P15"
+      },
+      {
+        "id": "senses-extra14",
+        "q": "Vilken uppgift har trumhinnan?",
+        "a": "Att sättas i svängning av ljud och förmedla rörelsen till hörselbenen.",
+        "kind": "recall",
+        "source": "Lektionskontroll · bokbaserad · D1_P16"
+      },
+      {
+        "id": "senses-extra15",
+        "q": "Var finns kalkkristallerna normalt i balansorganet?",
+        "a": "I hinnsäckarnas sinnesstrukturer.",
+        "kind": "recall",
+        "source": "Lektionskontroll · bokbaserad · D1_P16"
+      },
+      {
+        "id": "senses-extra16",
+        "q": "Varför kan mat smaka mindre när näsan är täppt?",
+        "a": "Lukten bidrar starkt till den samlade smakupplevelsen.",
+        "kind": "recall",
+        "source": "Lektionskontroll · bokbaserad · D1_P18"
+      }
+    ],
+    "pages": [
+      "D1_P14",
+      "D1_P15",
+      "D1_P16",
+      "D1_P17",
+      "D1_P18",
+      "D1_P19"
+    ]
+  },
+  {
+    "id": "pain",
+    "number": "Fördjupning",
+    "title": "Smärta och undersökning",
+    "intro": "Förstå smärtupplevelsen och använd kursens verktyg för att beskriva den.",
+    "topics": [
+      "Smärtmekanismer",
+      "VAS och smärtteckning",
+      "Frågor och yrkesroll"
+    ],
+    "questions": [
+      {
+        "id": "pain-extra0",
+        "q": "Vilka frågor bör du ställa till en person som har ont?",
+        "a": "Var, när och hur gör det ont? Hur länge har besvären funnits? Har de förekommit tidigare? Vad hände när de började?",
+        "kind": "recall",
+        "source": "Instuderingsfrågor Block 3 · extrauppgift"
+      },
+      {
+        "id": "pain-extra1",
+        "q": "Vilka olika typer av fysisk smärta tar kursen upp?",
+        "a": "Kursen tar upp nociceptiv, neuropatisk, psykogen och idiopatisk smärta samt fantomsmärta. Termerna är inte alla jämförbara mekanismer; se lektionen om smärtbegrepp och dess förtydligande.",
+        "kind": "recall",
+        "source": "Instuderingsfrågor Block 3 · extrauppgift"
+      },
+      {
+        "id": "pain-extra2",
+        "q": "Vad är och hur används en VAS-skala?",
+        "a": "En visuell analog skala är en linje där personen markerar sin smärtintensitet mellan ingen smärta och värsta tänkbara smärta. Den beskriver upplevelsen, inte orsaken.",
+        "kind": "recall",
+        "source": "Instuderingsfrågor Block 3 · extrauppgift"
+      },
+      {
+        "id": "pain-extra3",
+        "q": "Vad är och hur används en smärtteckning?",
+        "a": "Personen markerar var smärtan upplevs på en kroppsbild och kan beskriva hur den känns. Den stödjer kartläggningen men ställer inte ensam en diagnos.",
+        "kind": "recall",
+        "source": "Instuderingsfrågor Block 3 · extrauppgift"
+      },
+      {
+        "id": "pain-extra4",
+        "q": "Hur kan syn- eller hörselnedsättning påverka rörelseapparaten?",
+        "a": "Kursens exempel är kompensatorisk hållning och muskelspänning, exempelvis att vrida huvudet för att höra med det bättre örat. Sambandet måste bedömas individuellt och är inte en automatisk förklaring till smärta.",
+        "kind": "recall",
+        "source": "Instuderingsfrågor Block 3 · extrauppgift"
+      },
+      {
+        "id": "pain-extra5",
+        "q": "Kan smärta påverkas av sömn och oro utan att vara inbillad?",
+        "a": "Ja. Smärtupplevelsen formas av flera faktorer.",
+        "kind": "recall",
+        "source": "Lektionskontroll · bokbaserad · D1_P20"
+      },
+      {
+        "id": "pain-extra6",
+        "q": "Betyder okänd smärtorsak att smärtan inte är verklig?",
+        "a": "Nej. Okänd orsak betyder inte att upplevelsen är påhittad.",
+        "kind": "recall",
+        "source": "Lektionskontroll · bokbaserad · D1_P21"
+      },
+      {
+        "id": "pain-extra7",
+        "q": "Vilka tre grundfrågor kan du börja med?",
+        "a": "Var gör det ont, när gör det ont och hur känns det?",
+        "kind": "recall",
+        "source": "Lektionskontroll · bokbaserad · D1_P22"
+      },
+      {
+        "id": "pain-extra8",
+        "q": "Kan ett VAS-värde ensamt tala om vad som orsakar smärtan?",
+        "a": "Nej. Det beskriver intensiteten, inte orsaken.",
+        "kind": "recall",
+        "source": "Lektionskontroll · bokbaserad · D1_P22"
+      }
+    ],
+    "pages": [
+      "D1_P20",
+      "D1_P21",
+      "D1_P22"
+    ]
+  },
+  {
+    "id": "neurodisease",
+    "number": "4.3",
+    "title": "Nervsystemets sjukdomar",
+    "intro": "Koppla MS, Parkinson, epilepsi och stroke till vad som händer i nervsystemet.",
+    "topics": [
+      "MS och Parkinson",
+      "Epilepsi",
+      "Stroke"
+    ],
+    "questions": [
+      {
+        "id": "neurodisease-1",
+        "q": "Vilka är symtomen på sjukdomen MS?",
+        "a": "Synnervsinflammation med dubbelseende, koordinationsstörningar, sluddrigt tal, stöd blås- och tarmfunktion, smärta, trötthet, nedsatt kognitiv förmåga, stickningar, domningar samt muskelsvaghet.",
+        "kind": "recall",
+        "source": "Instuderingsfrågor Block 3 · fråga 1"
+      },
+      {
+        "id": "neurodisease-2",
+        "q": "Vad är orsaken till Parkinsons sjukdom?",
+        "a": "Parkinsons sjukdom orsakas av brist på signalsubstansen dopamin.",
+        "kind": "recall",
+        "source": "Instuderingsfrågor Block 3 · fråga 2"
+      },
+      {
+        "id": "neurodisease-3",
+        "q": "Vilka är symtomen vid Parkinsons sjukdom?",
+        "a": "Symtomen vid Parkinsons sjukdom är långsamma rörelser med nedsatt balans och förlorad finmotorik. Påverkat tal, stelhet, skakighet och sväljningssvårigheter är andra symtom.",
+        "kind": "recall",
+        "source": "Instuderingsfrågor Block 3 · fråga 3"
+      },
+      {
+        "id": "neurodisease-4",
+        "q": "Vad är den medicinska behandlingen vid Parkinsons sjukdom?",
+        "a": "Parkinsons behandlas genom läkemedel som innehåller L-DOPA. Sjukgymnastik kompletterar behandlingen.",
+        "kind": "recall",
+        "source": "Instuderingsfrågor Block 3 · fråga 4"
+      },
+      {
+        "id": "neurodisease-5",
+        "q": "Vad kan vara orsaken till epilepsi?",
+        "a": "Epilepsi kan ha genetiska eller strukturella orsaker, exempelvis hjärnskada, men orsaken kan också vara okänd. Sömnbrist och andra faktorer kan utlösa anfall och är inte samma sak som epilepsins grundorsak. Enstaka provocerade anfall innebär inte alltid epilepsi.",
+        "kind": "recall",
+        "source": "Instuderingsfrågor Block 3 · fråga 5 · medicinskt förtydligat/rättat",
+        "originalAnswer": "Orsaker till epilepsi kan vara ärftlighet, extrem trötthet, hög feber, hormonella störningar och förgiftningar."
+      },
+      {
+        "id": "neurodisease-6",
+        "q": "Hur brukar man dela upp epilepsi utifrån anfallen?",
+        "a": "Anfall delas vanligen in i fokala och generaliserade, motsvarande kursens äldre termer partiella och generella.",
+        "kind": "recall",
+        "source": "Instuderingsfrågor Block 3 · fråga 6 · medicinskt förtydligat/rättat",
+        "originalAnswer": "Epilepsi delas in i partiella och generella fall."
+      },
+      {
+        "id": "neurodisease-7",
+        "q": "Hur ställer man diagnos vid epilepsi?",
+        "a": "Diagnosen epilepsi ställs genom sjukdomshistoriken och kompletteras med EEG och sömn-EEG.",
+        "kind": "recall",
+        "source": "Instuderingsfrågor Block 3 · fråga 7"
+      },
+      {
+        "id": "neurodisease-8",
+        "q": "Hur ska du hjälpa en person som har ett epileptiskt anfall?",
+        "a": "Skydda personen från skador, skydda huvudet och ta tid. Håll inte fast och stoppa inget i munnen. Kontrollera andning efter kramperna. Ring 112 vid ett första anfall, anfall som varar fem minuter eller längre, upprepade anfall utan återhämtning eller utebliven återhämtning eller onormal andning. Vid medvetslöshet och normal andning: stabilt sidoläge. Följ larmoperatörens instruktioner vid onormal andning. Akutmedicin ges bara enligt personens ordination och kända instruktioner.",
+        "kind": "recall",
+        "source": "Instuderingsfrågor Block 3 · fråga 8 · medicinskt förtydligat/rättat",
+        "originalAnswer": "Man ska se till att personen inte befinner sig på en farlig plats, föremål kan behöva flyttas bort. Efteråt ska fri luftväg säkras. Ibland har personen kramplösande medicin i form av stolpiller som ska ges."
+      },
+      {
+        "id": "neurodisease-9",
+        "q": "Vad kan orsaka en stroke?",
+        "a": "Stroke kan orsakas av blodproppsbildning som stoppar blodflödet i hjärnan eller av en blödning i något av hjärnans kärl.",
+        "kind": "recall",
+        "source": "Instuderingsfrågor Block 3 · fråga 9"
+      },
+      {
+        "id": "neurodisease-11",
+        "q": "Vilka är symtomen vid stroke?",
+        "a": "Plötslig ansiktsasymmetri, svaghet i arm eller ben, tal- eller språkproblem och synpåverkan kan vara stroke. Balansstörning eller kraftig huvudvärk kan också förekomma. Ring 112 direkt vid misstanke, även om symtomen går över.",
+        "kind": "recall",
+        "source": "Instuderingsfrågor Block 3 · fråga 11 · medicinskt förtydligat/rättat",
+        "originalAnswer": "Symtomen vid stroke kan vara intensiv huvudvärk, yrsel, illamående, sänkt medvetande eller medvetslöshet, urin- och faecesavgång samt halvsidig förlamning."
+      },
+      {
+        "id": "neurodisease-13",
+        "q": "Vad är den medicinska behandlingen vid stroke?",
+        "a": "Om orsaken till stroke är blodpropp ges läkemedel för att lösa upp blodproppen eller minska risken för pålagring av denna. Om orsaken till stroken istället är en blödning kan det bli aktuellt med operation.",
+        "kind": "recall",
+        "source": "Instuderingsfrågor Block 3 · fråga 13"
+      },
+      {
+        "id": "neurodisease-extra11",
+        "q": "Varför har inte alla med MS samma symtom?",
+        "a": "Olika nervbanor och områden kan vara påverkade.",
+        "kind": "recall",
+        "source": "Lektionskontroll · bokbaserad · D1_P23"
+      },
+      {
+        "id": "neurodisease-extra12",
+        "q": "Vilken signalsubstans är särskilt viktig vid Parkinson?",
+        "a": "Dopamin.",
+        "kind": "recall",
+        "source": "Lektionskontroll · bokbaserad · D2_P01"
+      },
+      {
+        "id": "neurodisease-extra13",
+        "q": "Måste ett epileptiskt anfall ge stora kramper?",
+        "a": "Nej. Anfall kan exempelvis påverka medvetande, känsel eller beteende.",
+        "kind": "recall",
+        "source": "Lektionskontroll · bokbaserad · D2_P03"
+      },
+      {
+        "id": "neurodisease-extra14",
+        "q": "Vilken elektrisk aktivitet registrerar EEG?",
+        "a": "Hjärnans elektriska aktivitet.",
+        "kind": "recall",
+        "source": "Lektionskontroll · bokbaserad · D2_P04"
+      },
+      {
+        "id": "neurodisease-extra15",
+        "q": "Ska du stoppa in något i munnen för att skydda tungan?",
+        "a": "Nej. Stoppa inget i munnen och håll inte fast personen.",
+        "kind": "recall",
+        "source": "Lektionskontroll · bokbaserad · D2_P04"
+      },
+      {
+        "id": "neurodisease-extra16",
+        "q": "Är övergående strokesymtom ofarliga?",
+        "a": "Nej. De kan vara TIA och behöver akut bedömning.",
+        "kind": "recall",
+        "source": "Lektionskontroll · bokbaserad · D2_P05"
+      },
+      {
+        "id": "neurodisease-extra17",
+        "q": "Varför måste vården avgöra om stroken beror på propp eller blödning?",
+        "a": "För att välja rätt behandling; proppupplösande behandling passar inte vid hjärnblödning.",
+        "kind": "recall",
+        "source": "Lektionskontroll · bokbaserad · D2_P06"
+      },
+      {
+        "id": "neurodisease-extra18",
+        "q": "Är ALS framför allt en sjukdom i musklernas egna fibrer?",
+        "a": "Nej. Motoriska nervceller påverkas och muskelfunktionen försämras som följd.",
+        "kind": "recall",
+        "source": "Lektionskontroll · bokbaserad · D2_P07"
+      },
+      {
+        "id": "neurodisease-extra19",
+        "q": "Är Alzheimers sjukdom och demens exakt samma begrepp?",
+        "a": "Nej. Alzheimer är en av flera demenssjukdomar.",
+        "kind": "recall",
+        "source": "Lektionskontroll · bokbaserad · D2_P09"
+      }
+    ],
+    "pages": [
+      "D1_P23",
+      "D1_P24",
+      "D2_P01",
+      "D2_P02",
+      "D2_P03",
+      "D2_P04",
+      "D2_P05",
+      "D2_P06",
+      "D2_P07",
+      "D2_P08",
+      "D2_P09",
+      "D2_P10",
+      "D2_P11",
+      "D2_P12",
+      "D2_P13"
+    ]
+  },
+  {
+    "id": "hormones",
+    "number": "1.8",
+    "title": "Endokrina organ",
+    "intro": "Förstå hur hormoner bildas, når målceller och regleras.",
+    "topics": [
+      "Hypotalamus och hypofys",
+      "Körtlar och hormoner",
+      "Återkoppling"
+    ],
+    "questions": [
+      {
+        "id": "hormones-1",
+        "q": "Beskriv skillnaden mellan en endokrin och en exokrin körtel?",
+        "a": "En endokrin körtel avger sina hormoner direkt till blodet. En exokrin körtel avger det den producerar via en utförselgång till kroppens utsida, tex. svett körtel avger svett till hudytan. Ett annat exempel på en exokrinkörtel är bukspottkörteln som producerar och utsöndrar bukspott till tarmen. Bukspottkörteln är även en endokrin körtel där den bildar och insöndrar insulin och glukagon till blodet.",
+        "kind": "recall",
+        "source": "Instuderingsfrågor Block 3 · fråga 1"
+      },
+      {
+        "id": "hormones-2",
+        "q": "Vilken funktion fyller hormoner?",
+        "a": "De fungerar som budbärare för att påverka andra organ att arbeta samt till dess för ökad eller minskad funktion.",
+        "kind": "recall",
+        "source": "Instuderingsfrågor Block 3 · fråga 2"
+      },
+      {
+        "id": "hormones-3",
+        "q": "Vilken funktion har hypothalamus?",
+        "a": "Hypothalamus påverkar både det autonoma nervsystemet och det endokrina systemet.",
+        "kind": "recall",
+        "source": "Instuderingsfrågor Block 3 · fråga 3"
+      },
+      {
+        "id": "hormones-4",
+        "q": "Vilka hormoner produceras i hypofysen?",
+        "a": "Framloben producerar bland annat GH/STH, TSH, ACTH, FSH, LH och prolaktin/LTH. Kursen tar även upp beta-endorfiner och MSH-relaterade funktioner. ADH och oxytocin bildas i hypotalamus och frisätts från bakloben; de produceras inte där.",
+        "kind": "recall",
+        "source": "Instuderingsfrågor Block 3 · fråga 4 · medicinskt förtydligat/rättat",
+        "originalAnswer": "STH, TSH, ACTH, FSH, LH, LTH, B-endorfiner, MSH, ADH och Oxytocin."
+      },
+      {
+        "id": "hormones-5",
+        "q": "Vilken funktion fyller hypofysproducerade hormon?",
+        "a": "GH/STH stimulerar tillväxt; TSH stimulerar sköldkörtelns hormonproduktion; ACTH stimulerar binjurebarkens kortisolproduktion; FSH och LH reglerar könskörtlarna; prolaktin/LTH stimulerar mjölkbildning. ADH ökar vattenåterupptag i njurarna. Oxytocin påverkar livmodersammandragningar och mjölkutdrivning. Beta-endorfiner deltar i smärtmodulering och MSH-relaterade signaler påverkar pigmentering.",
+        "kind": "recall",
+        "source": "Instuderingsfrågor Block 3 · fråga 5 · medicinskt förtydligat/rättat",
+        "originalAnswer": "STH stimulerar tillväxten, TSH deltar i förbränningen av fett och uppbyggnad av muskler, ACTH stimulerar binjurebarken, FSH stimulerar äggstockarna, LH stimulerar ägglossning, LTH stimulerar mjölkkörtlarna, B-endorfiner är kroppseget smärtstillande, MSH stimulerar pigmentproduktion, ADH stimulerar återuppsugningen av vatten i njurarna och Oxytocin stimulerar livmodern."
+      },
+      {
+        "id": "hormones-6",
+        "q": "Hur verkar tyroxin och trijodthyronin?",
+        "a": "Dessa hormon påverkar ämnesomsättningen cellerna samt normal kroppstillväxt och normal psykisk utveckling.",
+        "kind": "recall",
+        "source": "Instuderingsfrågor Block 3 · fråga 6"
+      },
+      {
+        "id": "hormones-7",
+        "q": "Hur verkar parathormon?",
+        "a": "Parathormon reglerar kalcium och fosfathalten i blodet, vilket är viktig för nerver och musklers retbarhet.",
+        "kind": "recall",
+        "source": "Instuderingsfrågor Block 3 · fråga 7"
+      },
+      {
+        "id": "hormones-8",
+        "q": "Hur verkar dopamin?",
+        "a": "Dopamin är främst en signalsubstans med flera roller, bland annat i rörelsereglering och belöningsprocesser. Det hämmar även prolaktinfrisättning. Det är inte enbart ett belöningshormon.",
+        "kind": "recall",
+        "source": "Instuderingsfrågor Block 3 · fråga 8 · medicinskt förtydligat/rättat",
+        "originalAnswer": "Det är ett belöningshormon som påverkar humöret."
+      },
+      {
+        "id": "hormones-9",
+        "q": "Hur verkar insulin?",
+        "a": "Insulin sänker blodglukos, bland annat genom ökat upptag i muskel- och fettvävnad och ökad lagring. Alla cellers glukosupptag är inte insulinberoende.",
+        "kind": "recall",
+        "source": "Instuderingsfrågor Block 3 · fråga 9 · medicinskt förtydligat/rättat",
+        "originalAnswer": "Insulin hjälper socker in i cellerna."
+      },
+      {
+        "id": "hormones-10",
+        "q": "Hur verkar glukagon?",
+        "a": "Glukagon höjer blodglukos genom att stimulera leverns nedbrytning av glykogen och nybildning av glukos. Det är missvisande att säga att allt lagrat fett direkt omvandlas till glukos.",
+        "kind": "recall",
+        "source": "Instuderingsfrågor Block 3 · fråga 10 · medicinskt förtydligat/rättat",
+        "originalAnswer": "Glukagon stimulerar levern att tillverka glukos. Bildar glukos av det i cellerna inlagrade fettet."
+      },
+      {
+        "id": "hormones-extra10",
+        "q": "Hur verkar adrenalin och noradrenalin?",
+        "a": "De bidrar till kroppens beredskapsreaktion. Bland annat ökar hjärtats arbete och blodflödet omfördelas. Adrenalin och noradrenalin har olika receptorberoende effekter; noradrenalin fungerar också som signalsubstans i nervsystemet.",
+        "kind": "recall",
+        "source": "Instuderingsfrågor Block 3 · extrauppgift · förtydligat"
+      },
+      {
+        "id": "hormones-extra11",
+        "q": "Varför är bukspottkörteln både endokrin och exokrin?",
+        "a": "Den frisätter hormoner till blodet och bukspott genom en gång till tarmen.",
+        "kind": "recall",
+        "source": "Lektionskontroll · bokbaserad · D2_P14"
+      },
+      {
+        "id": "hormones-extra12",
+        "q": "Varför reagerar inte alla celler likadant på ett hormon?",
+        "a": "De har olika receptorer och olika funktioner.",
+        "kind": "recall",
+        "source": "Lektionskontroll · bokbaserad · D2_P15"
+      },
+      {
+        "id": "hormones-extra13",
+        "q": "Bildas ADH i hypofysens baklob?",
+        "a": "Nej. Det bildas i hypotalamus och frisätts från bakloben.",
+        "kind": "recall",
+        "source": "Lektionskontroll · bokbaserad · D2_P17"
+      },
+      {
+        "id": "hormones-extra14",
+        "q": "Vilket organ stimuleras av TSH?",
+        "a": "Sköldkörteln.",
+        "kind": "recall",
+        "source": "Lektionskontroll · bokbaserad · D2_P18"
+      },
+      {
+        "id": "hormones-extra15",
+        "q": "Varför kan TSH minska när sköldkörtelhormonerna ökar?",
+        "a": "Ökningen ger negativ återkoppling som minskar hypofysens TSH-frisättning.",
+        "kind": "recall",
+        "source": "Lektionskontroll · bokbaserad · D2_P16"
+      },
+      {
+        "id": "hormones-extra16",
+        "q": "Vilket hormon bildas i bisköldkörtlarna?",
+        "a": "Parathormon, PTH.",
+        "kind": "recall",
+        "source": "Lektionskontroll · bokbaserad · D2_P19"
+      },
+      {
+        "id": "hormones-extra17",
+        "q": "Vilken del av binjuren frisätter adrenalin?",
+        "a": "Binjuremärgen.",
+        "kind": "recall",
+        "source": "Lektionskontroll · bokbaserad · D2_P20"
+      },
+      {
+        "id": "hormones-extra18",
+        "q": "Vilket hormon stimulerar levern att öka tillgången på glukos?",
+        "a": "Glukagon.",
+        "kind": "recall",
+        "source": "Lektionskontroll · bokbaserad · D2_P23"
+      },
+      {
+        "id": "hormones-extra19",
+        "q": "Varför är lyckohormon en ofullständig beskrivning av dopamin?",
+        "a": "Dopamin har även viktiga roller i rörelsereglering och hormonstyrning.",
+        "kind": "recall",
+        "source": "Lektionskontroll · bokbaserad · D2_P24"
+      }
+    ],
+    "pages": [
+      "D2_P14",
+      "D2_P15",
+      "D2_P16",
+      "D2_P17",
+      "D2_P18",
+      "D2_P19",
+      "D2_P20",
+      "D2_P21",
+      "D2_P22",
+      "D2_P23",
+      "D2_P24",
+      "D3_P01"
+    ]
+  },
+  {
+    "id": "endodisease",
+    "number": "4.10",
+    "title": "Sjukdomar i det endokrina systemet",
+    "intro": "Förstå diabetes och sköldkörtelsjukdomar genom deras mekanismer.",
+    "topics": [
+      "Diabetes",
+      "Lågt blodsocker och komplikationer",
+      "Struma och sköldkörtelfunktion"
+    ],
+    "questions": [
+      {
+        "id": "endodisease-1",
+        "q": "Hur delar man upp diabetes?",
+        "a": "Man delar vanligtvis upp diabetes mellitus i typ 1 och typ 2.",
+        "kind": "recall",
+        "source": "Instuderingsfrågor Block 3 · fråga 1"
+      },
+      {
+        "id": "endodisease-2",
+        "q": "Vad är skillnaderna mellan de olika typerna?",
+        "a": "Typ 1 innebär vanligen autoimmun förlust av betaceller och uttalad insulinbrist. Typ 2 innebär insulinresistens tillsammans med otillräcklig insulinproduktion i förhållande till behovet; produktionen kan vara hög tidigt och senare sjunka. Båda kan förekomma i olika åldrar.",
+        "kind": "recall",
+        "source": "Instuderingsfrågor Block 3 · fråga 2 · medicinskt förtydligat/rättat",
+        "originalAnswer": "Typ 1 debuterar oftast i unga år med ett snabbt insjuknande med avmagring, trötthet, stor törst och stora urinmängder. Kroppen producerar för lite eller ingen insulin. Typ 2 är kopplat till livsstil, sjukdomen utvecklas sakta med trötthet, törst och stora urinmängder. Bukspottkörteln producerar ofta för mycket insulin. Kroppen har minskad insulinkänslighet."
+      },
+      {
+        "id": "endodisease-3",
+        "q": "Vilken funktion fyller insulin?",
+        "a": "Insulin hjälper till att sänka blodglukos genom bland annat ökat upptag i muskel- och fettvävnad. Alla kroppens celler kräver inte insulin för sitt glukosupptag.",
+        "kind": "recall",
+        "source": "Instuderingsfrågor Block 3 · fråga 3 · medicinskt förtydligat/rättat",
+        "originalAnswer": "Insulin måste finnas för att glukos ska kunna komma in i cellerna."
+      },
+      {
+        "id": "endodisease-4",
+        "q": "Vilka är symtomen på att man fått diabetes?",
+        "a": "Symtomen är avmagring vid typ 1. Stor törst och stora urinmängder är vanliga symtom liksom klåda, urinvägsinfektion och trötthet.",
+        "kind": "recall",
+        "source": "Instuderingsfrågor Block 3 · fråga 4"
+      },
+      {
+        "id": "endodisease-6",
+        "q": "Hur behandlas diabetes?",
+        "a": "Typ 1 behandlas med insulin. Vid typ 2 används individuellt anpassade matvanor, fysisk aktivitet och läkemedel, ibland insulin. Att utesluta alla kolhydrater är inte ett generellt behandlingskrav.",
+        "kind": "recall",
+        "source": "Instuderingsfrågor Block 3 · fråga 6 · medicinskt förtydligat/rättat",
+        "originalAnswer": "Vid typ 1 måste man tillföra insulin via injektioner. För typ 2 kommer man långt med att minska eller helt ta bort kolhydrater och ökad motion. Om inte dessa åtgärder räcker finns läkemedel. Dels läkemedel som ökar vävnaders känslighet för insulin och dels läkemedel som stimulerar insulinproduktionen i bukspottkörteln."
+      },
+      {
+        "id": "endodisease-7",
+        "q": "Vilka komplikationer kan uppstå vid diabetes?",
+        "a": "Komplikationer som kan uppstå beroende på den höga sockerhalten i blodet är nedsatt syn, njurpåverkan, svårläkta sår på fötterna, stroke och hjärtkärlförändringar.",
+        "kind": "recall",
+        "source": "Instuderingsfrågor Block 3 · fråga 7"
+      },
+      {
+        "id": "endodisease-8",
+        "q": "Vilka är symtomen vid insulinkänning?",
+        "a": "Symtomen är irritation, darrighet, svettning, blekhet, oro, trötthet, sluddrigt tal och ostadig gång.",
+        "kind": "recall",
+        "source": "Instuderingsfrågor Block 3 · fråga 8"
+      },
+      {
+        "id": "endodisease-9",
+        "q": "Hur behandlas insulinkänning?",
+        "a": "En vaken person som säkert kan svälja kan få snabbt socker, exempelvis druvsocker eller vanlig söt dryck. Vid medvetslöshet: ge inget att äta eller dricka och ring 112. Följ larmoperatörens instruktioner.",
+        "kind": "recall",
+        "source": "Instuderingsfrågor Block 3 · fråga 9 · medicinskt förtydligat/rättat",
+        "originalAnswer": "Vid insulinkänning behöver kroppen socker. Man kan ge en smörgås, lite saft, honung eller druvsocker."
+      },
+      {
+        "id": "endodisease-10",
+        "q": "Vad är symtomen på metabolt syndrom?",
+        "a": "Metabolt syndrom är en kombination av riskfaktorer, exempelvis bukfetma, högt blodtryck, blodfettsrubbning och förhöjt glukos, inte en enskild symtomdiagnos.",
+        "kind": "recall",
+        "source": "Instuderingsfrågor Block 3 · fråga 10 · medicinskt förtydligat/rättat",
+        "originalAnswer": "Symtomen är högt blodtryck, övervikt, rubbade blodfetter och typ 2-diabetes."
+      },
+      {
+        "id": "endodisease-11",
+        "q": "Hur kan det metabola syndromet behandlas?",
+        "a": "Individuellt anpassade levnadsvanor, fysisk aktivitet, rökstopp och behandling av blodtryck, blodfetter eller glukos när det behövs. Orsaker och behandling kan inte reduceras till enbart kolhydratintag.",
+        "kind": "recall",
+        "source": "Instuderingsfrågor Block 3 · fråga 11 · medicinskt förtydligat/rättat",
+        "originalAnswer": "De ska framförallt behandlas med förändrad livsstil, minska kolhydratintaget och öka motionen samt sluta röka om personen röker."
+      },
+      {
+        "id": "endodisease-12",
+        "q": "Vad kan orsaka struma?",
+        "a": "Det kan vara cystor eller tumörer. En vanlig orsak i utvecklingsländerna är för lite jod i kosten.",
+        "kind": "recall",
+        "source": "Instuderingsfrågor Block 3 · fråga 12"
+      },
+      {
+        "id": "endodisease-13",
+        "q": "Vilka är symtomen vid hypertyreos?",
+        "a": "Symtomen är hjärtklappning, tremor, psykisk instabilitet, nedstämt stämningsläge, viktnedgång, diarré, ökad aptit, sömnsvårigheter, svettningar, förhöjd temperatur, muskelsvaghet, trötthet och/eller menstruationsrubbningar.",
+        "kind": "recall",
+        "source": "Instuderingsfrågor Block 3 · fråga 13"
+      },
+      {
+        "id": "endodisease-14",
+        "q": "Hur behandlar man hypertyreos?",
+        "a": "Behandlingen syftar till att minska produktionen av thyreoideahormon vilket kan göras dels genom att man ger så kallas bromsmedicin eller tyreostatika. Alternativt ger man radioaktivt jod som då strålar på tyreoideacellerna för att minska produktionen eller genom operation där man tar bort en dela av sköldkörteln.",
+        "kind": "recall",
+        "source": "Instuderingsfrågor Block 3 · fråga 14"
+      },
+      {
+        "id": "endodisease-15",
+        "q": "Vilka är symtomen vid hypotyeros?",
+        "a": "Symtomen är trötthet, frusenhet, initiativlöshet, torr hud, håravfall, långsam puls, muskeltrötthet, viktuppgång, menstruationsrubbning, förstoppning, svullen i ansiktet, koncentrationssvårigheter, heshet.",
+        "kind": "recall",
+        "source": "Instuderingsfrågor Block 3 · fråga 15"
+      },
+      {
+        "id": "endodisease-16",
+        "q": "Hur behandlar man hypotyreos?",
+        "a": "Man ger thyreoideahormon i tablettform. Behandlingen är livslång.",
+        "kind": "recall",
+        "source": "Instuderingsfrågor Block 3 · fråga 16"
+      },
+      {
+        "id": "endodisease-extra15",
+        "q": "Vad betyder insulinresistens?",
+        "a": "Att vävnaderna reagerar sämre på insulin.",
+        "kind": "recall",
+        "source": "Lektionskontroll · bokbaserad · D3_P02"
+      },
+      {
+        "id": "endodisease-extra16",
+        "q": "Varför kan högt blodsocker ge ökad törst?",
+        "a": "Ökad glukosutsöndring kan dra med sig vatten i urinen och ge vätskeförlust.",
+        "kind": "recall",
+        "source": "Lektionskontroll · bokbaserad · D3_P03"
+      },
+      {
+        "id": "endodisease-extra17",
+        "q": "Kan en person med typ 2-diabetes behöva insulin?",
+        "a": "Ja. Behandlingen beror på behov och sjukdomens utveckling.",
+        "kind": "recall",
+        "source": "Lektionskontroll · bokbaserad · D3_P04"
+      },
+      {
+        "id": "endodisease-extra18",
+        "q": "Varför är nedsatt känsel relevant när du anpassar massage?",
+        "a": "Personen kan ha svårare att registrera och rapportera för starkt tryck eller obehag.",
+        "kind": "recall",
+        "source": "Lektionskontroll · bokbaserad · D3_P05"
+      },
+      {
+        "id": "endodisease-extra19",
+        "q": "Ska en medvetslös person få saft genom munnen?",
+        "a": "Nej. Ring 112 och ge inget att äta eller dricka.",
+        "kind": "recall",
+        "source": "Lektionskontroll · bokbaserad · D3_P04"
+      },
+      {
+        "id": "endodisease-extra20",
+        "q": "Är metabolt syndrom samma sak som enbart övervikt?",
+        "a": "Nej. Det handlar om en kombination av riskfaktorer.",
+        "kind": "recall",
+        "source": "Lektionskontroll · bokbaserad · D3_P06"
+      },
+      {
+        "id": "endodisease-extra21",
+        "q": "Betyder struma alltid hypertyreos?",
+        "a": "Nej. Körteln kan vara förstorad med olika nivåer av hormonfunktion.",
+        "kind": "recall",
+        "source": "Lektionskontroll · bokbaserad · D3_P07"
+      },
+      {
+        "id": "endodisease-extra22",
+        "q": "Hur skiljer sig behandlingsprincipen vid hyper- och hypotyreos?",
+        "a": "Vid hyper minskas produktionen; vid hypo ersätts bristen med hormon.",
+        "kind": "recall",
+        "source": "Lektionskontroll · bokbaserad · D3_P09"
+      }
+    ],
+    "pages": [
+      "D3_P02",
+      "D3_P03",
+      "D3_P04",
+      "D3_P05",
+      "D3_P06",
+      "D3_P07",
+      "D3_P08",
+      "D3_P09",
+      "D3_P10",
+      "D3_P11"
+    ]
+  }
+]
