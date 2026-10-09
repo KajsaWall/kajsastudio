@@ -1,0 +1,23 @@
+HELANOVA – DESIGNEXPERIMENT
+
+Detta är ett fristående designförslag för din WordPress-testsida. Den publicerade hemsidan har inte ändrats.
+
+1. Öppna forhandsvisning.html i din webbläsare för att se förslaget. Bilderna hämtas från helanova.nu och kräver internet.
+2. Öppna ENDAST din testsida (landningssida) i Elementor.
+3. Ta bort de kopierade innehållssektionerna på testsidan för att undvika dubbelt innehåll. Behåll sidhuvud och sidfot. Spara gärna först en mall av din nuvarande testversion.
+4. Lägg till en container. Välj full bredd, 100 % bredd och 0 utfyllnad (padding) och 0 mellanrum (gap). Välj sidlayout Elementor Full Width, inte Canvas, för att behålla sidhuvud och sidfot.
+5. Dra in widgeten HTML i containern. Sök efter HTML i widgetpanelen.
+6. Öppna elementor-kod.txt i en textredigerare, kopiera ALL text och klistra in i HTML-widgetens HTML-fält.
+7. Spara som utkast och förhandsgranska både dator och mobil. Om temat visar en extra sidtitel, välj Dölj titel i sidinställningarna.
+
+REDIGERA
+Text, länkar och bilder ändras i HTML-koden. Detta skapar inte separata Elementor-widgetar. För visuell redigering av varje sektion behövs en Elementor-mall i stället. CSS är begränsad till .hn-design och ändrar inte globala inställningar.
+
+FÄRGER
+Ändra --hn-ink, --hn-sage, --hn-paper och --hn-accent i början av style-blocket.
+
+BILDER OCH LÄNKAR
+Bilderna kommer från Helanovas befintliga mediabibliotek. Befintlig generell bokningsadress används: https://helahuma.hlthy.se/booking. Behandlingskorten går till befintlig behandlingssida. Kontrollera att bildval, team, kontaktuppgifter och bokningsalternativ fortfarande stämmer före publicering. Inga kundomdömen eller betyg har lagts till.
+
+AVGRÄNSNING
+Förslaget inspireras av Hermelins färgpalett och struktur; det är inte en exakt kopia. Helanovas befintliga sidhuvud och sidfot visas runt innehållet i WordPress. Förhandsvisningens enkla navigering ingår inte i HTML-widgeten. Koden har kontrollerats strukturellt och bilderna hämtats, men har inte körts i din WordPress-installation.

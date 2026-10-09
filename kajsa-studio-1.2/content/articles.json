@@ -1,0 +1,112 @@
+[
+  {
+    "id": "muskler-och-rorelse",
+    "category": "Anatomi",
+    "minutes": 5,
+    "title": {
+      "sv": "Hur skapar muskler rörelse?",
+      "en": "How do muscles create movement?"
+    },
+    "excerpt": {
+      "sv": "En introduktion till musklernas samspel med skelett och leder.",
+      "en": "An introduction to how muscles work with bones and joints."
+    },
+    "sections": {
+      "sv": [
+        {
+          "heading": "Muskler arbetar tillsammans",
+          "text": "Skelettmuskler utvecklar kraft när muskelfibrerna aktiveras. Kraften överförs via senor till skelettet och kan skapa rörelse kring en led."
+        },
+        {
+          "heading": "Agonist och antagonist",
+          "text": "Vid en rörelse kan en muskel vara huvudsakligt ansvarig (agonist), medan andra muskler bromsar, stabiliserar eller hjälper till."
+        }
+      ],
+      "en": [
+        {
+          "heading": "Muscles work together",
+          "text": "Skeletal muscles produce force when muscle fibres activate. Force is transferred through tendons to bones and can create movement around a joint."
+        },
+        {
+          "heading": "Agonist and antagonist",
+          "text": "During movement, one muscle may be the prime mover (agonist), while others assist, stabilise or control the movement."
+        }
+      ]
+    },
+    "quiz": {
+      "sv": {
+        "question": "Vad överför vanligtvis muskelkraft till skelettet?",
+        "answers": [
+          "Senor",
+          "Hud",
+          "Brosk"
+        ],
+        "correct": 0
+      },
+      "en": {
+        "question": "What usually transfers muscle force to bones?",
+        "answers": [
+          "Tendons",
+          "Skin",
+          "Cartilage"
+        ],
+        "correct": 0
+      }
+    }
+  },
+  {
+    "id": "vadvardet-smarta",
+    "category": "Fysiologi",
+    "minutes": 4,
+    "title": {
+      "sv": "Vad är smärta?",
+      "en": "What is pain?"
+    },
+    "excerpt": {
+      "sv": "Smärta är en upplevelse – inte ett direkt mått på vävnadsskada.",
+      "en": "Pain is an experience, not a direct measure of tissue damage."
+    },
+    "sections": {
+      "sv": [
+        {
+          "heading": "Ett skyddande system",
+          "text": "Smärta är en obehaglig sensorisk och emotionell upplevelse. Nervsystemet väger samman information från kroppen med sammanhang, erfarenheter och andra faktorer."
+        },
+        {
+          "heading": "Smärta och skada",
+          "text": "Smärta kan uppstå utan tydlig vävnadsskada, och vävnadsskada kan ibland förekomma utan smärta. Bedömning av ihållande eller förändrad smärta hör hemma i vården."
+        }
+      ],
+      "en": [
+        {
+          "heading": "A protective system",
+          "text": "Pain is an unpleasant sensory and emotional experience. The nervous system integrates information from the body with context, experience and other factors."
+        },
+        {
+          "heading": "Pain and injury",
+          "text": "Pain may occur without obvious tissue damage, and tissue damage may sometimes occur without pain. Persistent or changing pain deserves professional assessment."
+        }
+      ]
+    },
+    "quiz": {
+      "sv": {
+        "question": "Vilket påstående stämmer bäst?",
+        "answers": [
+          "Smärta motsvarar alltid skadans storlek",
+          "Smärta påverkas av flera faktorer",
+          "Smärta är alltid inbillad"
+        ],
+        "correct": 1
+      },
+      "en": {
+        "question": "Which statement is most accurate?",
+        "answers": [
+          "Pain always matches the extent of injury",
+          "Pain is influenced by multiple factors",
+          "Pain is always imagined"
+        ],
+        "correct": 1
+      }
+    }
+  }
+]
