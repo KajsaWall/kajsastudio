@@ -17,16 +17,16 @@ window.addEventListener('hashchange', render);
 // Läs in artiklar från JSON-filen.
 fetch('content/articles.json')
     .then(response => {
-    if (!response.ok)
-        throw new Error('Article content unavailable');
-    return response.json();
-})
+        if (!response.ok)
+            throw new Error('Article content unavailable');
+        return response.json();
+    })
     .then(data => {
-    state.articles = data;
-    render();
-})
+        state.articles = data;
+        render();
+    })
     .catch(() => {
-    render();
-    console.warn('Artiklarna kräver en webbserver (inte file://).');
-});
+        render();
+        console.warn('Artiklarna kräver en webbserver (inte file://).');
+    });
 render();
