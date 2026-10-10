@@ -1,0 +1,11 @@
+Helanova – Salvia med blå knappar
+
+Packa upp hela ZIP-filen och öppna index.html i en webbläsare.
+Behåll assets-mappen intill index.html.
+
+Mobilmeny: vit sticky navigation, hamburger/X på samma plats och en bokningsknapp i navigationen.
+Interaktioner: hover, tryckrespons, tangentbordsfokus och stöd för minskad rörelse.
+Menyn stängs vid val av länk, Escape eller byte till desktopbredd.
+
+Menybeteende, JavaScript och bildreferenser är kontrollerade.
+Den visuella layouten behöver kontrolleras i en webbläsare på mobil och desktop.
