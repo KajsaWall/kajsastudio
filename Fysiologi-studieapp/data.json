@@ -1,0 +1,2044 @@
+[
+  {
+    "id": "histology",
+    "number": "1",
+    "title": "Histologi och vävnadslära",
+    "intro": "Börja med cellen och bygg upp förståelsen för de vävnader som bildar rörelseapparaten.",
+    "topics": [
+      "Cell och vävnad",
+      "Epitel och stödjevävnad",
+      "Muskel, nerv och flytande vävnad"
+    ],
+    "questions": [
+      {
+        "id": "inst-01",
+        "q": "Vilka vävnader finns? Samt beskriv vart de finns.",
+        "a": "Epitel, bindesubstans, muskel, nerv och flytande vävnad enligt kursens indelning. Epitel på ytor och i körtlar; stödjevävnad bland annat i senor, fett, brosk och ben; muskel i rörelseapparat, hjärta och organväggar; nerv i CNS och perifera nerver; blod och lymfa i sina kärlsystem.",
+        "source": "Instuderingsfrågor · fråga 1 · förklarat svar",
+        "page": "Q_P01",
+        "kind": "recall",
+        "official": true
+      },
+      {
+        "id": "inst-02",
+        "q": "Epitelvävnad, vart hittar vi den?",
+        "a": "På kroppens yttre ytor, i hålrum och passager samt i körtlar. Exempel: hud, tarmens insida och luftvägar. Epitel skyddar och kan delta i absorption, sekretion och sinnesfunktion.",
+        "source": "Instuderingsfrågor · fråga 2 · förklarat svar",
+        "page": "Q_P01",
+        "kind": "recall",
+        "official": true
+      },
+      {
+        "id": "inst-03",
+        "q": "Vilka vävnader ingår i bindesubstansvävnaden? Samt ge ex vart du hittar dem.",
+        "a": "Bindväv, fettväv, broskväv och benväv. Exempel: sena/fascia, underhudens fett, ledbrosk och skelettets ben.",
+        "source": "Instuderingsfrågor · fråga 3 · förklarat svar",
+        "page": "Q_P01",
+        "kind": "recall",
+        "official": true
+      },
+      {
+        "id": "inst-04",
+        "q": "Nämn de tre muskelvävnadstyperna",
+        "a": "Skelettmuskelvävnad, hjärtmuskelvävnad och glatt muskelvävnad.",
+        "source": "Instuderingsfrågor · fråga 4 · förklarat svar",
+        "page": "Q_P01",
+        "kind": "recall",
+        "official": true
+      },
+      {
+        "id": "inst-14",
+        "q": "Vilka 2 bindvävstyper finns ?",
+        "a": "Underlagets två fibertyper är kollagen och elastin. Kollagen bidrar främst med draghållfasthet och elastin med elastisk återgång. Verkliga bindvävstyper innehåller olika blandningar och fiberorganisation.",
+        "source": "Instuderingsfrågor · fråga 14 · förklarat svar",
+        "page": "Q_P01",
+        "kind": "recall",
+        "official": true
+      },
+      {
+        "id": "histology-l1",
+        "q": "Varför är en muskel ett organ och inte bara en vävnad?",
+        "a": "Den innehåller flera samverkande vävnader, bland annat muskelvävnad, bindväv och nervvävnad.",
+        "source": "Lektionskontroll · B1_P02",
+        "page": "B1_P02",
+        "kind": "recall"
+      },
+      {
+        "id": "histology-l10",
+        "q": "Vilken muskelvävnad finns i tarmväggen?",
+        "a": "Glatt muskulatur.",
+        "source": "Lektionskontroll · B1_P05",
+        "page": "B1_P05",
+        "kind": "recall"
+      },
+      {
+        "id": "histology-l2",
+        "q": "Vilken grupp hör blod och lymfa till enligt kursen?",
+        "a": "Flytande vävnad.",
+        "source": "Lektionskontroll · B1_P02",
+        "page": "B1_P02",
+        "kind": "recall"
+      },
+      {
+        "id": "histology-l3",
+        "q": "Ge två exempel på var epitel finns och vad det gör där.",
+        "a": "Hudens epitel skyddar; tarmens epitel deltar i näringsupptag.",
+        "source": "Lektionskontroll · B1_P02",
+        "page": "B1_P02",
+        "kind": "recall"
+      },
+      {
+        "id": "histology-l4",
+        "q": "Är en svettkörtel exokrin eller endokrin?",
+        "a": "Exokrin, eftersom sekretet förs via en utförsgång till hudytan.",
+        "source": "Lektionskontroll · B1_P03",
+        "page": "B1_P03",
+        "kind": "recall"
+      },
+      {
+        "id": "histology-l5",
+        "q": "Vilka fyra vävnader ingår i kursens bindesubstansvävnad?",
+        "a": "Bindväv, fettväv, broskväv och benväv.",
+        "source": "Lektionskontroll · B1_P03",
+        "page": "B1_P03",
+        "kind": "recall"
+      },
+      {
+        "id": "histology-l6",
+        "q": "Finns bindväv bara utanpå muskeln?",
+        "a": "Nej, även runt muskelbuntar och enskilda muskelfibrer.",
+        "source": "Lektionskontroll · B1_P03",
+        "page": "B1_P03",
+        "kind": "recall"
+      },
+      {
+        "id": "histology-l7",
+        "q": "Vad är skillnaden mellan fett i ett cellmembran och fettvävnad?",
+        "a": "Membranet innehåller lipidmolekyler; fettvävnad består av fettceller och stödjande strukturer.",
+        "source": "Lektionskontroll · B1_P04",
+        "page": "B1_P04",
+        "kind": "recall"
+      },
+      {
+        "id": "histology-l8",
+        "q": "Vilken brosktyp finns i mellankotskivor?",
+        "a": "Trådbrosk, tillsammans med diskens geléartade kärna och övriga komponenter.",
+        "source": "Lektionskontroll · B1_P04",
+        "page": "B1_P04",
+        "kind": "recall"
+      },
+      {
+        "id": "histology-l9",
+        "q": "Varför är ben inte bara ett dött mineralstativ?",
+        "a": "Det innehåller levande celler och kärl och byggs om kontinuerligt.",
+        "source": "Lektionskontroll · B1_P04",
+        "page": "B1_P04",
+        "kind": "recall"
+      }
+    ],
+    "pages": [
+      "B1_P02",
+      "B1_P03",
+      "B1_P04",
+      "B1_P05"
+    ]
+  },
+  {
+    "id": "bone",
+    "number": "2",
+    "title": "Skelettlära och frakturer",
+    "intro": "Förstå skelettets konstruktion, tillväxt, ombyggnad och skador.",
+    "topics": [
+      "Kompakt och spongiöst ben",
+      "Tillväxt och benmärg",
+      "Frakturer och komplikationer"
+    ],
+    "questions": [
+      {
+        "id": "inst-06",
+        "q": "Namnge fyra huvudgrupper gällande skelettet.",
+        "a": "Enligt kursen: långa, korta, platta och lufthaltiga ben. Andra indelningar använder också oregelbundna ben och sesamben.",
+        "source": "Instuderingsfrågor · fråga 6 · förklarat svar",
+        "page": "Q_P01",
+        "kind": "recall",
+        "official": true
+      },
+      {
+        "id": "inst-07",
+        "q": "Vad är skelettets funktion?",
+        "a": "Stöd, stabilitet, skydd, hävstänger och muskelfästen, mineralförråd samt utrymme för blodcellsbildning i benmärg.",
+        "source": "Instuderingsfrågor · fråga 7 · förklarat svar",
+        "page": "Q_P01",
+        "kind": "recall",
+        "official": true
+      },
+      {
+        "id": "inst-08",
+        "q": "Komplikationer vid frakturer?",
+        "a": "Framför allt infektion, blödning och nervskada. Även kärlskador, kompartmentsyndrom och läkningsproblem kan förekomma.",
+        "source": "Instuderingsfrågor · fråga 8 · förklarat svar",
+        "page": "Q_P01",
+        "kind": "recall",
+        "official": true
+      },
+      {
+        "id": "bone-l1",
+        "q": "Ge tre av skelettets funktioner.",
+        "a": "Stöd, skydd och hävstänger; dessutom mineralförråd och blodcellsbildning.",
+        "source": "Lektionskontroll · B1_P11",
+        "page": "B1_P11",
+        "kind": "recall"
+      },
+      {
+        "id": "bone-l2",
+        "q": "Varför kan spongiöst ben vara starkt trots sina hålrum?",
+        "a": "Benbalkarnas organisation fördelar belastning effektivt.",
+        "source": "Lektionskontroll · B1_P11",
+        "page": "B1_P11",
+        "kind": "recall"
+      },
+      {
+        "id": "bone-l3",
+        "q": "Kan en vuxens ben fortfarande byggas om?",
+        "a": "Ja. Ombyggnad fortsätter även när längdtillväxten upphört.",
+        "source": "Lektionskontroll · B1_P12",
+        "page": "B1_P12",
+        "kind": "recall"
+      },
+      {
+        "id": "bone-l4",
+        "q": "Vad kan långvarig immobilisering göra med benvävnad?",
+        "a": "Den kan minska benmassa och hållfasthet.",
+        "source": "Lektionskontroll · B1_P13",
+        "page": "B1_P13",
+        "kind": "recall"
+      },
+      {
+        "id": "bone-l5",
+        "q": "Varför kan ett slag mot skenbenet göra så ont?",
+        "a": "Bland annat eftersom benhinnan har rik nervförsörjning.",
+        "source": "Lektionskontroll · B1_P14",
+        "page": "B1_P14",
+        "kind": "recall"
+      },
+      {
+        "id": "bone-l6",
+        "q": "Vad är skillnaden mellan öppen och sluten fraktur?",
+        "a": "Vid öppen fraktur finns en sårförbindelse till frakturområdet; vid sluten gör det inte det.",
+        "source": "Lektionskontroll · B1_P15",
+        "page": "B1_P15",
+        "kind": "recall"
+      },
+      {
+        "id": "bone-l7",
+        "q": "Kan en sluten fraktur orsaka allvarlig blödning?",
+        "a": "Ja, särskilt vid exempelvis bäcken- och lårbensfrakturer.",
+        "source": "Lektionskontroll · B1_P16",
+        "page": "B1_P16",
+        "kind": "recall"
+      }
+    ],
+    "pages": [
+      "B1_P11",
+      "B1_P12",
+      "B1_P13",
+      "B1_P14",
+      "B1_P15",
+      "B1_P16"
+    ]
+  },
+  {
+    "id": "joints",
+    "number": "3",
+    "title": "Ledlära och diskar",
+    "intro": "Koppla fogens eller ledens struktur till rörelse, stabilitet och funktion.",
+    "topics": [
+      "Fogar och synovialleder",
+      "Sex ledtyper",
+      "Diskar och ledbesvär"
+    ],
+    "questions": [
+      {
+        "id": "inst-09",
+        "q": "Vad är fog",
+        "a": "En benförbindelse utan vanlig synovial ledhåla, där ben sammanbinds av bindväv, brosk eller ben. Rörligheten är ofta liten.",
+        "source": "Instuderingsfrågor · fråga 9 · förklarat svar",
+        "page": "Q_P01",
+        "kind": "recall",
+        "official": true
+      },
+      {
+        "id": "inst-10",
+        "q": "Vilka 3 fog typer finns? Ge ex vart ni hittar dem.",
+        "a": "Bindvävsfog: membrana interossea mellan radius/ulna. Broskfog: symphysis pubica. Benfog/synostos: sammanväxta delar av sacrum. Skallens suturer är normalt fibrösa fogar.",
+        "source": "Instuderingsfrågor · fråga 10 · förklarat svar",
+        "page": "Q_P01",
+        "kind": "recall",
+        "official": true
+      },
+      {
+        "id": "inst-11",
+        "q": "Namnge de olika ledtyperna samt ex. Vart ni hittar dem, tex gångjärnsled i knäleden.",
+        "a": "Gångjärn: fingerled eller modifierat knä. Vridled: proximal radioulnarled. Planled: facettled. Sadelled: tummens CMC-led. Kulled: höft/axel. Äggled: radiokarpalled eller atlantooccipitalled. SI-leden är kursens exempel på stramled.",
+        "source": "Instuderingsfrågor · fråga 11 · förklarat svar",
+        "page": "Q_P01",
+        "kind": "recall",
+        "official": true
+      },
+      {
+        "id": "inst-12",
+        "q": "Beskriv kortfattat diskens funktion och vad den består av.",
+        "a": "Disken har anulus fibrosus, en yttre fibrös ring, och nucleus pulposus, en vattenrik kärna. Den binder samman kotkroppar, fördelar tryck och bidrar till stötdämpning och rörelse.",
+        "source": "Instuderingsfrågor · fråga 12 · förklarat svar",
+        "page": "Q_P01",
+        "kind": "recall",
+        "official": true
+      },
+      {
+        "id": "joints-l1",
+        "q": "Vad skiljer en fog från en synovialled anatomiskt?",
+        "a": "Fogen saknar den synoviala ledhålan.",
+        "source": "Lektionskontroll · B1_P17",
+        "page": "B1_P17",
+        "kind": "recall"
+      },
+      {
+        "id": "joints-l2",
+        "q": "Vilken fogtyp är symphysis pubica?",
+        "a": "En broskfog, närmare bestämt en symfys.",
+        "source": "Lektionskontroll · B1_P17",
+        "page": "B1_P17",
+        "kind": "recall"
+      },
+      {
+        "id": "joints-l3",
+        "q": "Vilken struktur producerar ledvätska?",
+        "a": "Synovialmembranet.",
+        "source": "Lektionskontroll · B1_P18",
+        "page": "B1_P18",
+        "kind": "recall"
+      },
+      {
+        "id": "joints-l4",
+        "q": "Vilken ledtyp möjliggör underarmens rotation mellan radius och ulna?",
+        "a": "Vridled.",
+        "source": "Lektionskontroll · B1_P20",
+        "page": "B1_P20",
+        "kind": "recall"
+      },
+      {
+        "id": "joints-l5",
+        "q": "Var sitter tummens sadelled?",
+        "a": "Mellan os trapezium och första metakarpalbenet, i CMC-leden.",
+        "source": "Lektionskontroll · B1_P20",
+        "page": "B1_P20",
+        "kind": "recall"
+      },
+      {
+        "id": "joints-l6",
+        "q": "Varför är stor rörlighet inte SI-ledens viktigaste uppgift?",
+        "a": "Den ska framför allt överföra och tåla belastning med hög stabilitet.",
+        "source": "Lektionskontroll · B1_P21",
+        "page": "B1_P21",
+        "kind": "recall"
+      },
+      {
+        "id": "joints-l7",
+        "q": "Vad heter diskens yttre ring och inre kärna?",
+        "a": "Anulus fibrosus och nucleus pulposus.",
+        "source": "Lektionskontroll · B1_P21",
+        "page": "B1_P21",
+        "kind": "recall"
+      },
+      {
+        "id": "joints-l8",
+        "q": "Betyder artrit alltid en bakteriell infektion?",
+        "a": "Nej. Artrit är ledinflammation som kan ha flera orsaker.",
+        "source": "Lektionskontroll · B1_P23",
+        "page": "B1_P23",
+        "kind": "recall"
+      }
+    ],
+    "pages": [
+      "B1_P17",
+      "B1_P18",
+      "B1_P20",
+      "B1_P21",
+      "B1_P23"
+    ]
+  },
+  {
+    "id": "muscle",
+    "number": "4",
+    "title": "Muskelfysiologi",
+    "intro": "Följ signalen från nervcell till kraft och förstå hur muskeln arbetar, får energi och regleras.",
+    "topics": [
+      "Muskelns byggnad och roller",
+      "Kontraktion och ATP",
+      "Fibertyper, motoriska enheter och reflexer"
+    ],
+    "questions": [
+      {
+        "id": "inst-05",
+        "q": "Vad är en motorisksenhet?",
+        "a": "Ett motorneuron och alla muskelfibrer som det innerverar.",
+        "source": "Instuderingsfrågor · fråga 5 · förklarat svar",
+        "page": "Q_P01",
+        "kind": "recall",
+        "official": true
+      },
+      {
+        "id": "inst-13",
+        "q": "Vikla arbetssätt kan muskel arbeta?",
+        "a": "Koncentriskt: förkortning under kraft. Excentriskt: förlängning under kraft. Isometriskt/statiskt: kraft utan nämnvärd yttre längd- eller ledvinkelförändring.",
+        "source": "Instuderingsfrågor · fråga 13 · förklarat svar",
+        "page": "Q_P01",
+        "kind": "recall",
+        "official": true
+      },
+      {
+        "id": "inst-15",
+        "q": "Skillnaden mellan fasiska och posturala muskler?",
+        "a": "Kursens posturala modell betonar hållning och uthållighet med större inslag av långsamma egenskaper. Fasisk funktion betonar rörelse och snabbare kraft. Hela muskler innehåller blandningar; indelningen är inte absolut.",
+        "source": "Instuderingsfrågor · fråga 15 · förklarat svar",
+        "page": "Q_P01",
+        "kind": "recall",
+        "official": true
+      },
+      {
+        "id": "inst-16",
+        "q": "Ge några exempel på fasiska resp. Posturala muskler.",
+        "a": "Kursens posturala exempel: soleus, erector spinae, iliopsoas och hamstrings. Fasiska exempel: gluteus maximus, tibialis anterior och rectus abdominis. Detta är en förenklad funktionsmodell.",
+        "source": "Instuderingsfrågor · fråga 16 · förklarat svar",
+        "page": "Q_P01",
+        "kind": "recall",
+        "official": true
+      },
+      {
+        "id": "inst-17",
+        "q": "Vad är en agonist, synergist resp. Antagonist?",
+        "a": "Agonist är huvudmuskel i aktuell rörelse, synergist hjälper och antagonist motverkar eller reglerar. Rollen beror på uppgiften.",
+        "source": "Instuderingsfrågor · fråga 17 · förklarat svar",
+        "page": "Q_P01",
+        "kind": "recall",
+        "official": true
+      },
+      {
+        "id": "inst-18",
+        "q": "Ge exempel på en rörelse som jobbar som agonist resp antagonist.",
+        "a": "Vid armbågsflexion kan biceps brachii vara agonist och triceps brachii antagonist. Vid aktiv armbågsextension kan rollerna bli de motsatta.",
+        "source": "Instuderingsfrågor · fråga 18 · förklarat svar",
+        "page": "Q_P01",
+        "kind": "recall",
+        "official": true
+      },
+      {
+        "id": "inst-19",
+        "q": "Beskriv hur en muskelkontraktion går till, från aktionspotential till kontraktion.",
+        "a": "Motorneuronets aktionspotential ger acetylkolinfrisättning vid ändplattan. Muskelfiberns aktionspotential sprids via membran och T-tubuli; SR frisätter Ca2+. Kalcium binder troponin, tropomyosin flyttas och myosin kan bilda korsbryggor med aktin. ATP driver cykeln och filamenten glider relativt varandra. Vid avslut pumpas kalcium tillbaka och muskeln kan slappna av.",
+        "source": "Instuderingsfrågor · fråga 19 · förklarat svar",
+        "page": "Q_P01",
+        "kind": "recall",
+        "official": true
+      },
+      {
+        "id": "inst-20",
+        "q": "Aerob och anaerob energiprocess, skillnaden mellan dessa?",
+        "a": "Aerob energiomsättning använder syre, främst i mitokondrier, och kan använda fett och kolhydrater. Anaerob glykolys kräver inte syre direkt och ger snabbare men mindre ATP-utbyte per glukos. Energisystemen överlappar; laktat är inte enbart avfall.",
+        "source": "Instuderingsfrågor · fråga 20 · förklarat svar",
+        "page": "Q_P01",
+        "kind": "recall",
+        "official": true
+      },
+      {
+        "id": "inst-21",
+        "q": "Vilka muskelfiber typer finns det?",
+        "a": "Typ I samt typ IIa och IIx. Typ I är långsammare och uthålligare; typ II kan arbeta snabbare med olika oxidativ/glykolytisk kapacitet.",
+        "source": "Instuderingsfrågor · fråga 21 · förklarat svar",
+        "page": "Q_P01",
+        "kind": "recall",
+        "official": true
+      },
+      {
+        "id": "inst-22",
+        "q": "Vad är skillnaden mellan typ 1 och typ 2 muskelfiber?",
+        "a": "Typ I: långsammare, uthålligare, rikare på mitokondrier, kapillärer och myoglobin. Typ II: snabbare kraftutveckling och generellt lägre uthållighet, men IIa och IIx skiljer sig.",
+        "source": "Instuderingsfrågor · fråga 22 · förklarat svar",
+        "page": "Q_P01",
+        "kind": "recall",
+        "official": true
+      },
+      {
+        "id": "inst-23",
+        "q": "Förklara vad muskelspole resp. Senspole är.",
+        "a": "Muskelspolen registrerar muskellängd och längdförändring och deltar i sträckreflexen. Golgis senorgan/senspolen registrerar spänning/kraft och bidrar till kraftreglering. Ingen receptor garanterar skydd mot alla skador.",
+        "source": "Instuderingsfrågor · fråga 23 · förklarat svar",
+        "page": "Q_P01",
+        "kind": "recall",
+        "official": true
+      },
+      {
+        "id": "inst-29",
+        "q": "Vad har senorna för funktion?",
+        "a": "Att överföra kraft från muskel till ben och bidra till ledstabilitet samt lagring och återgivning av elastisk energi.",
+        "source": "Instuderingsfrågor · fråga 29 · förklarat svar",
+        "page": "Q_P01",
+        "kind": "recall",
+        "official": true
+      },
+      {
+        "id": "muscle-l1",
+        "q": "Är en muskelfiber samma sak som en myofibrill?",
+        "a": "Nej. Muskelfibern är en cell som innehåller många myofibriller.",
+        "source": "Lektionskontroll · B2_P04",
+        "page": "B2_P04",
+        "kind": "recall"
+      },
+      {
+        "id": "muscle-l10",
+        "q": "Kan laktat användas som bränsle?",
+        "a": "Ja. Det kan transporteras och användas av andra vävnader.",
+        "source": "Lektionskontroll · B2_P07",
+        "page": "B2_P07",
+        "kind": "recall"
+      },
+      {
+        "id": "muscle-l11",
+        "q": "Vilken fibertyp har generellt högst uthållighet?",
+        "a": "Typ I.",
+        "source": "Lektionskontroll · B2_P08",
+        "page": "B2_P08",
+        "kind": "recall"
+      },
+      {
+        "id": "muscle-l12",
+        "q": "Är alla fibrer i en postural muskel typ I?",
+        "a": "Nej. Hela muskler innehåller blandningar av fibertyper.",
+        "source": "Lektionskontroll · B2_P02",
+        "page": "B2_P02",
+        "kind": "recall"
+      },
+      {
+        "id": "muscle-l13",
+        "q": "Vilken receptor startar patellarreflexen?",
+        "a": "Muskelspolar i quadriceps.",
+        "source": "Lektionskontroll · B2_P10",
+        "page": "B2_P10",
+        "kind": "recall"
+      },
+      {
+        "id": "muscle-l14",
+        "q": "Vad skiljer senspolens signal från muskelspolens?",
+        "a": "Senorganet informerar främst om spänning/kraft, muskelspolen om längd och längdförändring.",
+        "source": "Lektionskontroll · B2_P11",
+        "page": "B2_P11",
+        "kind": "recall"
+      },
+      {
+        "id": "muscle-l15",
+        "q": "Vad betyder hypertrofi i skelettmuskel?",
+        "a": "Framför allt att befintliga muskelfibrer blir större.",
+        "source": "Lektionskontroll · B2_P10",
+        "page": "B2_P10",
+        "kind": "recall"
+      },
+      {
+        "id": "muscle-l2",
+        "q": "Vilka huvuduppgifter har en sena?",
+        "a": "Att överföra kraft från muskel till ben och bidra till stabilitet och elastisk energiöverföring.",
+        "source": "Lektionskontroll · B2_P05",
+        "page": "B2_P05",
+        "kind": "recall"
+      },
+      {
+        "id": "muscle-l3",
+        "q": "Kan en antagonist vara aktiv samtidigt som agonisten?",
+        "a": "Ja, exempelvis för att stabilisera eller bromsa.",
+        "source": "Lektionskontroll · B2_P04",
+        "page": "B2_P04",
+        "kind": "recall"
+      },
+      {
+        "id": "muscle-l4",
+        "q": "Vilket arbete gör armbågsböjarna när du långsamt sänker en hantel?",
+        "a": "Excentriskt arbete.",
+        "source": "Lektionskontroll · B2_P12",
+        "page": "B2_P12",
+        "kind": "recall"
+      },
+      {
+        "id": "muscle-l5",
+        "q": "Varifrån frisätts kalcium som aktiverar kontraktionen inne i muskelfibern?",
+        "a": "Från det sarkoplasmatiska retiklet.",
+        "source": "Lektionskontroll · B2_P05",
+        "page": "B2_P05",
+        "kind": "recall"
+      },
+      {
+        "id": "muscle-l6",
+        "q": "Vad händer med myosinhuvudet när en ny ATP-molekyl binder?",
+        "a": "Det lossnar från aktin.",
+        "source": "Lektionskontroll · B2_P05",
+        "page": "B2_P05",
+        "kind": "recall"
+      },
+      {
+        "id": "muscle-l7",
+        "q": "Varför kräver muskelavslappning ATP?",
+        "a": "Bland annat för återpumpning av kalcium och för att korsbryggorna ska lossna.",
+        "source": "Lektionskontroll · B2_P05",
+        "page": "B2_P05",
+        "kind": "recall"
+      },
+      {
+        "id": "muscle-l8",
+        "q": "Hur kan muskeln öka kraften genom nervsystemets styrning?",
+        "a": "Genom att rekrytera fler motoriska enheter och öka deras aktiveringsfrekvens.",
+        "source": "Lektionskontroll · M_P18",
+        "page": "M_P18",
+        "kind": "recall"
+      },
+      {
+        "id": "muscle-l9",
+        "q": "Är energisystemen tre strömbrytare som arbetar helt separat?",
+        "a": "Nej. De bidrar samtidigt, men deras relativa betydelse varierar.",
+        "source": "Lektionskontroll · B2_P06",
+        "page": "B2_P06",
+        "kind": "recall"
+      }
+    ],
+    "pages": [
+      "B2_P04",
+      "B2_P05",
+      "B2_P12",
+      "M_P18",
+      "B2_P06",
+      "B2_P07",
+      "B2_P08",
+      "B2_P02",
+      "B2_P10",
+      "B2_P11"
+    ]
+  },
+  {
+    "id": "pathology",
+    "number": "5",
+    "title": "Patologi, läkning och smärta",
+    "intro": "Förstå vad som händer efter vävnadsskada och varför symtom och vävnadsläkning inte alltid följer samma tidslinje.",
+    "topics": [
+      "Inflammationens faser",
+      "Ligament-, sen- och muskelskador",
+      "Smärta och komplikationer"
+    ],
+    "questions": [
+      {
+        "id": "inst-24",
+        "q": "vilka 3 faser finns i en inflammationsprocess?",
+        "a": "Inflammationsfas, ärrbildnings-/proliferationsfas och mognads-/remodelleringsfas. Faserna överlappar.",
+        "source": "Instuderingsfrågor · fråga 24 · förklarat svar",
+        "page": "Q_P01",
+        "kind": "recall",
+        "official": true
+      },
+      {
+        "id": "inst-25",
+        "q": "Vad sker i resp. Fas?",
+        "a": "Inflammation: koagulation och rensning av skadat material. Ärrbildning: kärlinväxt och reparationsvävnad. Mognad: omorganisation och successiv anpassning av vävnadens hållfasthet. Tidsförloppet varierar.",
+        "source": "Instuderingsfrågor · fråga 25 · förklarat svar",
+        "page": "Q_P01",
+        "kind": "recall",
+        "official": true
+      },
+      {
+        "id": "inst-26",
+        "q": "Vilka är kardinaltecken (typiska tecken) på inflammation?",
+        "a": "Rodnad/rubor, värme/calor, svullnad/tumor, smärta/dolor och funktionsnedsättning/functio laesa.",
+        "source": "Instuderingsfrågor · fråga 26 · förklarat svar",
+        "page": "Q_P01",
+        "kind": "recall",
+        "official": true
+      },
+      {
+        "id": "inst-27",
+        "q": "Hur lång tid behövs det gå för att man ska kalla det för  långvarig smärta?",
+        "a": "Vanligen minst tre månader. Föreläsningen anger 3–6 månader, men aktuell vårddefinition använder minst tre månader.",
+        "source": "Instuderingsfrågor · fråga 27 · förklarat svar",
+        "page": "Q_P01",
+        "kind": "recall",
+        "official": true
+      },
+      {
+        "id": "inst-28",
+        "q": "Hur många % kan man ungefär påverka ligamentet med vid systematisk träning?",
+        "a": "Föreläsningen anger cirka 10–20 procent. Det är en ungefärlig kursuppgift och inte en generell prognos för alla ligament, träningsupplägg och individer.",
+        "source": "Instuderingsfrågor · fråga 28 · förklarat svar",
+        "page": "Q_P01",
+        "kind": "recall",
+        "official": true
+      },
+      {
+        "id": "inst-30",
+        "q": "Vad innebär eb partiell resp. Total ruptur?",
+        "a": "Partiell ruptur: vävnaden är delvis avbrusten. Total ruptur: fullständig avbristning. Skadan kan även sitta vid infästningen.",
+        "source": "Instuderingsfrågor · fråga 30 · förklarat svar",
+        "page": "Q_P01",
+        "kind": "recall",
+        "official": true
+      },
+      {
+        "id": "inst-31",
+        "q": "Vad är en intra resp. Intermuskulär blödning?",
+        "a": "Intramuskulär blödning hålls mer instängd inom muskelfascian. Intermuskulär blödning sprids mellan muskler och omgivande vävnadsplan. Ett blåmärke ensamt anger inte säkert skadans grad.",
+        "source": "Instuderingsfrågor · fråga 31 · förklarat svar",
+        "page": "Q_P01",
+        "kind": "recall",
+        "official": true
+      },
+      {
+        "id": "pathology-l1",
+        "q": "Kan en belastningsskada uppstå utan ett enskilt trauma?",
+        "a": "Ja, genom upprepad belastning som överstiger vävnadens återhämtningsförmåga.",
+        "source": "Lektionskontroll · B2_P13",
+        "page": "B2_P13",
+        "kind": "recall"
+      },
+      {
+        "id": "pathology-l2",
+        "q": "Är inflammation och infektion samma sak?",
+        "a": "Nej. Infektion innebär mikroorganismer; inflammation kan även följa en icke-infektiös skada.",
+        "source": "Lektionskontroll · B2_P14",
+        "page": "B2_P14",
+        "kind": "recall"
+      },
+      {
+        "id": "pathology-l3",
+        "q": "Varför ska du inte använda en viss dag som enda bevis på att en skada är läkt?",
+        "a": "För att faserna och återhämtningen varierar mellan skador och personer.",
+        "source": "Lektionskontroll · B2_P15",
+        "page": "B2_P15",
+        "kind": "recall"
+      },
+      {
+        "id": "pathology-l4",
+        "q": "I vilken fas betonas omorganisation av kollagen?",
+        "a": "Mognads-/remodelleringsfasen.",
+        "source": "Lektionskontroll · B2_P15",
+        "page": "B2_P15",
+        "kind": "recall"
+      },
+      {
+        "id": "pathology-l5",
+        "q": "Vilken förbättring anger kursen för ligament vid systematisk träning?",
+        "a": "Ungefär 10–20 procent enligt föreläsningen.",
+        "source": "Lektionskontroll · B2_P17",
+        "page": "B2_P17",
+        "kind": "recall"
+      },
+      {
+        "id": "pathology-l6",
+        "q": "Är tendinit ett annat ord för senruptur?",
+        "a": "Nej. Tendinit betyder seninflammation; ruptur betyder bristning.",
+        "source": "Lektionskontroll · B2_P18",
+        "page": "B2_P18",
+        "kind": "recall"
+      },
+      {
+        "id": "pathology-l7",
+        "q": "Kan en betydande muskelskada finnas utan stort synligt blåmärke?",
+        "a": "Ja. Blödningen kan ligga djupt eller instängt.",
+        "source": "Lektionskontroll · B2_P19",
+        "page": "B2_P19",
+        "kind": "recall"
+      },
+      {
+        "id": "pathology-l8",
+        "q": "Ska en misstänkt akut kompartmentskada masseras?",
+        "a": "Nej. Den behöver omedelbar akut vårdbedömning.",
+        "source": "Lektionskontroll · B2_P20",
+        "page": "B2_P20",
+        "kind": "recall"
+      },
+      {
+        "id": "pathology-l9",
+        "q": "Efter vilken tid används vanligen begreppet långvarig smärta?",
+        "a": "Minst tre månader.",
+        "source": "Lektionskontroll · P_P11",
+        "page": "P_P11",
+        "kind": "recall"
+      }
+    ],
+    "pages": [
+      "B2_P13",
+      "B2_P14",
+      "B2_P15",
+      "B2_P17",
+      "B2_P18",
+      "B2_P19",
+      "B2_P20",
+      "P_P11"
+    ]
+  },
+  {
+    "id": "care",
+    "number": "6–7",
+    "title": "Undersökning, skador och rehabilitering",
+    "intro": "Öva kliniskt resonemang: fråga, undersök, bedöm gränser och följ upp.",
+    "topics": [
+      "Anamnes och tester",
+      "PRICE och POLICE",
+      "Röda/gula flaggor och återgång"
+    ],
+    "questions": [
+      {
+        "id": "inst-32",
+        "q": "Vad står PRICE och POLICE för?",
+        "a": "PRICE: Protection, Rest, Ice, Compression, Elevation. POLICE: Protection, Optimal Loading, Ice, Compression, Elevation. Skillnaden är övergången från vila som huvudprincip till lämpligt doserad belastning.",
+        "source": "Instuderingsfrågor · fråga 32 · förklarat svar",
+        "page": "Q_P01",
+        "kind": "recall",
+        "official": true
+      },
+      {
+        "id": "inst-33",
+        "q": "Vad kan du som terapeut göra vid belastningsskador?",
+        "a": "Kartlägg belastning och återhämtning, undersök funktion inom din kompetens, anpassa åtgärder/råd, stöd successiv kapacitetsuppbyggnad och följ upp. Hänvisa för medicinsk bedömning vid röda flaggor, oklar större skada eller otillräcklig återhämtning.",
+        "source": "Instuderingsfrågor · fråga 33 · förklarat svar",
+        "page": "Q_P01",
+        "kind": "recall",
+        "official": true
+      },
+      {
+        "id": "inst-34",
+        "q": "Vad kan du göra i akutfasen ?",
+        "a": "Avbryt provocerande aktivitet, skydda området, bedöm allvarlighetsgrad och behov av vård. Anpassa kyla, stöd/kompression och högläge vid lämplig mjukdelsskada. Ge inte cirkulationsstrypande tryck; undvik djup massage och hård töjning över färsk skada.",
+        "source": "Instuderingsfrågor · fråga 34 · förklarat svar",
+        "page": "Q_P01",
+        "kind": "recall",
+        "official": true
+      },
+      {
+        "id": "inst-35",
+        "q": "Ge några exempel på röda flaggor (dvs allvarligare patologier)?",
+        "a": "Exempel: allvarligt trauma, feber och allmänpåverkan, tilltagande neurologiska bortfall, canceranamnes med nya oförklarade besvär samt ryggsymtom med nytillkomna blåsa/tarm-problem eller nedsatt känsel i underlivet. Vid misstänkt allvarligt tillstånd prioriteras medicinsk bedömning.",
+        "source": "Instuderingsfrågor · fråga 35 · förklarat svar",
+        "page": "Q_P01",
+        "kind": "recall",
+        "official": true
+      },
+      {
+        "id": "care-l1",
+        "q": "Varför börjar du inte direkt med massage där det gör ont?",
+        "a": "Du behöver först förstå problemet och upptäcka eventuella hinder för säker behandling.",
+        "source": "Lektionskontroll · B2_P22",
+        "page": "B2_P22",
+        "kind": "recall"
+      },
+      {
+        "id": "care-l2",
+        "q": "Visar ett smärtsamt aktivt test säkert vilken muskel som är skadad?",
+        "a": "Nej. Det är ett fynd som måste vägas ihop med annan information.",
+        "source": "Lektionskontroll · B2_P22",
+        "page": "B2_P22",
+        "kind": "recall"
+      },
+      {
+        "id": "care-l3",
+        "q": "Betyder ökad smärta efter behandling automatiskt att behandlingen fungerade?",
+        "a": "Nej. Den kan behöva minskas, ändras eller avbrytas och problemet ombedömas.",
+        "source": "Lektionskontroll · B2_P23",
+        "page": "B2_P23",
+        "kind": "recall"
+      },
+      {
+        "id": "care-l4",
+        "q": "Vad är huvudskillnaden mellan PRICE och POLICE?",
+        "a": "Rest/vila ersätts av Optimal Loading, alltså lämpligt doserad belastning.",
+        "source": "Lektionskontroll · B2_P24",
+        "page": "B2_P24",
+        "kind": "recall"
+      },
+      {
+        "id": "care-l5",
+        "q": "Ska djup massage rutinmässigt påbörjas över en färsk blödande muskelskada?",
+        "a": "Nej. Skydda skadan och låt behovet av medicinsk bedömning styra.",
+        "source": "Lektionskontroll · B3_P01",
+        "page": "B3_P01",
+        "kind": "recall"
+      },
+      {
+        "id": "care-l6",
+        "q": "Vad gör du vid ryggsmärta med nytillkomna blåssvårigheter och nedsatt känsel i underlivet?",
+        "a": "Avstår behandling och ordnar omedelbar akut vårdbedömning.",
+        "source": "Lektionskontroll · B3_P05",
+        "page": "B3_P05",
+        "kind": "recall"
+      },
+      {
+        "id": "care-l7",
+        "q": "Är rörelserädsla en röd eller gul flagga i kursens modell?",
+        "a": "En gul flagga.",
+        "source": "Lektionskontroll · B3_P06",
+        "page": "B3_P06",
+        "kind": "recall"
+      },
+      {
+        "id": "care-l8",
+        "q": "Vilka funktioner kan behöva bedömas inför återgång?",
+        "a": "Rörelseomfång, styrka, balans, neuromuskulär kontroll och aktivitetsspecifik kapacitet.",
+        "source": "Lektionskontroll · B3_P03",
+        "page": "B3_P03",
+        "kind": "recall"
+      },
+      {
+        "id": "care-l9",
+        "q": "Vad kan du som terapeut bidra med vid belastningsskador?",
+        "a": "Kartläggning, anpassade råd och åtgärder inom kompetensen, uppföljning och hänvisning vid behov.",
+        "source": "Lektionskontroll · B3_P04",
+        "page": "B3_P04",
+        "kind": "recall"
+      }
+    ],
+    "pages": [
+      "B2_P22",
+      "B2_P23",
+      "B2_P24",
+      "B3_P01",
+      "B3_P05",
+      "B3_P06",
+      "B3_P03",
+      "B3_P04"
+    ]
+  },
+  {
+    "id": "terms",
+    "number": "A1",
+    "title": "Anatomisk terminologi",
+    "intro": "Läs kroppens karta: riktningar, plan och rörelser som används genom hela utbildningen.",
+    "topics": [
+      "Riktningar och anatomisk grundställning",
+      "Rörelseplan",
+      "Rotationer och extremitetsrörelser"
+    ],
+    "questions": [
+      {
+        "id": "terms-l1",
+        "q": "Ligger sternum medialt eller lateralt om axeln?",
+        "a": "Medialt.",
+        "source": "Lektionskontroll · T_P04",
+        "page": "T_P04",
+        "kind": "recall"
+      },
+      {
+        "id": "terms-l2",
+        "q": "Ligger knäet proximalt eller distalt om fotleden?",
+        "a": "Proximalt.",
+        "source": "Lektionskontroll · T_P06",
+        "page": "T_P06",
+        "kind": "recall"
+      },
+      {
+        "id": "terms-l3",
+        "q": "I vilket plan beskriver vi vanligen bå rotation?",
+        "a": "Transversalplanet.",
+        "source": "Lektionskontroll · T_P03",
+        "page": "T_P03",
+        "kind": "recall"
+      },
+      {
+        "id": "terms-l4",
+        "q": "Vad kallas det när armen förs ut åt sidan från bålen?",
+        "a": "Abduktion.",
+        "source": "Lektionskontroll · T_P07",
+        "page": "T_P07",
+        "kind": "recall"
+      },
+      {
+        "id": "terms-l5",
+        "q": "Vad betyder att en högersidig muskel ger kontralateral rotation?",
+        "a": "Att den bidrar till rotation åt vänster.",
+        "source": "Lektionskontroll · T_P11",
+        "page": "T_P11",
+        "kind": "recall"
+      },
+      {
+        "id": "terms-l6",
+        "q": "Sker underarmens supination bara i handleden?",
+        "a": "Nej. Den sker i förbindelserna mellan radius och ulna.",
+        "source": "Lektionskontroll · T_P12",
+        "page": "T_P12",
+        "kind": "recall"
+      },
+      {
+        "id": "terms-l7",
+        "q": "Vilken rörelse gör du i fotleden när du ställer dig på tå?",
+        "a": "Plantarflexion.",
+        "source": "Lektionskontroll · T_P14",
+        "page": "T_P14",
+        "kind": "recall"
+      },
+      {
+        "id": "term-001",
+        "term": "Medialt",
+        "q": "Vad betyder eller beskriver Medialt?",
+        "a": "Mot kroppens medellinje.",
+        "source": "Begreppskort · föreläsning · T_P04",
+        "page": "T_P04",
+        "kind": "recall",
+        "glossary": true
+      },
+      {
+        "id": "term-002",
+        "term": "Lateralt",
+        "q": "Vad betyder eller beskriver Lateralt?",
+        "a": "Bort från kroppens medellinje.",
+        "source": "Begreppskort · föreläsning · T_P04",
+        "page": "T_P04",
+        "kind": "recall",
+        "glossary": true
+      },
+      {
+        "id": "term-003",
+        "term": "Proximalt",
+        "q": "Vad betyder eller beskriver Proximalt?",
+        "a": "Närmare bålen eller strukturens ursprung.",
+        "source": "Begreppskort · föreläsning · T_P06",
+        "page": "T_P06",
+        "kind": "recall",
+        "glossary": true
+      },
+      {
+        "id": "term-004",
+        "term": "Distalt",
+        "q": "Vad betyder eller beskriver Distalt?",
+        "a": "Längre från bålen eller strukturens ursprung.",
+        "source": "Begreppskort · föreläsning · T_P06",
+        "page": "T_P06",
+        "kind": "recall",
+        "glossary": true
+      },
+      {
+        "id": "term-005",
+        "term": "Anteriort",
+        "q": "Vad betyder eller beskriver Anteriort?",
+        "a": "Framåt eller mot kroppens framsida.",
+        "source": "Begreppskort · föreläsning · T_P05",
+        "page": "T_P05",
+        "kind": "recall",
+        "glossary": true
+      },
+      {
+        "id": "term-006",
+        "term": "Posteriort",
+        "q": "Vad betyder eller beskriver Posteriort?",
+        "a": "Bakåt eller mot kroppens baksida.",
+        "source": "Begreppskort · föreläsning · T_P05",
+        "page": "T_P05",
+        "kind": "recall",
+        "glossary": true
+      },
+      {
+        "id": "term-007",
+        "term": "Ipsilateralt",
+        "q": "Vad betyder eller beskriver Ipsilateralt?",
+        "a": "På samma sida.",
+        "source": "Begreppskort · föreläsning · T_P10",
+        "page": "T_P10",
+        "kind": "recall",
+        "glossary": true
+      },
+      {
+        "id": "term-008",
+        "term": "Kontralateralt",
+        "q": "Vad betyder eller beskriver Kontralateralt?",
+        "a": "På motsatt sida.",
+        "source": "Begreppskort · föreläsning · T_P10",
+        "page": "T_P10",
+        "kind": "recall",
+        "glossary": true
+      },
+      {
+        "id": "term-009",
+        "term": "Abduktion",
+        "q": "Vad betyder eller beskriver Abduktion?",
+        "a": "Rörelse bort från relevant mittlinje eller referensaxel.",
+        "source": "Begreppskort · föreläsning · T_P09",
+        "page": "T_P09",
+        "kind": "recall",
+        "glossary": true
+      },
+      {
+        "id": "term-010",
+        "term": "Adduktion",
+        "q": "Vad betyder eller beskriver Adduktion?",
+        "a": "Rörelse mot relevant mittlinje eller referensaxel.",
+        "source": "Begreppskort · föreläsning · T_P09",
+        "page": "T_P09",
+        "kind": "recall",
+        "glossary": true
+      },
+      {
+        "id": "term-011",
+        "term": "Palmarflexion",
+        "q": "Vad betyder eller beskriver Palmarflexion?",
+        "a": "Böjning av handleden mot handflatesidan.",
+        "source": "Begreppskort · föreläsning · T_P14",
+        "page": "T_P14",
+        "kind": "recall",
+        "glossary": true
+      },
+      {
+        "id": "term-012",
+        "term": "Plantarflexion",
+        "q": "Vad betyder eller beskriver Plantarflexion?",
+        "a": "Rörelse i fotleden som pekar foten nedåt, exempelvis vid tåhävning.",
+        "source": "Begreppskort · föreläsning · T_P14",
+        "page": "T_P14",
+        "kind": "recall",
+        "glossary": true
+      }
+    ],
+    "pages": [
+      "T_P04",
+      "T_P06",
+      "T_P03",
+      "T_P07",
+      "T_P11",
+      "T_P12",
+      "T_P14"
+    ]
+  },
+  {
+    "id": "regionalbone",
+    "number": "A2",
+    "title": "Skelettet regionalt",
+    "intro": "Kompletterande anatomispår från föreläsningarna: hitta benen och deras viktigaste landmärken.",
+    "topics": [
+      "Ryggrad, bröstkorg och skalle",
+      "Bäcken och nedre extremitet",
+      "Skuldra, arm och hand"
+    ],
+    "questions": [
+      {
+        "id": "regionalbone-l1",
+        "q": "Hur många hals-, bröst- och ländkotor finns normalt?",
+        "a": "7 halskotor, 12 bröstkotor och 5 ländkotor.",
+        "source": "Lektionskontroll · S_P02",
+        "page": "S_P02",
+        "kind": "recall"
+      },
+      {
+        "id": "regionalbone-l2",
+        "q": "Vilken kota har dens axis?",
+        "a": "C2, axis.",
+        "source": "Lektionskontroll · A_P04",
+        "page": "A_P04",
+        "kind": "recall"
+      },
+      {
+        "id": "regionalbone-l3",
+        "q": "Vilket ben är mandibula?",
+        "a": "Underkäksbenet.",
+        "source": "Lektionskontroll · A_P14",
+        "page": "A_P14",
+        "kind": "recall"
+      },
+      {
+        "id": "regionalbone-l4",
+        "q": "Vad är acetabulum?",
+        "a": "Höftledens ledskål i höftbenet.",
+        "source": "Lektionskontroll · A_P24",
+        "page": "A_P24",
+        "kind": "recall"
+      },
+      {
+        "id": "regionalbone-l5",
+        "q": "Vilken typ av ben är patella?",
+        "a": "Ett sesamben i knästräckarapparaten.",
+        "source": "Lektionskontroll · A_P26",
+        "page": "A_P26",
+        "kind": "recall"
+      },
+      {
+        "id": "regionalbone-l6",
+        "q": "Vilket ben bildar den laterala fotknölen?",
+        "a": "Fibula.",
+        "source": "Lektionskontroll · A_P31",
+        "page": "A_P31",
+        "kind": "recall"
+      },
+      {
+        "id": "regionalbone-l7",
+        "q": "Vad heter skulderbladets ledskål mot humerus?",
+        "a": "Cavitas glenoidalis.",
+        "source": "Lektionskontroll · A_P35",
+        "page": "A_P35",
+        "kind": "recall"
+      },
+      {
+        "id": "regionalbone-l8",
+        "q": "Vilket ben har olecranon?",
+        "a": "Ulna.",
+        "source": "Lektionskontroll · A_P37",
+        "page": "A_P37",
+        "kind": "recall"
+      },
+      {
+        "id": "regionalbone-l9",
+        "q": "Hur många karpalben finns normalt i en hand?",
+        "a": "Åtta.",
+        "source": "Lektionskontroll · A_P42",
+        "page": "A_P42",
+        "kind": "recall"
+      },
+      {
+        "id": "term-013",
+        "term": "Atlas",
+        "q": "Vad betyder eller beskriver Atlas?",
+        "a": "Första halskotan, C1.",
+        "source": "Begreppskort · föreläsning · A_P03",
+        "page": "A_P03",
+        "kind": "recall",
+        "glossary": true
+      },
+      {
+        "id": "term-014",
+        "term": "Axis",
+        "q": "Vad betyder eller beskriver Axis?",
+        "a": "Andra halskotan, C2.",
+        "source": "Begreppskort · föreläsning · A_P03",
+        "page": "A_P03",
+        "kind": "recall",
+        "glossary": true
+      },
+      {
+        "id": "term-015",
+        "term": "Dens axis",
+        "q": "Vad betyder eller beskriver Dens axis?",
+        "a": "Tandformat utskott på C2 som deltar i nackens rotationsförbindelse.",
+        "source": "Begreppskort · föreläsning · A_P04",
+        "page": "A_P04",
+        "kind": "recall",
+        "glossary": true
+      },
+      {
+        "id": "term-016",
+        "term": "Processus spinosus",
+        "q": "Vad betyder eller beskriver Processus spinosus?",
+        "a": "Kotans bakåtriktade spinalutskott.",
+        "source": "Begreppskort · föreläsning · A_P02",
+        "page": "A_P02",
+        "kind": "recall",
+        "glossary": true
+      },
+      {
+        "id": "term-017",
+        "term": "Processus transversus",
+        "q": "Vad betyder eller beskriver Processus transversus?",
+        "a": "Kotans tvärutskott.",
+        "source": "Begreppskort · föreläsning · A_P02",
+        "page": "A_P02",
+        "kind": "recall",
+        "glossary": true
+      },
+      {
+        "id": "term-018",
+        "term": "Foramen vertebrale",
+        "q": "Vad betyder eller beskriver Foramen vertebrale?",
+        "a": "Kotans öppning som bidrar till ryggradskanalen.",
+        "source": "Begreppskort · föreläsning · A_P02",
+        "page": "A_P02",
+        "kind": "recall",
+        "glossary": true
+      },
+      {
+        "id": "term-019",
+        "term": "Corpus vertebrae",
+        "q": "Vad betyder eller beskriver Corpus vertebrae?",
+        "a": "Kotkroppen.",
+        "source": "Begreppskort · föreläsning · A_P02",
+        "page": "A_P02",
+        "kind": "recall",
+        "glossary": true
+      },
+      {
+        "id": "term-020",
+        "term": "Arcus vertebrae",
+        "q": "Vad betyder eller beskriver Arcus vertebrae?",
+        "a": "Kotbågen.",
+        "source": "Begreppskort · föreläsning · A_P02",
+        "page": "A_P02",
+        "kind": "recall",
+        "glossary": true
+      },
+      {
+        "id": "term-021",
+        "term": "Sacrum",
+        "q": "Vad betyder eller beskriver Sacrum?",
+        "a": "Korsbenet.",
+        "source": "Begreppskort · föreläsning · A_P07",
+        "page": "A_P07",
+        "kind": "recall",
+        "glossary": true
+      },
+      {
+        "id": "term-022",
+        "term": "Os coccygis",
+        "q": "Vad betyder eller beskriver Os coccygis?",
+        "a": "Svansbenet.",
+        "source": "Begreppskort · föreläsning · A_P10",
+        "page": "A_P10",
+        "kind": "recall",
+        "glossary": true
+      },
+      {
+        "id": "term-023",
+        "term": "Promontorium",
+        "q": "Vad betyder eller beskriver Promontorium?",
+        "a": "Framskjutande främre kant på korsbenets översta del.",
+        "source": "Begreppskort · föreläsning · A_P07",
+        "page": "A_P07",
+        "kind": "recall",
+        "glossary": true
+      },
+      {
+        "id": "term-024",
+        "term": "Sternum",
+        "q": "Vad betyder eller beskriver Sternum?",
+        "a": "Bröstbenet.",
+        "source": "Begreppskort · föreläsning · A_P13",
+        "page": "A_P13",
+        "kind": "recall",
+        "glossary": true
+      },
+      {
+        "id": "term-025",
+        "term": "Manubrium sterni",
+        "q": "Vad betyder eller beskriver Manubrium sterni?",
+        "a": "Övre delen av bröstbenet.",
+        "source": "Begreppskort · föreläsning · A_P13",
+        "page": "A_P13",
+        "kind": "recall",
+        "glossary": true
+      },
+      {
+        "id": "term-026",
+        "term": "Processus xiphoideus",
+        "q": "Vad betyder eller beskriver Processus xiphoideus?",
+        "a": "Bröstbenets nedre svärdformade utskott.",
+        "source": "Begreppskort · föreläsning · A_P13",
+        "page": "A_P13",
+        "kind": "recall",
+        "glossary": true
+      },
+      {
+        "id": "term-027",
+        "term": "Costae",
+        "q": "Vad betyder eller beskriver Costae?",
+        "a": "Revbenen.",
+        "source": "Begreppskort · föreläsning · A_P12",
+        "page": "A_P12",
+        "kind": "recall",
+        "glossary": true
+      },
+      {
+        "id": "term-028",
+        "term": "Os frontale",
+        "q": "Vad betyder eller beskriver Os frontale?",
+        "a": "Pannbenet.",
+        "source": "Begreppskort · föreläsning · A_P14",
+        "page": "A_P14",
+        "kind": "recall",
+        "glossary": true
+      },
+      {
+        "id": "term-029",
+        "term": "Os parietale",
+        "q": "Vad betyder eller beskriver Os parietale?",
+        "a": "Hjässbenet.",
+        "source": "Begreppskort · föreläsning · A_P14",
+        "page": "A_P14",
+        "kind": "recall",
+        "glossary": true
+      },
+      {
+        "id": "term-030",
+        "term": "Os temporale",
+        "q": "Vad betyder eller beskriver Os temporale?",
+        "a": "Tinningbenet.",
+        "source": "Begreppskort · föreläsning · A_P14",
+        "page": "A_P14",
+        "kind": "recall",
+        "glossary": true
+      },
+      {
+        "id": "term-031",
+        "term": "Os occipitale",
+        "q": "Vad betyder eller beskriver Os occipitale?",
+        "a": "Nackbenet.",
+        "source": "Begreppskort · föreläsning · A_P14",
+        "page": "A_P14",
+        "kind": "recall",
+        "glossary": true
+      },
+      {
+        "id": "term-032",
+        "term": "Os zygomaticum",
+        "q": "Vad betyder eller beskriver Os zygomaticum?",
+        "a": "Okbenet.",
+        "source": "Begreppskort · föreläsning · A_P14",
+        "page": "A_P14",
+        "kind": "recall",
+        "glossary": true
+      },
+      {
+        "id": "term-033",
+        "term": "Maxilla",
+        "q": "Vad betyder eller beskriver Maxilla?",
+        "a": "Överkäksbenet.",
+        "source": "Begreppskort · föreläsning · A_P17",
+        "page": "A_P17",
+        "kind": "recall",
+        "glossary": true
+      },
+      {
+        "id": "term-034",
+        "term": "Mandibula",
+        "q": "Vad betyder eller beskriver Mandibula?",
+        "a": "Underkäksbenet.",
+        "source": "Begreppskort · föreläsning · A_P19",
+        "page": "A_P19",
+        "kind": "recall",
+        "glossary": true
+      },
+      {
+        "id": "term-035",
+        "term": "Foramen magnum",
+        "q": "Vad betyder eller beskriver Foramen magnum?",
+        "a": "Den stora öppningen i nackbenet.",
+        "source": "Begreppskort · föreläsning · A_P15",
+        "page": "A_P15",
+        "kind": "recall",
+        "glossary": true
+      },
+      {
+        "id": "term-036",
+        "term": "Processus mastoideus",
+        "q": "Vad betyder eller beskriver Processus mastoideus?",
+        "a": "Utskott på tinningbenet bakom örat.",
+        "source": "Begreppskort · föreläsning · A_P14",
+        "page": "A_P14",
+        "kind": "recall",
+        "glossary": true
+      },
+      {
+        "id": "term-037",
+        "term": "Os hyoideum",
+        "q": "Vad betyder eller beskriver Os hyoideum?",
+        "a": "Tungbenet.",
+        "source": "Begreppskort · föreläsning · A_P16",
+        "page": "A_P16",
+        "kind": "recall",
+        "glossary": true
+      },
+      {
+        "id": "term-038",
+        "term": "Crista iliaca",
+        "q": "Vad betyder eller beskriver Crista iliaca?",
+        "a": "Höftbenskammen.",
+        "source": "Begreppskort · föreläsning · A_P23",
+        "page": "A_P23",
+        "kind": "recall",
+        "glossary": true
+      },
+      {
+        "id": "term-039",
+        "term": "SIAS",
+        "q": "Vad betyder eller beskriver SIAS?",
+        "a": "Spina iliaca anterior superior, främre övre höftbensspetsen.",
+        "source": "Begreppskort · föreläsning · A_P24",
+        "page": "A_P24",
+        "kind": "recall",
+        "glossary": true
+      },
+      {
+        "id": "term-040",
+        "term": "SIAI",
+        "q": "Vad betyder eller beskriver SIAI?",
+        "a": "Spina iliaca anterior inferior, främre nedre höftbensspetsen.",
+        "source": "Begreppskort · föreläsning · A_P24",
+        "page": "A_P24",
+        "kind": "recall",
+        "glossary": true
+      },
+      {
+        "id": "term-041",
+        "term": "SIPS",
+        "q": "Vad betyder eller beskriver SIPS?",
+        "a": "Spina iliaca posterior superior, bakre övre höftbensspetsen.",
+        "source": "Begreppskort · föreläsning · A_P23",
+        "page": "A_P23",
+        "kind": "recall",
+        "glossary": true
+      },
+      {
+        "id": "term-042",
+        "term": "SIPI",
+        "q": "Vad betyder eller beskriver SIPI?",
+        "a": "Spina iliaca posterior inferior, bakre nedre höftbensspetsen.",
+        "source": "Begreppskort · föreläsning · A_P23",
+        "page": "A_P23",
+        "kind": "recall",
+        "glossary": true
+      },
+      {
+        "id": "term-043",
+        "term": "Tuber ischiadicum",
+        "q": "Vad betyder eller beskriver Tuber ischiadicum?",
+        "a": "Sittbensknölen.",
+        "source": "Begreppskort · föreläsning · A_P23",
+        "page": "A_P23",
+        "kind": "recall",
+        "glossary": true
+      },
+      {
+        "id": "term-044",
+        "term": "Acetabulum",
+        "q": "Vad betyder eller beskriver Acetabulum?",
+        "a": "Höftledens ledskål i höftbenet.",
+        "source": "Begreppskort · föreläsning · A_P24",
+        "page": "A_P24",
+        "kind": "recall",
+        "glossary": true
+      },
+      {
+        "id": "term-045",
+        "term": "Caput femoris",
+        "q": "Vad betyder eller beskriver Caput femoris?",
+        "a": "Lårbenets huvud.",
+        "source": "Begreppskort · föreläsning · A_P26",
+        "page": "A_P26",
+        "kind": "recall",
+        "glossary": true
+      },
+      {
+        "id": "term-046",
+        "term": "Collum femoris",
+        "q": "Vad betyder eller beskriver Collum femoris?",
+        "a": "Lårbenshalsen.",
+        "source": "Begreppskort · föreläsning · A_P26",
+        "page": "A_P26",
+        "kind": "recall",
+        "glossary": true
+      },
+      {
+        "id": "term-047",
+        "term": "Trochanter major",
+        "q": "Vad betyder eller beskriver Trochanter major?",
+        "a": "Stort utskott på proximala femurs utsida.",
+        "source": "Begreppskort · föreläsning · A_P26",
+        "page": "A_P26",
+        "kind": "recall",
+        "glossary": true
+      },
+      {
+        "id": "term-048",
+        "term": "Trochanter minor",
+        "q": "Vad betyder eller beskriver Trochanter minor?",
+        "a": "Mindre utskott på proximala femur, mer bakåt och medialt.",
+        "source": "Begreppskort · föreläsning · A_P27",
+        "page": "A_P27",
+        "kind": "recall",
+        "glossary": true
+      },
+      {
+        "id": "term-049",
+        "term": "Linea aspera",
+        "q": "Vad betyder eller beskriver Linea aspera?",
+        "a": "Längsgående sträv ås på femurs baksida.",
+        "source": "Begreppskort · föreläsning · A_P27",
+        "page": "A_P27",
+        "kind": "recall",
+        "glossary": true
+      },
+      {
+        "id": "term-050",
+        "term": "Patella",
+        "q": "Vad betyder eller beskriver Patella?",
+        "a": "Knäskålen.",
+        "source": "Begreppskort · föreläsning · A_P28",
+        "page": "A_P28",
+        "kind": "recall",
+        "glossary": true
+      },
+      {
+        "id": "term-051",
+        "term": "Tuberositas tibiae",
+        "q": "Vad betyder eller beskriver Tuberositas tibiae?",
+        "a": "Benutskott framtill på proximala tibia där ligamentum patellae fäster.",
+        "source": "Begreppskort · föreläsning · A_P29",
+        "page": "A_P29",
+        "kind": "recall",
+        "glossary": true
+      },
+      {
+        "id": "term-052",
+        "term": "Malleolus medialis",
+        "q": "Vad betyder eller beskriver Malleolus medialis?",
+        "a": "Inre fotknölen, en del av tibia.",
+        "source": "Begreppskort · föreläsning · A_P29",
+        "page": "A_P29",
+        "kind": "recall",
+        "glossary": true
+      },
+      {
+        "id": "term-053",
+        "term": "Malleolus lateralis",
+        "q": "Vad betyder eller beskriver Malleolus lateralis?",
+        "a": "Yttre fotknölen, en del av fibula.",
+        "source": "Begreppskort · föreläsning · A_P30",
+        "page": "A_P30",
+        "kind": "recall",
+        "glossary": true
+      },
+      {
+        "id": "term-054",
+        "term": "Talus",
+        "q": "Vad betyder eller beskriver Talus?",
+        "a": "Språngbenet mellan underbenets ledgaffel och hälbenet.",
+        "source": "Begreppskort · föreläsning · A_P31",
+        "page": "A_P31",
+        "kind": "recall",
+        "glossary": true
+      },
+      {
+        "id": "term-055",
+        "term": "Calcaneus",
+        "q": "Vad betyder eller beskriver Calcaneus?",
+        "a": "Hälbenet.",
+        "source": "Begreppskort · föreläsning · A_P31",
+        "page": "A_P31",
+        "kind": "recall",
+        "glossary": true
+      },
+      {
+        "id": "term-056",
+        "term": "Os naviculare",
+        "q": "Vad betyder eller beskriver Os naviculare?",
+        "a": "Båtbenet på fotens mediala sida.",
+        "source": "Begreppskort · föreläsning · A_P31",
+        "page": "A_P31",
+        "kind": "recall",
+        "glossary": true
+      },
+      {
+        "id": "term-057",
+        "term": "Os cuboideum",
+        "q": "Vad betyder eller beskriver Os cuboideum?",
+        "a": "Tärningsbenet på fotens laterala sida.",
+        "source": "Begreppskort · föreläsning · A_P31",
+        "page": "A_P31",
+        "kind": "recall",
+        "glossary": true
+      },
+      {
+        "id": "term-058",
+        "term": "Hallux",
+        "q": "Vad betyder eller beskriver Hallux?",
+        "a": "Stortån.",
+        "source": "Begreppskort · föreläsning · A_P31",
+        "page": "A_P31",
+        "kind": "recall",
+        "glossary": true
+      },
+      {
+        "id": "term-059",
+        "term": "Clavicula",
+        "q": "Vad betyder eller beskriver Clavicula?",
+        "a": "Nyckelbenet.",
+        "source": "Begreppskort · föreläsning · A_P33",
+        "page": "A_P33",
+        "kind": "recall",
+        "glossary": true
+      },
+      {
+        "id": "term-060",
+        "term": "Scapula",
+        "q": "Vad betyder eller beskriver Scapula?",
+        "a": "Skulderbladet.",
+        "source": "Begreppskort · föreläsning · A_P34",
+        "page": "A_P34",
+        "kind": "recall",
+        "glossary": true
+      },
+      {
+        "id": "term-061",
+        "term": "Acromion",
+        "q": "Vad betyder eller beskriver Acromion?",
+        "a": "Skulderbladets utskott som möter nyckelbenet.",
+        "source": "Begreppskort · föreläsning · A_P35",
+        "page": "A_P35",
+        "kind": "recall",
+        "glossary": true
+      },
+      {
+        "id": "term-062",
+        "term": "Processus coracoideus",
+        "q": "Vad betyder eller beskriver Processus coracoideus?",
+        "a": "Korpnäbbsutskottet på scapulas framsida.",
+        "source": "Begreppskort · föreläsning · A_P34",
+        "page": "A_P34",
+        "kind": "recall",
+        "glossary": true
+      },
+      {
+        "id": "term-063",
+        "term": "Cavitas glenoidalis",
+        "q": "Vad betyder eller beskriver Cavitas glenoidalis?",
+        "a": "Skulderbladets ledskål mot humerus.",
+        "source": "Begreppskort · föreläsning · A_P34",
+        "page": "A_P34",
+        "kind": "recall",
+        "glossary": true
+      },
+      {
+        "id": "term-064",
+        "term": "Spina scapulae",
+        "q": "Vad betyder eller beskriver Spina scapulae?",
+        "a": "Åsen på skulderbladets baksida.",
+        "source": "Begreppskort · föreläsning · A_P35",
+        "page": "A_P35",
+        "kind": "recall",
+        "glossary": true
+      },
+      {
+        "id": "term-065",
+        "term": "Fossa subscapularis",
+        "q": "Vad betyder eller beskriver Fossa subscapularis?",
+        "a": "Gropen på skulderbladets framsida mot bröstkorgen.",
+        "source": "Begreppskort · föreläsning · A_P34",
+        "page": "A_P34",
+        "kind": "recall",
+        "glossary": true
+      },
+      {
+        "id": "term-066",
+        "term": "Fossa supraspinata",
+        "q": "Vad betyder eller beskriver Fossa supraspinata?",
+        "a": "Gropen ovanför spina scapulae.",
+        "source": "Begreppskort · föreläsning · A_P35",
+        "page": "A_P35",
+        "kind": "recall",
+        "glossary": true
+      },
+      {
+        "id": "term-067",
+        "term": "Fossa infraspinata",
+        "q": "Vad betyder eller beskriver Fossa infraspinata?",
+        "a": "Gropen nedanför spina scapulae.",
+        "source": "Begreppskort · föreläsning · A_P35",
+        "page": "A_P35",
+        "kind": "recall",
+        "glossary": true
+      },
+      {
+        "id": "term-068",
+        "term": "Tuberositas deltoidea",
+        "q": "Vad betyder eller beskriver Tuberositas deltoidea?",
+        "a": "Strävt område på humerus där deltoideus fäster.",
+        "source": "Begreppskort · föreläsning · A_P36",
+        "page": "A_P36",
+        "kind": "recall",
+        "glossary": true
+      },
+      {
+        "id": "term-069",
+        "term": "Sulcus intertubercularis",
+        "q": "Vad betyder eller beskriver Sulcus intertubercularis?",
+        "a": "Fåran mellan humerus stora och lilla tuberkel.",
+        "source": "Begreppskort · föreläsning · A_P37",
+        "page": "A_P37",
+        "kind": "recall",
+        "glossary": true
+      },
+      {
+        "id": "term-070",
+        "term": "Olecranon",
+        "q": "Vad betyder eller beskriver Olecranon?",
+        "a": "Ulnas proximala utskott som bildar armbågsspetsen.",
+        "source": "Begreppskort · föreläsning · A_P40",
+        "page": "A_P40",
+        "kind": "recall",
+        "glossary": true
+      },
+      {
+        "id": "term-071",
+        "term": "Caput radii",
+        "q": "Vad betyder eller beskriver Caput radii?",
+        "a": "Radius huvud vid armbågen.",
+        "source": "Begreppskort · föreläsning · A_P41",
+        "page": "A_P41",
+        "kind": "recall",
+        "glossary": true
+      },
+      {
+        "id": "term-072",
+        "term": "Caput ulnae",
+        "q": "Vad betyder eller beskriver Caput ulnae?",
+        "a": "Ulnas huvud vid den distala änden nära handleden.",
+        "source": "Begreppskort · föreläsning · A_P40",
+        "page": "A_P40",
+        "kind": "recall",
+        "glossary": true
+      },
+      {
+        "id": "term-073",
+        "term": "Pollex",
+        "q": "Vad betyder eller beskriver Pollex?",
+        "a": "Tummen.",
+        "source": "Begreppskort · föreläsning · A_P42",
+        "page": "A_P42",
+        "kind": "recall",
+        "glossary": true
+      },
+      {
+        "id": "term-074",
+        "term": "Ossa carpi",
+        "q": "Vad betyder eller beskriver Ossa carpi?",
+        "a": "Handlovsbenen.",
+        "source": "Begreppskort · föreläsning · A_P42",
+        "page": "A_P42",
+        "kind": "recall",
+        "glossary": true
+      },
+      {
+        "id": "term-075",
+        "term": "Ossa metacarpalia",
+        "q": "Vad betyder eller beskriver Ossa metacarpalia?",
+        "a": "Mellanhandsbenen.",
+        "source": "Begreppskort · föreläsning · A_P42",
+        "page": "A_P42",
+        "kind": "recall",
+        "glossary": true
+      },
+      {
+        "id": "term-076",
+        "term": "Falanger",
+        "q": "Vad betyder eller beskriver Falanger?",
+        "a": "Finger- eller tåben.",
+        "source": "Begreppskort · föreläsning · A_P42",
+        "page": "A_P42",
+        "kind": "recall",
+        "glossary": true
+      }
+    ],
+    "pages": [
+      "S_P02",
+      "A_P04",
+      "A_P14",
+      "A_P24",
+      "A_P26",
+      "A_P31",
+      "A_P35",
+      "A_P37",
+      "A_P42"
+    ]
+  },
+  {
+    "id": "regionaljoints",
+    "number": "A3",
+    "title": "Leder och ligament regionalt",
+    "intro": "Kompletterande anatomispår: följ ledens byggnad och stabilitet från nacke till fot.",
+    "topics": [
+      "Nacke, rygg och bäcken",
+      "Höft, knä och fotled",
+      "Skuldra, armbåge, handled och käke"
+    ],
+    "questions": [
+      {
+        "id": "regionaljoints-l1",
+        "q": "Vilken övre nackförbindelse är särskilt viktig för rotation?",
+        "a": "Atlantoaxiallederna mellan atlas och axis.",
+        "source": "Lektionskontroll · J_P04",
+        "page": "J_P04",
+        "kind": "recall"
+      },
+      {
+        "id": "regionaljoints-l2",
+        "q": "Vilka tre stora kapselligament tar kursen upp kring höften?",
+        "a": "Ligamentum iliofemorale, pubofemorale och ischiofemorale.",
+        "source": "Lektionskontroll · J_P16",
+        "page": "J_P16",
+        "kind": "recall"
+      },
+      {
+        "id": "regionaljoints-l3",
+        "q": "Vilket korsband begränsar främst främre translation av tibia?",
+        "a": "Främre korsbandet, ACL.",
+        "source": "Lektionskontroll · J_P24",
+        "page": "J_P24",
+        "kind": "recall"
+      },
+      {
+        "id": "regionaljoints-l4",
+        "q": "Var ligger bursa prepatellaris?",
+        "a": "Ytligt framför patella.",
+        "source": "Lektionskontroll · J_P25",
+        "page": "J_P25",
+        "kind": "recall"
+      },
+      {
+        "id": "regionaljoints-l5",
+        "q": "Vilka ben förbinds av den distala syndesmosen i underbenet?",
+        "a": "Tibia och fibula.",
+        "source": "Lektionskontroll · J_P27",
+        "page": "J_P27",
+        "kind": "recall"
+      },
+      {
+        "id": "regionaljoints-l6",
+        "q": "Varför kräver axelleden god muskulär kontroll?",
+        "a": "Ledens stora rörlighet och relativt grunda ledskål gör aktiv stabilisering viktig.",
+        "source": "Lektionskontroll · J_P31",
+        "page": "J_P31",
+        "kind": "recall"
+      },
+      {
+        "id": "regionaljoints-l7",
+        "q": "Består normal käköppning bara av en ren gångjärnsrörelse?",
+        "a": "Nej. Både rotation och glidning ingår.",
+        "source": "Lektionskontroll · J_P33",
+        "page": "J_P33",
+        "kind": "recall"
+      },
+      {
+        "id": "term-077",
+        "term": "Articulatio coxae",
+        "q": "Vad betyder eller beskriver Articulatio coxae?",
+        "a": "Höftleden.",
+        "source": "Begreppskort · föreläsning · J_P15",
+        "page": "J_P15",
+        "kind": "recall",
+        "glossary": true
+      },
+      {
+        "id": "term-078",
+        "term": "Articulatio genu",
+        "q": "Vad betyder eller beskriver Articulatio genu?",
+        "a": "Knäleden.",
+        "source": "Begreppskort · föreläsning · J_P19",
+        "page": "J_P19",
+        "kind": "recall",
+        "glossary": true
+      },
+      {
+        "id": "term-079",
+        "term": "Articulatio cubiti",
+        "q": "Vad betyder eller beskriver Articulatio cubiti?",
+        "a": "Armbågsleden/armbågskomplexet.",
+        "source": "Begreppskort · föreläsning · J_P33",
+        "page": "J_P33",
+        "kind": "recall",
+        "glossary": true
+      },
+      {
+        "id": "term-080",
+        "term": "Articulatio radiocarpalis",
+        "q": "Vad betyder eller beskriver Articulatio radiocarpalis?",
+        "a": "Förbindelsen mellan radius och proximala handlovsben via ledkomplexet.",
+        "source": "Begreppskort · föreläsning · J_P36",
+        "page": "J_P36",
+        "kind": "recall",
+        "glossary": true
+      },
+      {
+        "id": "term-081",
+        "term": "Articulatio temporomandibularis",
+        "q": "Vad betyder eller beskriver Articulatio temporomandibularis?",
+        "a": "Käkleden.",
+        "source": "Begreppskort · föreläsning · J_P38",
+        "page": "J_P38",
+        "kind": "recall",
+        "glossary": true
+      },
+      {
+        "id": "term-082",
+        "term": "Ligamentum patellae",
+        "q": "Vad betyder eller beskriver Ligamentum patellae?",
+        "a": "Förbindelsen från patella till tuberositas tibiae.",
+        "source": "Begreppskort · föreläsning · J_P22",
+        "page": "J_P22",
+        "kind": "recall",
+        "glossary": true
+      },
+      {
+        "id": "term-083",
+        "term": "ACL",
+        "q": "Vad betyder eller beskriver ACL?",
+        "a": "Främre korsbandet i knäleden.",
+        "source": "Begreppskort · föreläsning · J_P24",
+        "page": "J_P24",
+        "kind": "recall",
+        "glossary": true
+      },
+      {
+        "id": "term-084",
+        "term": "PCL",
+        "q": "Vad betyder eller beskriver PCL?",
+        "a": "Bakre korsbandet i knäleden.",
+        "source": "Begreppskort · föreläsning · J_P24",
+        "page": "J_P24",
+        "kind": "recall",
+        "glossary": true
+      },
+      {
+        "id": "term-085",
+        "term": "MCL",
+        "q": "Vad betyder eller beskriver MCL?",
+        "a": "Mediala kollateralligamentet i knäleden.",
+        "source": "Begreppskort · föreläsning · J_P23",
+        "page": "J_P23",
+        "kind": "recall",
+        "glossary": true
+      },
+      {
+        "id": "term-086",
+        "term": "LCL",
+        "q": "Vad betyder eller beskriver LCL?",
+        "a": "Laterala kollateralligamentet i knäleden.",
+        "source": "Begreppskort · föreläsning · J_P22",
+        "page": "J_P22",
+        "kind": "recall",
+        "glossary": true
+      },
+      {
+        "id": "term-087",
+        "term": "Bursa prepatellaris",
+        "q": "Vad betyder eller beskriver Bursa prepatellaris?",
+        "a": "Slemsäck framför patella.",
+        "source": "Begreppskort · föreläsning · J_P25",
+        "page": "J_P25",
+        "kind": "recall",
+        "glossary": true
+      },
+      {
+        "id": "term-088",
+        "term": "Bursa subacromialis",
+        "q": "Vad betyder eller beskriver Bursa subacromialis?",
+        "a": "Slemsäck under acromion som underlättar glidning kring axeln.",
+        "source": "Begreppskort · föreläsning · J_P31",
+        "page": "J_P31",
+        "kind": "recall",
+        "glossary": true
+      }
+    ],
+    "pages": [
+      "J_P04",
+      "J_P16",
+      "J_P24",
+      "J_P25",
+      "J_P27",
+      "J_P31",
+      "J_P33"
+    ]
+  }
+]

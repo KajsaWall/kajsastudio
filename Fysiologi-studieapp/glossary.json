@@ -1,0 +1,882 @@
+[
+  {
+    "id": "term-001",
+    "term": "Medialt",
+    "q": "Vad betyder eller beskriver Medialt?",
+    "a": "Mot kroppens medellinje.",
+    "source": "Begreppskort · föreläsning · T_P04",
+    "page": "T_P04",
+    "kind": "recall",
+    "glossary": true
+  },
+  {
+    "id": "term-002",
+    "term": "Lateralt",
+    "q": "Vad betyder eller beskriver Lateralt?",
+    "a": "Bort från kroppens medellinje.",
+    "source": "Begreppskort · föreläsning · T_P04",
+    "page": "T_P04",
+    "kind": "recall",
+    "glossary": true
+  },
+  {
+    "id": "term-003",
+    "term": "Proximalt",
+    "q": "Vad betyder eller beskriver Proximalt?",
+    "a": "Närmare bålen eller strukturens ursprung.",
+    "source": "Begreppskort · föreläsning · T_P06",
+    "page": "T_P06",
+    "kind": "recall",
+    "glossary": true
+  },
+  {
+    "id": "term-004",
+    "term": "Distalt",
+    "q": "Vad betyder eller beskriver Distalt?",
+    "a": "Längre från bålen eller strukturens ursprung.",
+    "source": "Begreppskort · föreläsning · T_P06",
+    "page": "T_P06",
+    "kind": "recall",
+    "glossary": true
+  },
+  {
+    "id": "term-005",
+    "term": "Anteriort",
+    "q": "Vad betyder eller beskriver Anteriort?",
+    "a": "Framåt eller mot kroppens framsida.",
+    "source": "Begreppskort · föreläsning · T_P05",
+    "page": "T_P05",
+    "kind": "recall",
+    "glossary": true
+  },
+  {
+    "id": "term-006",
+    "term": "Posteriort",
+    "q": "Vad betyder eller beskriver Posteriort?",
+    "a": "Bakåt eller mot kroppens baksida.",
+    "source": "Begreppskort · föreläsning · T_P05",
+    "page": "T_P05",
+    "kind": "recall",
+    "glossary": true
+  },
+  {
+    "id": "term-007",
+    "term": "Ipsilateralt",
+    "q": "Vad betyder eller beskriver Ipsilateralt?",
+    "a": "På samma sida.",
+    "source": "Begreppskort · föreläsning · T_P10",
+    "page": "T_P10",
+    "kind": "recall",
+    "glossary": true
+  },
+  {
+    "id": "term-008",
+    "term": "Kontralateralt",
+    "q": "Vad betyder eller beskriver Kontralateralt?",
+    "a": "På motsatt sida.",
+    "source": "Begreppskort · föreläsning · T_P10",
+    "page": "T_P10",
+    "kind": "recall",
+    "glossary": true
+  },
+  {
+    "id": "term-009",
+    "term": "Abduktion",
+    "q": "Vad betyder eller beskriver Abduktion?",
+    "a": "Rörelse bort från relevant mittlinje eller referensaxel.",
+    "source": "Begreppskort · föreläsning · T_P09",
+    "page": "T_P09",
+    "kind": "recall",
+    "glossary": true
+  },
+  {
+    "id": "term-010",
+    "term": "Adduktion",
+    "q": "Vad betyder eller beskriver Adduktion?",
+    "a": "Rörelse mot relevant mittlinje eller referensaxel.",
+    "source": "Begreppskort · föreläsning · T_P09",
+    "page": "T_P09",
+    "kind": "recall",
+    "glossary": true
+  },
+  {
+    "id": "term-011",
+    "term": "Palmarflexion",
+    "q": "Vad betyder eller beskriver Palmarflexion?",
+    "a": "Böjning av handleden mot handflatesidan.",
+    "source": "Begreppskort · föreläsning · T_P14",
+    "page": "T_P14",
+    "kind": "recall",
+    "glossary": true
+  },
+  {
+    "id": "term-012",
+    "term": "Plantarflexion",
+    "q": "Vad betyder eller beskriver Plantarflexion?",
+    "a": "Rörelse i fotleden som pekar foten nedåt, exempelvis vid tåhävning.",
+    "source": "Begreppskort · föreläsning · T_P14",
+    "page": "T_P14",
+    "kind": "recall",
+    "glossary": true
+  },
+  {
+    "id": "term-013",
+    "term": "Atlas",
+    "q": "Vad betyder eller beskriver Atlas?",
+    "a": "Första halskotan, C1.",
+    "source": "Begreppskort · föreläsning · A_P03",
+    "page": "A_P03",
+    "kind": "recall",
+    "glossary": true
+  },
+  {
+    "id": "term-014",
+    "term": "Axis",
+    "q": "Vad betyder eller beskriver Axis?",
+    "a": "Andra halskotan, C2.",
+    "source": "Begreppskort · föreläsning · A_P03",
+    "page": "A_P03",
+    "kind": "recall",
+    "glossary": true
+  },
+  {
+    "id": "term-015",
+    "term": "Dens axis",
+    "q": "Vad betyder eller beskriver Dens axis?",
+    "a": "Tandformat utskott på C2 som deltar i nackens rotationsförbindelse.",
+    "source": "Begreppskort · föreläsning · A_P04",
+    "page": "A_P04",
+    "kind": "recall",
+    "glossary": true
+  },
+  {
+    "id": "term-016",
+    "term": "Processus spinosus",
+    "q": "Vad betyder eller beskriver Processus spinosus?",
+    "a": "Kotans bakåtriktade spinalutskott.",
+    "source": "Begreppskort · föreläsning · A_P02",
+    "page": "A_P02",
+    "kind": "recall",
+    "glossary": true
+  },
+  {
+    "id": "term-017",
+    "term": "Processus transversus",
+    "q": "Vad betyder eller beskriver Processus transversus?",
+    "a": "Kotans tvärutskott.",
+    "source": "Begreppskort · föreläsning · A_P02",
+    "page": "A_P02",
+    "kind": "recall",
+    "glossary": true
+  },
+  {
+    "id": "term-018",
+    "term": "Foramen vertebrale",
+    "q": "Vad betyder eller beskriver Foramen vertebrale?",
+    "a": "Kotans öppning som bidrar till ryggradskanalen.",
+    "source": "Begreppskort · föreläsning · A_P02",
+    "page": "A_P02",
+    "kind": "recall",
+    "glossary": true
+  },
+  {
+    "id": "term-019",
+    "term": "Corpus vertebrae",
+    "q": "Vad betyder eller beskriver Corpus vertebrae?",
+    "a": "Kotkroppen.",
+    "source": "Begreppskort · föreläsning · A_P02",
+    "page": "A_P02",
+    "kind": "recall",
+    "glossary": true
+  },
+  {
+    "id": "term-020",
+    "term": "Arcus vertebrae",
+    "q": "Vad betyder eller beskriver Arcus vertebrae?",
+    "a": "Kotbågen.",
+    "source": "Begreppskort · föreläsning · A_P02",
+    "page": "A_P02",
+    "kind": "recall",
+    "glossary": true
+  },
+  {
+    "id": "term-021",
+    "term": "Sacrum",
+    "q": "Vad betyder eller beskriver Sacrum?",
+    "a": "Korsbenet.",
+    "source": "Begreppskort · föreläsning · A_P07",
+    "page": "A_P07",
+    "kind": "recall",
+    "glossary": true
+  },
+  {
+    "id": "term-022",
+    "term": "Os coccygis",
+    "q": "Vad betyder eller beskriver Os coccygis?",
+    "a": "Svansbenet.",
+    "source": "Begreppskort · föreläsning · A_P10",
+    "page": "A_P10",
+    "kind": "recall",
+    "glossary": true
+  },
+  {
+    "id": "term-023",
+    "term": "Promontorium",
+    "q": "Vad betyder eller beskriver Promontorium?",
+    "a": "Framskjutande främre kant på korsbenets översta del.",
+    "source": "Begreppskort · föreläsning · A_P07",
+    "page": "A_P07",
+    "kind": "recall",
+    "glossary": true
+  },
+  {
+    "id": "term-024",
+    "term": "Sternum",
+    "q": "Vad betyder eller beskriver Sternum?",
+    "a": "Bröstbenet.",
+    "source": "Begreppskort · föreläsning · A_P13",
+    "page": "A_P13",
+    "kind": "recall",
+    "glossary": true
+  },
+  {
+    "id": "term-025",
+    "term": "Manubrium sterni",
+    "q": "Vad betyder eller beskriver Manubrium sterni?",
+    "a": "Övre delen av bröstbenet.",
+    "source": "Begreppskort · föreläsning · A_P13",
+    "page": "A_P13",
+    "kind": "recall",
+    "glossary": true
+  },
+  {
+    "id": "term-026",
+    "term": "Processus xiphoideus",
+    "q": "Vad betyder eller beskriver Processus xiphoideus?",
+    "a": "Bröstbenets nedre svärdformade utskott.",
+    "source": "Begreppskort · föreläsning · A_P13",
+    "page": "A_P13",
+    "kind": "recall",
+    "glossary": true
+  },
+  {
+    "id": "term-027",
+    "term": "Costae",
+    "q": "Vad betyder eller beskriver Costae?",
+    "a": "Revbenen.",
+    "source": "Begreppskort · föreläsning · A_P12",
+    "page": "A_P12",
+    "kind": "recall",
+    "glossary": true
+  },
+  {
+    "id": "term-028",
+    "term": "Os frontale",
+    "q": "Vad betyder eller beskriver Os frontale?",
+    "a": "Pannbenet.",
+    "source": "Begreppskort · föreläsning · A_P14",
+    "page": "A_P14",
+    "kind": "recall",
+    "glossary": true
+  },
+  {
+    "id": "term-029",
+    "term": "Os parietale",
+    "q": "Vad betyder eller beskriver Os parietale?",
+    "a": "Hjässbenet.",
+    "source": "Begreppskort · föreläsning · A_P14",
+    "page": "A_P14",
+    "kind": "recall",
+    "glossary": true
+  },
+  {
+    "id": "term-030",
+    "term": "Os temporale",
+    "q": "Vad betyder eller beskriver Os temporale?",
+    "a": "Tinningbenet.",
+    "source": "Begreppskort · föreläsning · A_P14",
+    "page": "A_P14",
+    "kind": "recall",
+    "glossary": true
+  },
+  {
+    "id": "term-031",
+    "term": "Os occipitale",
+    "q": "Vad betyder eller beskriver Os occipitale?",
+    "a": "Nackbenet.",
+    "source": "Begreppskort · föreläsning · A_P14",
+    "page": "A_P14",
+    "kind": "recall",
+    "glossary": true
+  },
+  {
+    "id": "term-032",
+    "term": "Os zygomaticum",
+    "q": "Vad betyder eller beskriver Os zygomaticum?",
+    "a": "Okbenet.",
+    "source": "Begreppskort · föreläsning · A_P14",
+    "page": "A_P14",
+    "kind": "recall",
+    "glossary": true
+  },
+  {
+    "id": "term-033",
+    "term": "Maxilla",
+    "q": "Vad betyder eller beskriver Maxilla?",
+    "a": "Överkäksbenet.",
+    "source": "Begreppskort · föreläsning · A_P17",
+    "page": "A_P17",
+    "kind": "recall",
+    "glossary": true
+  },
+  {
+    "id": "term-034",
+    "term": "Mandibula",
+    "q": "Vad betyder eller beskriver Mandibula?",
+    "a": "Underkäksbenet.",
+    "source": "Begreppskort · föreläsning · A_P19",
+    "page": "A_P19",
+    "kind": "recall",
+    "glossary": true
+  },
+  {
+    "id": "term-035",
+    "term": "Foramen magnum",
+    "q": "Vad betyder eller beskriver Foramen magnum?",
+    "a": "Den stora öppningen i nackbenet.",
+    "source": "Begreppskort · föreläsning · A_P15",
+    "page": "A_P15",
+    "kind": "recall",
+    "glossary": true
+  },
+  {
+    "id": "term-036",
+    "term": "Processus mastoideus",
+    "q": "Vad betyder eller beskriver Processus mastoideus?",
+    "a": "Utskott på tinningbenet bakom örat.",
+    "source": "Begreppskort · föreläsning · A_P14",
+    "page": "A_P14",
+    "kind": "recall",
+    "glossary": true
+  },
+  {
+    "id": "term-037",
+    "term": "Os hyoideum",
+    "q": "Vad betyder eller beskriver Os hyoideum?",
+    "a": "Tungbenet.",
+    "source": "Begreppskort · föreläsning · A_P16",
+    "page": "A_P16",
+    "kind": "recall",
+    "glossary": true
+  },
+  {
+    "id": "term-038",
+    "term": "Crista iliaca",
+    "q": "Vad betyder eller beskriver Crista iliaca?",
+    "a": "Höftbenskammen.",
+    "source": "Begreppskort · föreläsning · A_P23",
+    "page": "A_P23",
+    "kind": "recall",
+    "glossary": true
+  },
+  {
+    "id": "term-039",
+    "term": "SIAS",
+    "q": "Vad betyder eller beskriver SIAS?",
+    "a": "Spina iliaca anterior superior, främre övre höftbensspetsen.",
+    "source": "Begreppskort · föreläsning · A_P24",
+    "page": "A_P24",
+    "kind": "recall",
+    "glossary": true
+  },
+  {
+    "id": "term-040",
+    "term": "SIAI",
+    "q": "Vad betyder eller beskriver SIAI?",
+    "a": "Spina iliaca anterior inferior, främre nedre höftbensspetsen.",
+    "source": "Begreppskort · föreläsning · A_P24",
+    "page": "A_P24",
+    "kind": "recall",
+    "glossary": true
+  },
+  {
+    "id": "term-041",
+    "term": "SIPS",
+    "q": "Vad betyder eller beskriver SIPS?",
+    "a": "Spina iliaca posterior superior, bakre övre höftbensspetsen.",
+    "source": "Begreppskort · föreläsning · A_P23",
+    "page": "A_P23",
+    "kind": "recall",
+    "glossary": true
+  },
+  {
+    "id": "term-042",
+    "term": "SIPI",
+    "q": "Vad betyder eller beskriver SIPI?",
+    "a": "Spina iliaca posterior inferior, bakre nedre höftbensspetsen.",
+    "source": "Begreppskort · föreläsning · A_P23",
+    "page": "A_P23",
+    "kind": "recall",
+    "glossary": true
+  },
+  {
+    "id": "term-043",
+    "term": "Tuber ischiadicum",
+    "q": "Vad betyder eller beskriver Tuber ischiadicum?",
+    "a": "Sittbensknölen.",
+    "source": "Begreppskort · föreläsning · A_P23",
+    "page": "A_P23",
+    "kind": "recall",
+    "glossary": true
+  },
+  {
+    "id": "term-044",
+    "term": "Acetabulum",
+    "q": "Vad betyder eller beskriver Acetabulum?",
+    "a": "Höftledens ledskål i höftbenet.",
+    "source": "Begreppskort · föreläsning · A_P24",
+    "page": "A_P24",
+    "kind": "recall",
+    "glossary": true
+  },
+  {
+    "id": "term-045",
+    "term": "Caput femoris",
+    "q": "Vad betyder eller beskriver Caput femoris?",
+    "a": "Lårbenets huvud.",
+    "source": "Begreppskort · föreläsning · A_P26",
+    "page": "A_P26",
+    "kind": "recall",
+    "glossary": true
+  },
+  {
+    "id": "term-046",
+    "term": "Collum femoris",
+    "q": "Vad betyder eller beskriver Collum femoris?",
+    "a": "Lårbenshalsen.",
+    "source": "Begreppskort · föreläsning · A_P26",
+    "page": "A_P26",
+    "kind": "recall",
+    "glossary": true
+  },
+  {
+    "id": "term-047",
+    "term": "Trochanter major",
+    "q": "Vad betyder eller beskriver Trochanter major?",
+    "a": "Stort utskott på proximala femurs utsida.",
+    "source": "Begreppskort · föreläsning · A_P26",
+    "page": "A_P26",
+    "kind": "recall",
+    "glossary": true
+  },
+  {
+    "id": "term-048",
+    "term": "Trochanter minor",
+    "q": "Vad betyder eller beskriver Trochanter minor?",
+    "a": "Mindre utskott på proximala femur, mer bakåt och medialt.",
+    "source": "Begreppskort · föreläsning · A_P27",
+    "page": "A_P27",
+    "kind": "recall",
+    "glossary": true
+  },
+  {
+    "id": "term-049",
+    "term": "Linea aspera",
+    "q": "Vad betyder eller beskriver Linea aspera?",
+    "a": "Längsgående sträv ås på femurs baksida.",
+    "source": "Begreppskort · föreläsning · A_P27",
+    "page": "A_P27",
+    "kind": "recall",
+    "glossary": true
+  },
+  {
+    "id": "term-050",
+    "term": "Patella",
+    "q": "Vad betyder eller beskriver Patella?",
+    "a": "Knäskålen.",
+    "source": "Begreppskort · föreläsning · A_P28",
+    "page": "A_P28",
+    "kind": "recall",
+    "glossary": true
+  },
+  {
+    "id": "term-051",
+    "term": "Tuberositas tibiae",
+    "q": "Vad betyder eller beskriver Tuberositas tibiae?",
+    "a": "Benutskott framtill på proximala tibia där ligamentum patellae fäster.",
+    "source": "Begreppskort · föreläsning · A_P29",
+    "page": "A_P29",
+    "kind": "recall",
+    "glossary": true
+  },
+  {
+    "id": "term-052",
+    "term": "Malleolus medialis",
+    "q": "Vad betyder eller beskriver Malleolus medialis?",
+    "a": "Inre fotknölen, en del av tibia.",
+    "source": "Begreppskort · föreläsning · A_P29",
+    "page": "A_P29",
+    "kind": "recall",
+    "glossary": true
+  },
+  {
+    "id": "term-053",
+    "term": "Malleolus lateralis",
+    "q": "Vad betyder eller beskriver Malleolus lateralis?",
+    "a": "Yttre fotknölen, en del av fibula.",
+    "source": "Begreppskort · föreläsning · A_P30",
+    "page": "A_P30",
+    "kind": "recall",
+    "glossary": true
+  },
+  {
+    "id": "term-054",
+    "term": "Talus",
+    "q": "Vad betyder eller beskriver Talus?",
+    "a": "Språngbenet mellan underbenets ledgaffel och hälbenet.",
+    "source": "Begreppskort · föreläsning · A_P31",
+    "page": "A_P31",
+    "kind": "recall",
+    "glossary": true
+  },
+  {
+    "id": "term-055",
+    "term": "Calcaneus",
+    "q": "Vad betyder eller beskriver Calcaneus?",
+    "a": "Hälbenet.",
+    "source": "Begreppskort · föreläsning · A_P31",
+    "page": "A_P31",
+    "kind": "recall",
+    "glossary": true
+  },
+  {
+    "id": "term-056",
+    "term": "Os naviculare",
+    "q": "Vad betyder eller beskriver Os naviculare?",
+    "a": "Båtbenet på fotens mediala sida.",
+    "source": "Begreppskort · föreläsning · A_P31",
+    "page": "A_P31",
+    "kind": "recall",
+    "glossary": true
+  },
+  {
+    "id": "term-057",
+    "term": "Os cuboideum",
+    "q": "Vad betyder eller beskriver Os cuboideum?",
+    "a": "Tärningsbenet på fotens laterala sida.",
+    "source": "Begreppskort · föreläsning · A_P31",
+    "page": "A_P31",
+    "kind": "recall",
+    "glossary": true
+  },
+  {
+    "id": "term-058",
+    "term": "Hallux",
+    "q": "Vad betyder eller beskriver Hallux?",
+    "a": "Stortån.",
+    "source": "Begreppskort · föreläsning · A_P31",
+    "page": "A_P31",
+    "kind": "recall",
+    "glossary": true
+  },
+  {
+    "id": "term-059",
+    "term": "Clavicula",
+    "q": "Vad betyder eller beskriver Clavicula?",
+    "a": "Nyckelbenet.",
+    "source": "Begreppskort · föreläsning · A_P33",
+    "page": "A_P33",
+    "kind": "recall",
+    "glossary": true
+  },
+  {
+    "id": "term-060",
+    "term": "Scapula",
+    "q": "Vad betyder eller beskriver Scapula?",
+    "a": "Skulderbladet.",
+    "source": "Begreppskort · föreläsning · A_P34",
+    "page": "A_P34",
+    "kind": "recall",
+    "glossary": true
+  },
+  {
+    "id": "term-061",
+    "term": "Acromion",
+    "q": "Vad betyder eller beskriver Acromion?",
+    "a": "Skulderbladets utskott som möter nyckelbenet.",
+    "source": "Begreppskort · föreläsning · A_P35",
+    "page": "A_P35",
+    "kind": "recall",
+    "glossary": true
+  },
+  {
+    "id": "term-062",
+    "term": "Processus coracoideus",
+    "q": "Vad betyder eller beskriver Processus coracoideus?",
+    "a": "Korpnäbbsutskottet på scapulas framsida.",
+    "source": "Begreppskort · föreläsning · A_P34",
+    "page": "A_P34",
+    "kind": "recall",
+    "glossary": true
+  },
+  {
+    "id": "term-063",
+    "term": "Cavitas glenoidalis",
+    "q": "Vad betyder eller beskriver Cavitas glenoidalis?",
+    "a": "Skulderbladets ledskål mot humerus.",
+    "source": "Begreppskort · föreläsning · A_P34",
+    "page": "A_P34",
+    "kind": "recall",
+    "glossary": true
+  },
+  {
+    "id": "term-064",
+    "term": "Spina scapulae",
+    "q": "Vad betyder eller beskriver Spina scapulae?",
+    "a": "Åsen på skulderbladets baksida.",
+    "source": "Begreppskort · föreläsning · A_P35",
+    "page": "A_P35",
+    "kind": "recall",
+    "glossary": true
+  },
+  {
+    "id": "term-065",
+    "term": "Fossa subscapularis",
+    "q": "Vad betyder eller beskriver Fossa subscapularis?",
+    "a": "Gropen på skulderbladets framsida mot bröstkorgen.",
+    "source": "Begreppskort · föreläsning · A_P34",
+    "page": "A_P34",
+    "kind": "recall",
+    "glossary": true
+  },
+  {
+    "id": "term-066",
+    "term": "Fossa supraspinata",
+    "q": "Vad betyder eller beskriver Fossa supraspinata?",
+    "a": "Gropen ovanför spina scapulae.",
+    "source": "Begreppskort · föreläsning · A_P35",
+    "page": "A_P35",
+    "kind": "recall",
+    "glossary": true
+  },
+  {
+    "id": "term-067",
+    "term": "Fossa infraspinata",
+    "q": "Vad betyder eller beskriver Fossa infraspinata?",
+    "a": "Gropen nedanför spina scapulae.",
+    "source": "Begreppskort · föreläsning · A_P35",
+    "page": "A_P35",
+    "kind": "recall",
+    "glossary": true
+  },
+  {
+    "id": "term-068",
+    "term": "Tuberositas deltoidea",
+    "q": "Vad betyder eller beskriver Tuberositas deltoidea?",
+    "a": "Strävt område på humerus där deltoideus fäster.",
+    "source": "Begreppskort · föreläsning · A_P36",
+    "page": "A_P36",
+    "kind": "recall",
+    "glossary": true
+  },
+  {
+    "id": "term-069",
+    "term": "Sulcus intertubercularis",
+    "q": "Vad betyder eller beskriver Sulcus intertubercularis?",
+    "a": "Fåran mellan humerus stora och lilla tuberkel.",
+    "source": "Begreppskort · föreläsning · A_P37",
+    "page": "A_P37",
+    "kind": "recall",
+    "glossary": true
+  },
+  {
+    "id": "term-070",
+    "term": "Olecranon",
+    "q": "Vad betyder eller beskriver Olecranon?",
+    "a": "Ulnas proximala utskott som bildar armbågsspetsen.",
+    "source": "Begreppskort · föreläsning · A_P40",
+    "page": "A_P40",
+    "kind": "recall",
+    "glossary": true
+  },
+  {
+    "id": "term-071",
+    "term": "Caput radii",
+    "q": "Vad betyder eller beskriver Caput radii?",
+    "a": "Radius huvud vid armbågen.",
+    "source": "Begreppskort · föreläsning · A_P41",
+    "page": "A_P41",
+    "kind": "recall",
+    "glossary": true
+  },
+  {
+    "id": "term-072",
+    "term": "Caput ulnae",
+    "q": "Vad betyder eller beskriver Caput ulnae?",
+    "a": "Ulnas huvud vid den distala änden nära handleden.",
+    "source": "Begreppskort · föreläsning · A_P40",
+    "page": "A_P40",
+    "kind": "recall",
+    "glossary": true
+  },
+  {
+    "id": "term-073",
+    "term": "Pollex",
+    "q": "Vad betyder eller beskriver Pollex?",
+    "a": "Tummen.",
+    "source": "Begreppskort · föreläsning · A_P42",
+    "page": "A_P42",
+    "kind": "recall",
+    "glossary": true
+  },
+  {
+    "id": "term-074",
+    "term": "Ossa carpi",
+    "q": "Vad betyder eller beskriver Ossa carpi?",
+    "a": "Handlovsbenen.",
+    "source": "Begreppskort · föreläsning · A_P42",
+    "page": "A_P42",
+    "kind": "recall",
+    "glossary": true
+  },
+  {
+    "id": "term-075",
+    "term": "Ossa metacarpalia",
+    "q": "Vad betyder eller beskriver Ossa metacarpalia?",
+    "a": "Mellanhandsbenen.",
+    "source": "Begreppskort · föreläsning · A_P42",
+    "page": "A_P42",
+    "kind": "recall",
+    "glossary": true
+  },
+  {
+    "id": "term-076",
+    "term": "Falanger",
+    "q": "Vad betyder eller beskriver Falanger?",
+    "a": "Finger- eller tåben.",
+    "source": "Begreppskort · föreläsning · A_P42",
+    "page": "A_P42",
+    "kind": "recall",
+    "glossary": true
+  },
+  {
+    "id": "term-077",
+    "term": "Articulatio coxae",
+    "q": "Vad betyder eller beskriver Articulatio coxae?",
+    "a": "Höftleden.",
+    "source": "Begreppskort · föreläsning · J_P15",
+    "page": "J_P15",
+    "kind": "recall",
+    "glossary": true
+  },
+  {
+    "id": "term-078",
+    "term": "Articulatio genu",
+    "q": "Vad betyder eller beskriver Articulatio genu?",
+    "a": "Knäleden.",
+    "source": "Begreppskort · föreläsning · J_P19",
+    "page": "J_P19",
+    "kind": "recall",
+    "glossary": true
+  },
+  {
+    "id": "term-079",
+    "term": "Articulatio cubiti",
+    "q": "Vad betyder eller beskriver Articulatio cubiti?",
+    "a": "Armbågsleden/armbågskomplexet.",
+    "source": "Begreppskort · föreläsning · J_P33",
+    "page": "J_P33",
+    "kind": "recall",
+    "glossary": true
+  },
+  {
+    "id": "term-080",
+    "term": "Articulatio radiocarpalis",
+    "q": "Vad betyder eller beskriver Articulatio radiocarpalis?",
+    "a": "Förbindelsen mellan radius och proximala handlovsben via ledkomplexet.",
+    "source": "Begreppskort · föreläsning · J_P36",
+    "page": "J_P36",
+    "kind": "recall",
+    "glossary": true
+  },
+  {
+    "id": "term-081",
+    "term": "Articulatio temporomandibularis",
+    "q": "Vad betyder eller beskriver Articulatio temporomandibularis?",
+    "a": "Käkleden.",
+    "source": "Begreppskort · föreläsning · J_P38",
+    "page": "J_P38",
+    "kind": "recall",
+    "glossary": true
+  },
+  {
+    "id": "term-082",
+    "term": "Ligamentum patellae",
+    "q": "Vad betyder eller beskriver Ligamentum patellae?",
+    "a": "Förbindelsen från patella till tuberositas tibiae.",
+    "source": "Begreppskort · föreläsning · J_P22",
+    "page": "J_P22",
+    "kind": "recall",
+    "glossary": true
+  },
+  {
+    "id": "term-083",
+    "term": "ACL",
+    "q": "Vad betyder eller beskriver ACL?",
+    "a": "Främre korsbandet i knäleden.",
+    "source": "Begreppskort · föreläsning · J_P24",
+    "page": "J_P24",
+    "kind": "recall",
+    "glossary": true
+  },
+  {
+    "id": "term-084",
+    "term": "PCL",
+    "q": "Vad betyder eller beskriver PCL?",
+    "a": "Bakre korsbandet i knäleden.",
+    "source": "Begreppskort · föreläsning · J_P24",
+    "page": "J_P24",
+    "kind": "recall",
+    "glossary": true
+  },
+  {
+    "id": "term-085",
+    "term": "MCL",
+    "q": "Vad betyder eller beskriver MCL?",
+    "a": "Mediala kollateralligamentet i knäleden.",
+    "source": "Begreppskort · föreläsning · J_P23",
+    "page": "J_P23",
+    "kind": "recall",
+    "glossary": true
+  },
+  {
+    "id": "term-086",
+    "term": "LCL",
+    "q": "Vad betyder eller beskriver LCL?",
+    "a": "Laterala kollateralligamentet i knäleden.",
+    "source": "Begreppskort · föreläsning · J_P22",
+    "page": "J_P22",
+    "kind": "recall",
+    "glossary": true
+  },
+  {
+    "id": "term-087",
+    "term": "Bursa prepatellaris",
+    "q": "Vad betyder eller beskriver Bursa prepatellaris?",
+    "a": "Slemsäck framför patella.",
+    "source": "Begreppskort · föreläsning · J_P25",
+    "page": "J_P25",
+    "kind": "recall",
+    "glossary": true
+  },
+  {
+    "id": "term-088",
+    "term": "Bursa subacromialis",
+    "q": "Vad betyder eller beskriver Bursa subacromialis?",
+    "a": "Slemsäck under acromion som underlättar glidning kring axeln.",
+    "source": "Begreppskort · föreläsning · J_P31",
+    "page": "J_P31",
+    "kind": "recall",
+    "glossary": true
+  }
+]

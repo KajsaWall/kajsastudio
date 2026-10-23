@@ -1,0 +1,1829 @@
+{
+  "Q_P01": {
+    "image": "pages/Q_P01.webp",
+    "source": "Inst. fraågor fysiologi PDF (1).pdf",
+    "page": 1,
+    "group": "Q",
+    "kind": "questions"
+  },
+  "B1_P01": {
+    "image": "pages/B1_P01.webp",
+    "source": "Fysiologi del 1.pdf",
+    "page": 1,
+    "group": "B1",
+    "kind": "book"
+  },
+  "B1_P02": {
+    "image": "pages/B1_P02.webp",
+    "source": "Fysiologi del 1.pdf",
+    "page": 2,
+    "group": "B1",
+    "kind": "book"
+  },
+  "B1_P03": {
+    "image": "pages/B1_P03.webp",
+    "source": "Fysiologi del 1.pdf",
+    "page": 3,
+    "group": "B1",
+    "kind": "book"
+  },
+  "B1_P04": {
+    "image": "pages/B1_P04.webp",
+    "source": "Fysiologi del 1.pdf",
+    "page": 4,
+    "group": "B1",
+    "kind": "book"
+  },
+  "B1_P05": {
+    "image": "pages/B1_P05.webp",
+    "source": "Fysiologi del 1.pdf",
+    "page": 5,
+    "group": "B1",
+    "kind": "book"
+  },
+  "B1_P06": {
+    "image": "pages/B1_P06.webp",
+    "source": "Fysiologi del 1.pdf",
+    "page": 6,
+    "group": "B1",
+    "kind": "book"
+  },
+  "B1_P07": {
+    "image": "pages/B1_P07.webp",
+    "source": "Fysiologi del 1.pdf",
+    "page": 7,
+    "group": "B1",
+    "kind": "book"
+  },
+  "B1_P08": {
+    "image": "pages/B1_P08.webp",
+    "source": "Fysiologi del 1.pdf",
+    "page": 8,
+    "group": "B1",
+    "kind": "book"
+  },
+  "B1_P09": {
+    "image": "pages/B1_P09.webp",
+    "source": "Fysiologi del 1.pdf",
+    "page": 9,
+    "group": "B1",
+    "kind": "book"
+  },
+  "B1_P10": {
+    "image": "pages/B1_P10.webp",
+    "source": "Fysiologi del 1.pdf",
+    "page": 10,
+    "group": "B1",
+    "kind": "book"
+  },
+  "B1_P11": {
+    "image": "pages/B1_P11.webp",
+    "source": "Fysiologi del 1.pdf",
+    "page": 11,
+    "group": "B1",
+    "kind": "book"
+  },
+  "B1_P12": {
+    "image": "pages/B1_P12.webp",
+    "source": "Fysiologi del 1.pdf",
+    "page": 12,
+    "group": "B1",
+    "kind": "book"
+  },
+  "B1_P13": {
+    "image": "pages/B1_P13.webp",
+    "source": "Fysiologi del 1.pdf",
+    "page": 13,
+    "group": "B1",
+    "kind": "book"
+  },
+  "B1_P14": {
+    "image": "pages/B1_P14.webp",
+    "source": "Fysiologi del 1.pdf",
+    "page": 14,
+    "group": "B1",
+    "kind": "book"
+  },
+  "B1_P15": {
+    "image": "pages/B1_P15.webp",
+    "source": "Fysiologi del 1.pdf",
+    "page": 15,
+    "group": "B1",
+    "kind": "book"
+  },
+  "B1_P16": {
+    "image": "pages/B1_P16.webp",
+    "source": "Fysiologi del 1.pdf",
+    "page": 16,
+    "group": "B1",
+    "kind": "book"
+  },
+  "B1_P17": {
+    "image": "pages/B1_P17.webp",
+    "source": "Fysiologi del 1.pdf",
+    "page": 17,
+    "group": "B1",
+    "kind": "book"
+  },
+  "B1_P18": {
+    "image": "pages/B1_P18.webp",
+    "source": "Fysiologi del 1.pdf",
+    "page": 18,
+    "group": "B1",
+    "kind": "book"
+  },
+  "B1_P19": {
+    "image": "pages/B1_P19.webp",
+    "source": "Fysiologi del 1.pdf",
+    "page": 19,
+    "group": "B1",
+    "kind": "book"
+  },
+  "B1_P20": {
+    "image": "pages/B1_P20.webp",
+    "source": "Fysiologi del 1.pdf",
+    "page": 20,
+    "group": "B1",
+    "kind": "book"
+  },
+  "B1_P21": {
+    "image": "pages/B1_P21.webp",
+    "source": "Fysiologi del 1.pdf",
+    "page": 21,
+    "group": "B1",
+    "kind": "book"
+  },
+  "B1_P22": {
+    "image": "pages/B1_P22.webp",
+    "source": "Fysiologi del 1.pdf",
+    "page": 22,
+    "group": "B1",
+    "kind": "book"
+  },
+  "B1_P23": {
+    "image": "pages/B1_P23.webp",
+    "source": "Fysiologi del 1.pdf",
+    "page": 23,
+    "group": "B1",
+    "kind": "book"
+  },
+  "B3_P01": {
+    "image": "pages/B3_P01.webp",
+    "source": "Fysiologi boken del 3.pdf",
+    "page": 1,
+    "group": "B3",
+    "kind": "book"
+  },
+  "B3_P02": {
+    "image": "pages/B3_P02.webp",
+    "source": "Fysiologi boken del 3.pdf",
+    "page": 2,
+    "group": "B3",
+    "kind": "book"
+  },
+  "B3_P03": {
+    "image": "pages/B3_P03.webp",
+    "source": "Fysiologi boken del 3.pdf",
+    "page": 3,
+    "group": "B3",
+    "kind": "book"
+  },
+  "B3_P04": {
+    "image": "pages/B3_P04.webp",
+    "source": "Fysiologi boken del 3.pdf",
+    "page": 4,
+    "group": "B3",
+    "kind": "book"
+  },
+  "B3_P05": {
+    "image": "pages/B3_P05.webp",
+    "source": "Fysiologi boken del 3.pdf",
+    "page": 5,
+    "group": "B3",
+    "kind": "book"
+  },
+  "B3_P06": {
+    "image": "pages/B3_P06.webp",
+    "source": "Fysiologi boken del 3.pdf",
+    "page": 6,
+    "group": "B3",
+    "kind": "book"
+  },
+  "B3_P07": {
+    "image": "pages/B3_P07.webp",
+    "source": "Fysiologi boken del 3.pdf",
+    "page": 7,
+    "group": "B3",
+    "kind": "book"
+  },
+  "P_P01": {
+    "image": "pages/P_P01.webp",
+    "source": "4 Fysiologi Patologi 1 PDF (1).pdf",
+    "page": 1,
+    "group": "P",
+    "kind": "lecture"
+  },
+  "P_P02": {
+    "image": "pages/P_P02.webp",
+    "source": "4 Fysiologi Patologi 1 PDF (1).pdf",
+    "page": 2,
+    "group": "P",
+    "kind": "lecture"
+  },
+  "P_P03": {
+    "image": "pages/P_P03.webp",
+    "source": "4 Fysiologi Patologi 1 PDF (1).pdf",
+    "page": 3,
+    "group": "P",
+    "kind": "lecture"
+  },
+  "P_P04": {
+    "image": "pages/P_P04.webp",
+    "source": "4 Fysiologi Patologi 1 PDF (1).pdf",
+    "page": 4,
+    "group": "P",
+    "kind": "lecture"
+  },
+  "P_P05": {
+    "image": "pages/P_P05.webp",
+    "source": "4 Fysiologi Patologi 1 PDF (1).pdf",
+    "page": 5,
+    "group": "P",
+    "kind": "lecture"
+  },
+  "P_P06": {
+    "image": "pages/P_P06.webp",
+    "source": "4 Fysiologi Patologi 1 PDF (1).pdf",
+    "page": 6,
+    "group": "P",
+    "kind": "lecture"
+  },
+  "P_P07": {
+    "image": "pages/P_P07.webp",
+    "source": "4 Fysiologi Patologi 1 PDF (1).pdf",
+    "page": 7,
+    "group": "P",
+    "kind": "lecture"
+  },
+  "P_P08": {
+    "image": "pages/P_P08.webp",
+    "source": "4 Fysiologi Patologi 1 PDF (1).pdf",
+    "page": 8,
+    "group": "P",
+    "kind": "lecture"
+  },
+  "P_P09": {
+    "image": "pages/P_P09.webp",
+    "source": "4 Fysiologi Patologi 1 PDF (1).pdf",
+    "page": 9,
+    "group": "P",
+    "kind": "lecture"
+  },
+  "P_P10": {
+    "image": "pages/P_P10.webp",
+    "source": "4 Fysiologi Patologi 1 PDF (1).pdf",
+    "page": 10,
+    "group": "P",
+    "kind": "lecture"
+  },
+  "P_P11": {
+    "image": "pages/P_P11.webp",
+    "source": "4 Fysiologi Patologi 1 PDF (1).pdf",
+    "page": 11,
+    "group": "P",
+    "kind": "lecture"
+  },
+  "P_P12": {
+    "image": "pages/P_P12.webp",
+    "source": "4 Fysiologi Patologi 1 PDF (1).pdf",
+    "page": 12,
+    "group": "P",
+    "kind": "lecture"
+  },
+  "P_P13": {
+    "image": "pages/P_P13.webp",
+    "source": "4 Fysiologi Patologi 1 PDF (1).pdf",
+    "page": 13,
+    "group": "P",
+    "kind": "lecture"
+  },
+  "P_P14": {
+    "image": "pages/P_P14.webp",
+    "source": "4 Fysiologi Patologi 1 PDF (1).pdf",
+    "page": 14,
+    "group": "P",
+    "kind": "lecture"
+  },
+  "P_P15": {
+    "image": "pages/P_P15.webp",
+    "source": "4 Fysiologi Patologi 1 PDF (1).pdf",
+    "page": 15,
+    "group": "P",
+    "kind": "lecture"
+  },
+  "P_P16": {
+    "image": "pages/P_P16.webp",
+    "source": "4 Fysiologi Patologi 1 PDF (1).pdf",
+    "page": 16,
+    "group": "P",
+    "kind": "lecture"
+  },
+  "P_P17": {
+    "image": "pages/P_P17.webp",
+    "source": "4 Fysiologi Patologi 1 PDF (1).pdf",
+    "page": 17,
+    "group": "P",
+    "kind": "lecture"
+  },
+  "P_P18": {
+    "image": "pages/P_P18.webp",
+    "source": "4 Fysiologi Patologi 1 PDF (1).pdf",
+    "page": 18,
+    "group": "P",
+    "kind": "lecture"
+  },
+  "P_P19": {
+    "image": "pages/P_P19.webp",
+    "source": "4 Fysiologi Patologi 1 PDF (1).pdf",
+    "page": 19,
+    "group": "P",
+    "kind": "lecture"
+  },
+  "P_P20": {
+    "image": "pages/P_P20.webp",
+    "source": "4 Fysiologi Patologi 1 PDF (1).pdf",
+    "page": 20,
+    "group": "P",
+    "kind": "lecture"
+  },
+  "P_P21": {
+    "image": "pages/P_P21.webp",
+    "source": "4 Fysiologi Patologi 1 PDF (1).pdf",
+    "page": 21,
+    "group": "P",
+    "kind": "lecture"
+  },
+  "P_P22": {
+    "image": "pages/P_P22.webp",
+    "source": "4 Fysiologi Patologi 1 PDF (1).pdf",
+    "page": 22,
+    "group": "P",
+    "kind": "lecture"
+  },
+  "J_P01": {
+    "image": "pages/J_P01.webp",
+    "source": "4. Ledlaära pdf(kopia) (1).pdf",
+    "page": 1,
+    "group": "J",
+    "kind": "lecture"
+  },
+  "J_P02": {
+    "image": "pages/J_P02.webp",
+    "source": "4. Ledlaära pdf(kopia) (1).pdf",
+    "page": 2,
+    "group": "J",
+    "kind": "lecture"
+  },
+  "J_P03": {
+    "image": "pages/J_P03.webp",
+    "source": "4. Ledlaära pdf(kopia) (1).pdf",
+    "page": 3,
+    "group": "J",
+    "kind": "lecture"
+  },
+  "J_P04": {
+    "image": "pages/J_P04.webp",
+    "source": "4. Ledlaära pdf(kopia) (1).pdf",
+    "page": 4,
+    "group": "J",
+    "kind": "lecture"
+  },
+  "J_P05": {
+    "image": "pages/J_P05.webp",
+    "source": "4. Ledlaära pdf(kopia) (1).pdf",
+    "page": 5,
+    "group": "J",
+    "kind": "lecture"
+  },
+  "J_P06": {
+    "image": "pages/J_P06.webp",
+    "source": "4. Ledlaära pdf(kopia) (1).pdf",
+    "page": 6,
+    "group": "J",
+    "kind": "lecture"
+  },
+  "J_P07": {
+    "image": "pages/J_P07.webp",
+    "source": "4. Ledlaära pdf(kopia) (1).pdf",
+    "page": 7,
+    "group": "J",
+    "kind": "lecture"
+  },
+  "J_P08": {
+    "image": "pages/J_P08.webp",
+    "source": "4. Ledlaära pdf(kopia) (1).pdf",
+    "page": 8,
+    "group": "J",
+    "kind": "lecture"
+  },
+  "J_P09": {
+    "image": "pages/J_P09.webp",
+    "source": "4. Ledlaära pdf(kopia) (1).pdf",
+    "page": 9,
+    "group": "J",
+    "kind": "lecture"
+  },
+  "J_P10": {
+    "image": "pages/J_P10.webp",
+    "source": "4. Ledlaära pdf(kopia) (1).pdf",
+    "page": 10,
+    "group": "J",
+    "kind": "lecture"
+  },
+  "J_P11": {
+    "image": "pages/J_P11.webp",
+    "source": "4. Ledlaära pdf(kopia) (1).pdf",
+    "page": 11,
+    "group": "J",
+    "kind": "lecture"
+  },
+  "J_P12": {
+    "image": "pages/J_P12.webp",
+    "source": "4. Ledlaära pdf(kopia) (1).pdf",
+    "page": 12,
+    "group": "J",
+    "kind": "lecture"
+  },
+  "J_P13": {
+    "image": "pages/J_P13.webp",
+    "source": "4. Ledlaära pdf(kopia) (1).pdf",
+    "page": 13,
+    "group": "J",
+    "kind": "lecture"
+  },
+  "J_P14": {
+    "image": "pages/J_P14.webp",
+    "source": "4. Ledlaära pdf(kopia) (1).pdf",
+    "page": 14,
+    "group": "J",
+    "kind": "lecture"
+  },
+  "J_P15": {
+    "image": "pages/J_P15.webp",
+    "source": "4. Ledlaära pdf(kopia) (1).pdf",
+    "page": 15,
+    "group": "J",
+    "kind": "lecture"
+  },
+  "J_P16": {
+    "image": "pages/J_P16.webp",
+    "source": "4. Ledlaära pdf(kopia) (1).pdf",
+    "page": 16,
+    "group": "J",
+    "kind": "lecture"
+  },
+  "J_P17": {
+    "image": "pages/J_P17.webp",
+    "source": "4. Ledlaära pdf(kopia) (1).pdf",
+    "page": 17,
+    "group": "J",
+    "kind": "lecture"
+  },
+  "J_P18": {
+    "image": "pages/J_P18.webp",
+    "source": "4. Ledlaära pdf(kopia) (1).pdf",
+    "page": 18,
+    "group": "J",
+    "kind": "lecture"
+  },
+  "J_P19": {
+    "image": "pages/J_P19.webp",
+    "source": "4. Ledlaära pdf(kopia) (1).pdf",
+    "page": 19,
+    "group": "J",
+    "kind": "lecture"
+  },
+  "J_P20": {
+    "image": "pages/J_P20.webp",
+    "source": "4. Ledlaära pdf(kopia) (1).pdf",
+    "page": 20,
+    "group": "J",
+    "kind": "lecture"
+  },
+  "J_P21": {
+    "image": "pages/J_P21.webp",
+    "source": "4. Ledlaära pdf(kopia) (1).pdf",
+    "page": 21,
+    "group": "J",
+    "kind": "lecture"
+  },
+  "J_P22": {
+    "image": "pages/J_P22.webp",
+    "source": "4. Ledlaära pdf(kopia) (1).pdf",
+    "page": 22,
+    "group": "J",
+    "kind": "lecture"
+  },
+  "J_P23": {
+    "image": "pages/J_P23.webp",
+    "source": "4. Ledlaära pdf(kopia) (1).pdf",
+    "page": 23,
+    "group": "J",
+    "kind": "lecture"
+  },
+  "J_P24": {
+    "image": "pages/J_P24.webp",
+    "source": "4. Ledlaära pdf(kopia) (1).pdf",
+    "page": 24,
+    "group": "J",
+    "kind": "lecture"
+  },
+  "J_P25": {
+    "image": "pages/J_P25.webp",
+    "source": "4. Ledlaära pdf(kopia) (1).pdf",
+    "page": 25,
+    "group": "J",
+    "kind": "lecture"
+  },
+  "J_P26": {
+    "image": "pages/J_P26.webp",
+    "source": "4. Ledlaära pdf(kopia) (1).pdf",
+    "page": 26,
+    "group": "J",
+    "kind": "lecture"
+  },
+  "J_P27": {
+    "image": "pages/J_P27.webp",
+    "source": "4. Ledlaära pdf(kopia) (1).pdf",
+    "page": 27,
+    "group": "J",
+    "kind": "lecture"
+  },
+  "J_P28": {
+    "image": "pages/J_P28.webp",
+    "source": "4. Ledlaära pdf(kopia) (1).pdf",
+    "page": 28,
+    "group": "J",
+    "kind": "lecture"
+  },
+  "J_P29": {
+    "image": "pages/J_P29.webp",
+    "source": "4. Ledlaära pdf(kopia) (1).pdf",
+    "page": 29,
+    "group": "J",
+    "kind": "lecture"
+  },
+  "J_P30": {
+    "image": "pages/J_P30.webp",
+    "source": "4. Ledlaära pdf(kopia) (1).pdf",
+    "page": 30,
+    "group": "J",
+    "kind": "lecture"
+  },
+  "J_P31": {
+    "image": "pages/J_P31.webp",
+    "source": "4. Ledlaära pdf(kopia) (1).pdf",
+    "page": 31,
+    "group": "J",
+    "kind": "lecture"
+  },
+  "J_P32": {
+    "image": "pages/J_P32.webp",
+    "source": "4. Ledlaära pdf(kopia) (1).pdf",
+    "page": 32,
+    "group": "J",
+    "kind": "lecture"
+  },
+  "J_P33": {
+    "image": "pages/J_P33.webp",
+    "source": "4. Ledlaära pdf(kopia) (1).pdf",
+    "page": 33,
+    "group": "J",
+    "kind": "lecture"
+  },
+  "J_P34": {
+    "image": "pages/J_P34.webp",
+    "source": "4. Ledlaära pdf(kopia) (1).pdf",
+    "page": 34,
+    "group": "J",
+    "kind": "lecture"
+  },
+  "J_P35": {
+    "image": "pages/J_P35.webp",
+    "source": "4. Ledlaära pdf(kopia) (1).pdf",
+    "page": 35,
+    "group": "J",
+    "kind": "lecture"
+  },
+  "J_P36": {
+    "image": "pages/J_P36.webp",
+    "source": "4. Ledlaära pdf(kopia) (1).pdf",
+    "page": 36,
+    "group": "J",
+    "kind": "lecture"
+  },
+  "J_P37": {
+    "image": "pages/J_P37.webp",
+    "source": "4. Ledlaära pdf(kopia) (1).pdf",
+    "page": 37,
+    "group": "J",
+    "kind": "lecture"
+  },
+  "J_P38": {
+    "image": "pages/J_P38.webp",
+    "source": "4. Ledlaära pdf(kopia) (1).pdf",
+    "page": 38,
+    "group": "J",
+    "kind": "lecture"
+  },
+  "R_P01": {
+    "image": "pages/R_P01.webp",
+    "source": "5. Fysiologi Patologi skador PDF (1).pdf",
+    "page": 1,
+    "group": "R",
+    "kind": "lecture"
+  },
+  "R_P02": {
+    "image": "pages/R_P02.webp",
+    "source": "5. Fysiologi Patologi skador PDF (1).pdf",
+    "page": 2,
+    "group": "R",
+    "kind": "lecture"
+  },
+  "R_P03": {
+    "image": "pages/R_P03.webp",
+    "source": "5. Fysiologi Patologi skador PDF (1).pdf",
+    "page": 3,
+    "group": "R",
+    "kind": "lecture"
+  },
+  "R_P04": {
+    "image": "pages/R_P04.webp",
+    "source": "5. Fysiologi Patologi skador PDF (1).pdf",
+    "page": 4,
+    "group": "R",
+    "kind": "lecture"
+  },
+  "R_P05": {
+    "image": "pages/R_P05.webp",
+    "source": "5. Fysiologi Patologi skador PDF (1).pdf",
+    "page": 5,
+    "group": "R",
+    "kind": "lecture"
+  },
+  "R_P06": {
+    "image": "pages/R_P06.webp",
+    "source": "5. Fysiologi Patologi skador PDF (1).pdf",
+    "page": 6,
+    "group": "R",
+    "kind": "lecture"
+  },
+  "R_P07": {
+    "image": "pages/R_P07.webp",
+    "source": "5. Fysiologi Patologi skador PDF (1).pdf",
+    "page": 7,
+    "group": "R",
+    "kind": "lecture"
+  },
+  "R_P08": {
+    "image": "pages/R_P08.webp",
+    "source": "5. Fysiologi Patologi skador PDF (1).pdf",
+    "page": 8,
+    "group": "R",
+    "kind": "lecture"
+  },
+  "R_P09": {
+    "image": "pages/R_P09.webp",
+    "source": "5. Fysiologi Patologi skador PDF (1).pdf",
+    "page": 9,
+    "group": "R",
+    "kind": "lecture"
+  },
+  "R_P10": {
+    "image": "pages/R_P10.webp",
+    "source": "5. Fysiologi Patologi skador PDF (1).pdf",
+    "page": 10,
+    "group": "R",
+    "kind": "lecture"
+  },
+  "R_P11": {
+    "image": "pages/R_P11.webp",
+    "source": "5. Fysiologi Patologi skador PDF (1).pdf",
+    "page": 11,
+    "group": "R",
+    "kind": "lecture"
+  },
+  "R_P12": {
+    "image": "pages/R_P12.webp",
+    "source": "5. Fysiologi Patologi skador PDF (1).pdf",
+    "page": 12,
+    "group": "R",
+    "kind": "lecture"
+  },
+  "R_P13": {
+    "image": "pages/R_P13.webp",
+    "source": "5. Fysiologi Patologi skador PDF (1).pdf",
+    "page": 13,
+    "group": "R",
+    "kind": "lecture"
+  },
+  "R_P14": {
+    "image": "pages/R_P14.webp",
+    "source": "5. Fysiologi Patologi skador PDF (1).pdf",
+    "page": 14,
+    "group": "R",
+    "kind": "lecture"
+  },
+  "R_P15": {
+    "image": "pages/R_P15.webp",
+    "source": "5. Fysiologi Patologi skador PDF (1).pdf",
+    "page": 15,
+    "group": "R",
+    "kind": "lecture"
+  },
+  "R_P16": {
+    "image": "pages/R_P16.webp",
+    "source": "5. Fysiologi Patologi skador PDF (1).pdf",
+    "page": 16,
+    "group": "R",
+    "kind": "lecture"
+  },
+  "R_P17": {
+    "image": "pages/R_P17.webp",
+    "source": "5. Fysiologi Patologi skador PDF (1).pdf",
+    "page": 17,
+    "group": "R",
+    "kind": "lecture"
+  },
+  "R_P18": {
+    "image": "pages/R_P18.webp",
+    "source": "5. Fysiologi Patologi skador PDF (1).pdf",
+    "page": 18,
+    "group": "R",
+    "kind": "lecture"
+  },
+  "B2_P01": {
+    "image": "pages/B2_P01.webp",
+    "source": "Fysiologi boken del 2.pdf",
+    "page": 1,
+    "group": "B2",
+    "kind": "book"
+  },
+  "B2_P02": {
+    "image": "pages/B2_P02.webp",
+    "source": "Fysiologi boken del 2.pdf",
+    "page": 2,
+    "group": "B2",
+    "kind": "book"
+  },
+  "B2_P03": {
+    "image": "pages/B2_P03.webp",
+    "source": "Fysiologi boken del 2.pdf",
+    "page": 3,
+    "group": "B2",
+    "kind": "book"
+  },
+  "B2_P04": {
+    "image": "pages/B2_P04.webp",
+    "source": "Fysiologi boken del 2.pdf",
+    "page": 4,
+    "group": "B2",
+    "kind": "book"
+  },
+  "B2_P05": {
+    "image": "pages/B2_P05.webp",
+    "source": "Fysiologi boken del 2.pdf",
+    "page": 5,
+    "group": "B2",
+    "kind": "book"
+  },
+  "B2_P06": {
+    "image": "pages/B2_P06.webp",
+    "source": "Fysiologi boken del 2.pdf",
+    "page": 6,
+    "group": "B2",
+    "kind": "book"
+  },
+  "B2_P07": {
+    "image": "pages/B2_P07.webp",
+    "source": "Fysiologi boken del 2.pdf",
+    "page": 7,
+    "group": "B2",
+    "kind": "book"
+  },
+  "B2_P08": {
+    "image": "pages/B2_P08.webp",
+    "source": "Fysiologi boken del 2.pdf",
+    "page": 8,
+    "group": "B2",
+    "kind": "book"
+  },
+  "B2_P09": {
+    "image": "pages/B2_P09.webp",
+    "source": "Fysiologi boken del 2.pdf",
+    "page": 9,
+    "group": "B2",
+    "kind": "book"
+  },
+  "B2_P10": {
+    "image": "pages/B2_P10.webp",
+    "source": "Fysiologi boken del 2.pdf",
+    "page": 10,
+    "group": "B2",
+    "kind": "book"
+  },
+  "B2_P11": {
+    "image": "pages/B2_P11.webp",
+    "source": "Fysiologi boken del 2.pdf",
+    "page": 11,
+    "group": "B2",
+    "kind": "book"
+  },
+  "B2_P12": {
+    "image": "pages/B2_P12.webp",
+    "source": "Fysiologi boken del 2.pdf",
+    "page": 12,
+    "group": "B2",
+    "kind": "book"
+  },
+  "B2_P13": {
+    "image": "pages/B2_P13.webp",
+    "source": "Fysiologi boken del 2.pdf",
+    "page": 13,
+    "group": "B2",
+    "kind": "book"
+  },
+  "B2_P14": {
+    "image": "pages/B2_P14.webp",
+    "source": "Fysiologi boken del 2.pdf",
+    "page": 14,
+    "group": "B2",
+    "kind": "book"
+  },
+  "B2_P15": {
+    "image": "pages/B2_P15.webp",
+    "source": "Fysiologi boken del 2.pdf",
+    "page": 15,
+    "group": "B2",
+    "kind": "book"
+  },
+  "B2_P16": {
+    "image": "pages/B2_P16.webp",
+    "source": "Fysiologi boken del 2.pdf",
+    "page": 16,
+    "group": "B2",
+    "kind": "book"
+  },
+  "B2_P17": {
+    "image": "pages/B2_P17.webp",
+    "source": "Fysiologi boken del 2.pdf",
+    "page": 17,
+    "group": "B2",
+    "kind": "book"
+  },
+  "B2_P18": {
+    "image": "pages/B2_P18.webp",
+    "source": "Fysiologi boken del 2.pdf",
+    "page": 18,
+    "group": "B2",
+    "kind": "book"
+  },
+  "B2_P19": {
+    "image": "pages/B2_P19.webp",
+    "source": "Fysiologi boken del 2.pdf",
+    "page": 19,
+    "group": "B2",
+    "kind": "book"
+  },
+  "B2_P20": {
+    "image": "pages/B2_P20.webp",
+    "source": "Fysiologi boken del 2.pdf",
+    "page": 20,
+    "group": "B2",
+    "kind": "book"
+  },
+  "B2_P21": {
+    "image": "pages/B2_P21.webp",
+    "source": "Fysiologi boken del 2.pdf",
+    "page": 21,
+    "group": "B2",
+    "kind": "book"
+  },
+  "B2_P22": {
+    "image": "pages/B2_P22.webp",
+    "source": "Fysiologi boken del 2.pdf",
+    "page": 22,
+    "group": "B2",
+    "kind": "book"
+  },
+  "B2_P23": {
+    "image": "pages/B2_P23.webp",
+    "source": "Fysiologi boken del 2.pdf",
+    "page": 23,
+    "group": "B2",
+    "kind": "book"
+  },
+  "B2_P24": {
+    "image": "pages/B2_P24.webp",
+    "source": "Fysiologi boken del 2.pdf",
+    "page": 24,
+    "group": "B2",
+    "kind": "book"
+  },
+  "A_P01": {
+    "image": "pages/A_P01.webp",
+    "source": "3. Skelett specifik PDF(kopia) (1).pdf",
+    "page": 1,
+    "group": "A",
+    "kind": "lecture"
+  },
+  "A_P02": {
+    "image": "pages/A_P02.webp",
+    "source": "3. Skelett specifik PDF(kopia) (1).pdf",
+    "page": 2,
+    "group": "A",
+    "kind": "lecture"
+  },
+  "A_P03": {
+    "image": "pages/A_P03.webp",
+    "source": "3. Skelett specifik PDF(kopia) (1).pdf",
+    "page": 3,
+    "group": "A",
+    "kind": "lecture"
+  },
+  "A_P04": {
+    "image": "pages/A_P04.webp",
+    "source": "3. Skelett specifik PDF(kopia) (1).pdf",
+    "page": 4,
+    "group": "A",
+    "kind": "lecture"
+  },
+  "A_P05": {
+    "image": "pages/A_P05.webp",
+    "source": "3. Skelett specifik PDF(kopia) (1).pdf",
+    "page": 5,
+    "group": "A",
+    "kind": "lecture"
+  },
+  "A_P06": {
+    "image": "pages/A_P06.webp",
+    "source": "3. Skelett specifik PDF(kopia) (1).pdf",
+    "page": 6,
+    "group": "A",
+    "kind": "lecture"
+  },
+  "A_P07": {
+    "image": "pages/A_P07.webp",
+    "source": "3. Skelett specifik PDF(kopia) (1).pdf",
+    "page": 7,
+    "group": "A",
+    "kind": "lecture"
+  },
+  "A_P08": {
+    "image": "pages/A_P08.webp",
+    "source": "3. Skelett specifik PDF(kopia) (1).pdf",
+    "page": 8,
+    "group": "A",
+    "kind": "lecture"
+  },
+  "A_P09": {
+    "image": "pages/A_P09.webp",
+    "source": "3. Skelett specifik PDF(kopia) (1).pdf",
+    "page": 9,
+    "group": "A",
+    "kind": "lecture"
+  },
+  "A_P10": {
+    "image": "pages/A_P10.webp",
+    "source": "3. Skelett specifik PDF(kopia) (1).pdf",
+    "page": 10,
+    "group": "A",
+    "kind": "lecture"
+  },
+  "A_P11": {
+    "image": "pages/A_P11.webp",
+    "source": "3. Skelett specifik PDF(kopia) (1).pdf",
+    "page": 11,
+    "group": "A",
+    "kind": "lecture"
+  },
+  "A_P12": {
+    "image": "pages/A_P12.webp",
+    "source": "3. Skelett specifik PDF(kopia) (1).pdf",
+    "page": 12,
+    "group": "A",
+    "kind": "lecture"
+  },
+  "A_P13": {
+    "image": "pages/A_P13.webp",
+    "source": "3. Skelett specifik PDF(kopia) (1).pdf",
+    "page": 13,
+    "group": "A",
+    "kind": "lecture"
+  },
+  "A_P14": {
+    "image": "pages/A_P14.webp",
+    "source": "3. Skelett specifik PDF(kopia) (1).pdf",
+    "page": 14,
+    "group": "A",
+    "kind": "lecture"
+  },
+  "A_P15": {
+    "image": "pages/A_P15.webp",
+    "source": "3. Skelett specifik PDF(kopia) (1).pdf",
+    "page": 15,
+    "group": "A",
+    "kind": "lecture"
+  },
+  "A_P16": {
+    "image": "pages/A_P16.webp",
+    "source": "3. Skelett specifik PDF(kopia) (1).pdf",
+    "page": 16,
+    "group": "A",
+    "kind": "lecture"
+  },
+  "A_P17": {
+    "image": "pages/A_P17.webp",
+    "source": "3. Skelett specifik PDF(kopia) (1).pdf",
+    "page": 17,
+    "group": "A",
+    "kind": "lecture"
+  },
+  "A_P18": {
+    "image": "pages/A_P18.webp",
+    "source": "3. Skelett specifik PDF(kopia) (1).pdf",
+    "page": 18,
+    "group": "A",
+    "kind": "lecture"
+  },
+  "A_P19": {
+    "image": "pages/A_P19.webp",
+    "source": "3. Skelett specifik PDF(kopia) (1).pdf",
+    "page": 19,
+    "group": "A",
+    "kind": "lecture"
+  },
+  "A_P20": {
+    "image": "pages/A_P20.webp",
+    "source": "3. Skelett specifik PDF(kopia) (1).pdf",
+    "page": 20,
+    "group": "A",
+    "kind": "lecture"
+  },
+  "A_P21": {
+    "image": "pages/A_P21.webp",
+    "source": "3. Skelett specifik PDF(kopia) (1).pdf",
+    "page": 21,
+    "group": "A",
+    "kind": "lecture"
+  },
+  "A_P22": {
+    "image": "pages/A_P22.webp",
+    "source": "3. Skelett specifik PDF(kopia) (1).pdf",
+    "page": 22,
+    "group": "A",
+    "kind": "lecture"
+  },
+  "A_P23": {
+    "image": "pages/A_P23.webp",
+    "source": "3. Skelett specifik PDF(kopia) (1).pdf",
+    "page": 23,
+    "group": "A",
+    "kind": "lecture"
+  },
+  "A_P24": {
+    "image": "pages/A_P24.webp",
+    "source": "3. Skelett specifik PDF(kopia) (1).pdf",
+    "page": 24,
+    "group": "A",
+    "kind": "lecture"
+  },
+  "A_P25": {
+    "image": "pages/A_P25.webp",
+    "source": "3. Skelett specifik PDF(kopia) (1).pdf",
+    "page": 25,
+    "group": "A",
+    "kind": "lecture"
+  },
+  "A_P26": {
+    "image": "pages/A_P26.webp",
+    "source": "3. Skelett specifik PDF(kopia) (1).pdf",
+    "page": 26,
+    "group": "A",
+    "kind": "lecture"
+  },
+  "A_P27": {
+    "image": "pages/A_P27.webp",
+    "source": "3. Skelett specifik PDF(kopia) (1).pdf",
+    "page": 27,
+    "group": "A",
+    "kind": "lecture"
+  },
+  "A_P28": {
+    "image": "pages/A_P28.webp",
+    "source": "3. Skelett specifik PDF(kopia) (1).pdf",
+    "page": 28,
+    "group": "A",
+    "kind": "lecture"
+  },
+  "A_P29": {
+    "image": "pages/A_P29.webp",
+    "source": "3. Skelett specifik PDF(kopia) (1).pdf",
+    "page": 29,
+    "group": "A",
+    "kind": "lecture"
+  },
+  "A_P30": {
+    "image": "pages/A_P30.webp",
+    "source": "3. Skelett specifik PDF(kopia) (1).pdf",
+    "page": 30,
+    "group": "A",
+    "kind": "lecture"
+  },
+  "A_P31": {
+    "image": "pages/A_P31.webp",
+    "source": "3. Skelett specifik PDF(kopia) (1).pdf",
+    "page": 31,
+    "group": "A",
+    "kind": "lecture"
+  },
+  "A_P32": {
+    "image": "pages/A_P32.webp",
+    "source": "3. Skelett specifik PDF(kopia) (1).pdf",
+    "page": 32,
+    "group": "A",
+    "kind": "lecture"
+  },
+  "A_P33": {
+    "image": "pages/A_P33.webp",
+    "source": "3. Skelett specifik PDF(kopia) (1).pdf",
+    "page": 33,
+    "group": "A",
+    "kind": "lecture"
+  },
+  "A_P34": {
+    "image": "pages/A_P34.webp",
+    "source": "3. Skelett specifik PDF(kopia) (1).pdf",
+    "page": 34,
+    "group": "A",
+    "kind": "lecture"
+  },
+  "A_P35": {
+    "image": "pages/A_P35.webp",
+    "source": "3. Skelett specifik PDF(kopia) (1).pdf",
+    "page": 35,
+    "group": "A",
+    "kind": "lecture"
+  },
+  "A_P36": {
+    "image": "pages/A_P36.webp",
+    "source": "3. Skelett specifik PDF(kopia) (1).pdf",
+    "page": 36,
+    "group": "A",
+    "kind": "lecture"
+  },
+  "A_P37": {
+    "image": "pages/A_P37.webp",
+    "source": "3. Skelett specifik PDF(kopia) (1).pdf",
+    "page": 37,
+    "group": "A",
+    "kind": "lecture"
+  },
+  "A_P38": {
+    "image": "pages/A_P38.webp",
+    "source": "3. Skelett specifik PDF(kopia) (1).pdf",
+    "page": 38,
+    "group": "A",
+    "kind": "lecture"
+  },
+  "A_P39": {
+    "image": "pages/A_P39.webp",
+    "source": "3. Skelett specifik PDF(kopia) (1).pdf",
+    "page": 39,
+    "group": "A",
+    "kind": "lecture"
+  },
+  "A_P40": {
+    "image": "pages/A_P40.webp",
+    "source": "3. Skelett specifik PDF(kopia) (1).pdf",
+    "page": 40,
+    "group": "A",
+    "kind": "lecture"
+  },
+  "A_P41": {
+    "image": "pages/A_P41.webp",
+    "source": "3. Skelett specifik PDF(kopia) (1).pdf",
+    "page": 41,
+    "group": "A",
+    "kind": "lecture"
+  },
+  "A_P42": {
+    "image": "pages/A_P42.webp",
+    "source": "3. Skelett specifik PDF(kopia) (1).pdf",
+    "page": 42,
+    "group": "A",
+    "kind": "lecture"
+  },
+  "A_P43": {
+    "image": "pages/A_P43.webp",
+    "source": "3. Skelett specifik PDF(kopia) (1).pdf",
+    "page": 43,
+    "group": "A",
+    "kind": "lecture"
+  },
+  "M_P01": {
+    "image": "pages/M_P01.webp",
+    "source": "3. Fysiologi muskel PDF (1).pdf",
+    "page": 1,
+    "group": "M",
+    "kind": "lecture"
+  },
+  "M_P02": {
+    "image": "pages/M_P02.webp",
+    "source": "3. Fysiologi muskel PDF (1).pdf",
+    "page": 2,
+    "group": "M",
+    "kind": "lecture"
+  },
+  "M_P03": {
+    "image": "pages/M_P03.webp",
+    "source": "3. Fysiologi muskel PDF (1).pdf",
+    "page": 3,
+    "group": "M",
+    "kind": "lecture"
+  },
+  "M_P04": {
+    "image": "pages/M_P04.webp",
+    "source": "3. Fysiologi muskel PDF (1).pdf",
+    "page": 4,
+    "group": "M",
+    "kind": "lecture"
+  },
+  "M_P05": {
+    "image": "pages/M_P05.webp",
+    "source": "3. Fysiologi muskel PDF (1).pdf",
+    "page": 5,
+    "group": "M",
+    "kind": "lecture"
+  },
+  "M_P06": {
+    "image": "pages/M_P06.webp",
+    "source": "3. Fysiologi muskel PDF (1).pdf",
+    "page": 6,
+    "group": "M",
+    "kind": "lecture"
+  },
+  "M_P07": {
+    "image": "pages/M_P07.webp",
+    "source": "3. Fysiologi muskel PDF (1).pdf",
+    "page": 7,
+    "group": "M",
+    "kind": "lecture"
+  },
+  "M_P08": {
+    "image": "pages/M_P08.webp",
+    "source": "3. Fysiologi muskel PDF (1).pdf",
+    "page": 8,
+    "group": "M",
+    "kind": "lecture"
+  },
+  "M_P09": {
+    "image": "pages/M_P09.webp",
+    "source": "3. Fysiologi muskel PDF (1).pdf",
+    "page": 9,
+    "group": "M",
+    "kind": "lecture"
+  },
+  "M_P10": {
+    "image": "pages/M_P10.webp",
+    "source": "3. Fysiologi muskel PDF (1).pdf",
+    "page": 10,
+    "group": "M",
+    "kind": "lecture"
+  },
+  "M_P11": {
+    "image": "pages/M_P11.webp",
+    "source": "3. Fysiologi muskel PDF (1).pdf",
+    "page": 11,
+    "group": "M",
+    "kind": "lecture"
+  },
+  "M_P12": {
+    "image": "pages/M_P12.webp",
+    "source": "3. Fysiologi muskel PDF (1).pdf",
+    "page": 12,
+    "group": "M",
+    "kind": "lecture"
+  },
+  "M_P13": {
+    "image": "pages/M_P13.webp",
+    "source": "3. Fysiologi muskel PDF (1).pdf",
+    "page": 13,
+    "group": "M",
+    "kind": "lecture"
+  },
+  "M_P14": {
+    "image": "pages/M_P14.webp",
+    "source": "3. Fysiologi muskel PDF (1).pdf",
+    "page": 14,
+    "group": "M",
+    "kind": "lecture"
+  },
+  "M_P15": {
+    "image": "pages/M_P15.webp",
+    "source": "3. Fysiologi muskel PDF (1).pdf",
+    "page": 15,
+    "group": "M",
+    "kind": "lecture"
+  },
+  "M_P16": {
+    "image": "pages/M_P16.webp",
+    "source": "3. Fysiologi muskel PDF (1).pdf",
+    "page": 16,
+    "group": "M",
+    "kind": "lecture"
+  },
+  "M_P17": {
+    "image": "pages/M_P17.webp",
+    "source": "3. Fysiologi muskel PDF (1).pdf",
+    "page": 17,
+    "group": "M",
+    "kind": "lecture"
+  },
+  "M_P18": {
+    "image": "pages/M_P18.webp",
+    "source": "3. Fysiologi muskel PDF (1).pdf",
+    "page": 18,
+    "group": "M",
+    "kind": "lecture"
+  },
+  "M_P19": {
+    "image": "pages/M_P19.webp",
+    "source": "3. Fysiologi muskel PDF (1).pdf",
+    "page": 19,
+    "group": "M",
+    "kind": "lecture"
+  },
+  "M_P20": {
+    "image": "pages/M_P20.webp",
+    "source": "3. Fysiologi muskel PDF (1).pdf",
+    "page": 20,
+    "group": "M",
+    "kind": "lecture"
+  },
+  "M_P21": {
+    "image": "pages/M_P21.webp",
+    "source": "3. Fysiologi muskel PDF (1).pdf",
+    "page": 21,
+    "group": "M",
+    "kind": "lecture"
+  },
+  "M_P22": {
+    "image": "pages/M_P22.webp",
+    "source": "3. Fysiologi muskel PDF (1).pdf",
+    "page": 22,
+    "group": "M",
+    "kind": "lecture"
+  },
+  "M_P23": {
+    "image": "pages/M_P23.webp",
+    "source": "3. Fysiologi muskel PDF (1).pdf",
+    "page": 23,
+    "group": "M",
+    "kind": "lecture"
+  },
+  "S_P01": {
+    "image": "pages/S_P01.webp",
+    "source": "2. Skelett generellt pdf(kopia) (1).pdf",
+    "page": 1,
+    "group": "S",
+    "kind": "lecture"
+  },
+  "S_P02": {
+    "image": "pages/S_P02.webp",
+    "source": "2. Skelett generellt pdf(kopia) (1).pdf",
+    "page": 2,
+    "group": "S",
+    "kind": "lecture"
+  },
+  "S_P03": {
+    "image": "pages/S_P03.webp",
+    "source": "2. Skelett generellt pdf(kopia) (1).pdf",
+    "page": 3,
+    "group": "S",
+    "kind": "lecture"
+  },
+  "S_P04": {
+    "image": "pages/S_P04.webp",
+    "source": "2. Skelett generellt pdf(kopia) (1).pdf",
+    "page": 4,
+    "group": "S",
+    "kind": "lecture"
+  },
+  "S_P05": {
+    "image": "pages/S_P05.webp",
+    "source": "2. Skelett generellt pdf(kopia) (1).pdf",
+    "page": 5,
+    "group": "S",
+    "kind": "lecture"
+  },
+  "S_P06": {
+    "image": "pages/S_P06.webp",
+    "source": "2. Skelett generellt pdf(kopia) (1).pdf",
+    "page": 6,
+    "group": "S",
+    "kind": "lecture"
+  },
+  "S_P07": {
+    "image": "pages/S_P07.webp",
+    "source": "2. Skelett generellt pdf(kopia) (1).pdf",
+    "page": 7,
+    "group": "S",
+    "kind": "lecture"
+  },
+  "S_P08": {
+    "image": "pages/S_P08.webp",
+    "source": "2. Skelett generellt pdf(kopia) (1).pdf",
+    "page": 8,
+    "group": "S",
+    "kind": "lecture"
+  },
+  "S_P09": {
+    "image": "pages/S_P09.webp",
+    "source": "2. Skelett generellt pdf(kopia) (1).pdf",
+    "page": 9,
+    "group": "S",
+    "kind": "lecture"
+  },
+  "S_P10": {
+    "image": "pages/S_P10.webp",
+    "source": "2. Skelett generellt pdf(kopia) (1).pdf",
+    "page": 10,
+    "group": "S",
+    "kind": "lecture"
+  },
+  "S_P11": {
+    "image": "pages/S_P11.webp",
+    "source": "2. Skelett generellt pdf(kopia) (1).pdf",
+    "page": 11,
+    "group": "S",
+    "kind": "lecture"
+  },
+  "L_P01": {
+    "image": "pages/L_P01.webp",
+    "source": "2. Fysiologi ledlaära PDF (1).pdf",
+    "page": 1,
+    "group": "L",
+    "kind": "lecture"
+  },
+  "L_P02": {
+    "image": "pages/L_P02.webp",
+    "source": "2. Fysiologi ledlaära PDF (1).pdf",
+    "page": 2,
+    "group": "L",
+    "kind": "lecture"
+  },
+  "L_P03": {
+    "image": "pages/L_P03.webp",
+    "source": "2. Fysiologi ledlaära PDF (1).pdf",
+    "page": 3,
+    "group": "L",
+    "kind": "lecture"
+  },
+  "L_P04": {
+    "image": "pages/L_P04.webp",
+    "source": "2. Fysiologi ledlaära PDF (1).pdf",
+    "page": 4,
+    "group": "L",
+    "kind": "lecture"
+  },
+  "L_P05": {
+    "image": "pages/L_P05.webp",
+    "source": "2. Fysiologi ledlaära PDF (1).pdf",
+    "page": 5,
+    "group": "L",
+    "kind": "lecture"
+  },
+  "L_P06": {
+    "image": "pages/L_P06.webp",
+    "source": "2. Fysiologi ledlaära PDF (1).pdf",
+    "page": 6,
+    "group": "L",
+    "kind": "lecture"
+  },
+  "L_P07": {
+    "image": "pages/L_P07.webp",
+    "source": "2. Fysiologi ledlaära PDF (1).pdf",
+    "page": 7,
+    "group": "L",
+    "kind": "lecture"
+  },
+  "L_P08": {
+    "image": "pages/L_P08.webp",
+    "source": "2. Fysiologi ledlaära PDF (1).pdf",
+    "page": 8,
+    "group": "L",
+    "kind": "lecture"
+  },
+  "L_P09": {
+    "image": "pages/L_P09.webp",
+    "source": "2. Fysiologi ledlaära PDF (1).pdf",
+    "page": 9,
+    "group": "L",
+    "kind": "lecture"
+  },
+  "L_P10": {
+    "image": "pages/L_P10.webp",
+    "source": "2. Fysiologi ledlaära PDF (1).pdf",
+    "page": 10,
+    "group": "L",
+    "kind": "lecture"
+  },
+  "L_P11": {
+    "image": "pages/L_P11.webp",
+    "source": "2. Fysiologi ledlaära PDF (1).pdf",
+    "page": 11,
+    "group": "L",
+    "kind": "lecture"
+  },
+  "L_P12": {
+    "image": "pages/L_P12.webp",
+    "source": "2. Fysiologi ledlaära PDF (1).pdf",
+    "page": 12,
+    "group": "L",
+    "kind": "lecture"
+  },
+  "L_P13": {
+    "image": "pages/L_P13.webp",
+    "source": "2. Fysiologi ledlaära PDF (1).pdf",
+    "page": 13,
+    "group": "L",
+    "kind": "lecture"
+  },
+  "L_P14": {
+    "image": "pages/L_P14.webp",
+    "source": "2. Fysiologi ledlaära PDF (1).pdf",
+    "page": 14,
+    "group": "L",
+    "kind": "lecture"
+  },
+  "T_P01": {
+    "image": "pages/T_P01.webp",
+    "source": "1. Terminologi pdf (1).pdf",
+    "page": 1,
+    "group": "T",
+    "kind": "lecture"
+  },
+  "T_P02": {
+    "image": "pages/T_P02.webp",
+    "source": "1. Terminologi pdf (1).pdf",
+    "page": 2,
+    "group": "T",
+    "kind": "lecture"
+  },
+  "T_P03": {
+    "image": "pages/T_P03.webp",
+    "source": "1. Terminologi pdf (1).pdf",
+    "page": 3,
+    "group": "T",
+    "kind": "lecture"
+  },
+  "T_P04": {
+    "image": "pages/T_P04.webp",
+    "source": "1. Terminologi pdf (1).pdf",
+    "page": 4,
+    "group": "T",
+    "kind": "lecture"
+  },
+  "T_P05": {
+    "image": "pages/T_P05.webp",
+    "source": "1. Terminologi pdf (1).pdf",
+    "page": 5,
+    "group": "T",
+    "kind": "lecture"
+  },
+  "T_P06": {
+    "image": "pages/T_P06.webp",
+    "source": "1. Terminologi pdf (1).pdf",
+    "page": 6,
+    "group": "T",
+    "kind": "lecture"
+  },
+  "T_P07": {
+    "image": "pages/T_P07.webp",
+    "source": "1. Terminologi pdf (1).pdf",
+    "page": 7,
+    "group": "T",
+    "kind": "lecture"
+  },
+  "T_P08": {
+    "image": "pages/T_P08.webp",
+    "source": "1. Terminologi pdf (1).pdf",
+    "page": 8,
+    "group": "T",
+    "kind": "lecture"
+  },
+  "T_P09": {
+    "image": "pages/T_P09.webp",
+    "source": "1. Terminologi pdf (1).pdf",
+    "page": 9,
+    "group": "T",
+    "kind": "lecture"
+  },
+  "T_P10": {
+    "image": "pages/T_P10.webp",
+    "source": "1. Terminologi pdf (1).pdf",
+    "page": 10,
+    "group": "T",
+    "kind": "lecture"
+  },
+  "T_P11": {
+    "image": "pages/T_P11.webp",
+    "source": "1. Terminologi pdf (1).pdf",
+    "page": 11,
+    "group": "T",
+    "kind": "lecture"
+  },
+  "T_P12": {
+    "image": "pages/T_P12.webp",
+    "source": "1. Terminologi pdf (1).pdf",
+    "page": 12,
+    "group": "T",
+    "kind": "lecture"
+  },
+  "T_P13": {
+    "image": "pages/T_P13.webp",
+    "source": "1. Terminologi pdf (1).pdf",
+    "page": 13,
+    "group": "T",
+    "kind": "lecture"
+  },
+  "T_P14": {
+    "image": "pages/T_P14.webp",
+    "source": "1. Terminologi pdf (1).pdf",
+    "page": 14,
+    "group": "T",
+    "kind": "lecture"
+  },
+  "T_P15": {
+    "image": "pages/T_P15.webp",
+    "source": "1. Terminologi pdf (1).pdf",
+    "page": 15,
+    "group": "T",
+    "kind": "lecture"
+  },
+  "H_P01": {
+    "image": "pages/H_P01.webp",
+    "source": "1. Histologi. Osteologi pdf.pdf",
+    "page": 1,
+    "group": "H",
+    "kind": "lecture"
+  },
+  "H_P02": {
+    "image": "pages/H_P02.webp",
+    "source": "1. Histologi. Osteologi pdf.pdf",
+    "page": 2,
+    "group": "H",
+    "kind": "lecture"
+  },
+  "H_P03": {
+    "image": "pages/H_P03.webp",
+    "source": "1. Histologi. Osteologi pdf.pdf",
+    "page": 3,
+    "group": "H",
+    "kind": "lecture"
+  },
+  "H_P04": {
+    "image": "pages/H_P04.webp",
+    "source": "1. Histologi. Osteologi pdf.pdf",
+    "page": 4,
+    "group": "H",
+    "kind": "lecture"
+  },
+  "H_P05": {
+    "image": "pages/H_P05.webp",
+    "source": "1. Histologi. Osteologi pdf.pdf",
+    "page": 5,
+    "group": "H",
+    "kind": "lecture"
+  },
+  "H_P06": {
+    "image": "pages/H_P06.webp",
+    "source": "1. Histologi. Osteologi pdf.pdf",
+    "page": 6,
+    "group": "H",
+    "kind": "lecture"
+  },
+  "H_P07": {
+    "image": "pages/H_P07.webp",
+    "source": "1. Histologi. Osteologi pdf.pdf",
+    "page": 7,
+    "group": "H",
+    "kind": "lecture"
+  },
+  "H_P08": {
+    "image": "pages/H_P08.webp",
+    "source": "1. Histologi. Osteologi pdf.pdf",
+    "page": 8,
+    "group": "H",
+    "kind": "lecture"
+  },
+  "H_P09": {
+    "image": "pages/H_P09.webp",
+    "source": "1. Histologi. Osteologi pdf.pdf",
+    "page": 9,
+    "group": "H",
+    "kind": "lecture"
+  },
+  "H_P10": {
+    "image": "pages/H_P10.webp",
+    "source": "1. Histologi. Osteologi pdf.pdf",
+    "page": 10,
+    "group": "H",
+    "kind": "lecture"
+  },
+  "H_P11": {
+    "image": "pages/H_P11.webp",
+    "source": "1. Histologi. Osteologi pdf.pdf",
+    "page": 11,
+    "group": "H",
+    "kind": "lecture"
+  },
+  "H_P12": {
+    "image": "pages/H_P12.webp",
+    "source": "1. Histologi. Osteologi pdf.pdf",
+    "page": 12,
+    "group": "H",
+    "kind": "lecture"
+  },
+  "H_P13": {
+    "image": "pages/H_P13.webp",
+    "source": "1. Histologi. Osteologi pdf.pdf",
+    "page": 13,
+    "group": "H",
+    "kind": "lecture"
+  },
+  "H_P14": {
+    "image": "pages/H_P14.webp",
+    "source": "1. Histologi. Osteologi pdf.pdf",
+    "page": 14,
+    "group": "H",
+    "kind": "lecture"
+  },
+  "H_P15": {
+    "image": "pages/H_P15.webp",
+    "source": "1. Histologi. Osteologi pdf.pdf",
+    "page": 15,
+    "group": "H",
+    "kind": "lecture"
+  },
+  "H_P16": {
+    "image": "pages/H_P16.webp",
+    "source": "1. Histologi. Osteologi pdf.pdf",
+    "page": 16,
+    "group": "H",
+    "kind": "lecture"
+  },
+  "H_P17": {
+    "image": "pages/H_P17.webp",
+    "source": "1. Histologi. Osteologi pdf.pdf",
+    "page": 17,
+    "group": "H",
+    "kind": "lecture"
+  },
+  "H_P18": {
+    "image": "pages/H_P18.webp",
+    "source": "1. Histologi. Osteologi pdf.pdf",
+    "page": 18,
+    "group": "H",
+    "kind": "lecture"
+  },
+  "H_P19": {
+    "image": "pages/H_P19.webp",
+    "source": "1. Histologi. Osteologi pdf.pdf",
+    "page": 19,
+    "group": "H",
+    "kind": "lecture"
+  },
+  "H_P20": {
+    "image": "pages/H_P20.webp",
+    "source": "1. Histologi. Osteologi pdf.pdf",
+    "page": 20,
+    "group": "H",
+    "kind": "lecture"
+  },
+  "H_P21": {
+    "image": "pages/H_P21.webp",
+    "source": "1. Histologi. Osteologi pdf.pdf",
+    "page": 21,
+    "group": "H",
+    "kind": "lecture"
+  },
+  "H_P22": {
+    "image": "pages/H_P22.webp",
+    "source": "1. Histologi. Osteologi pdf.pdf",
+    "page": 22,
+    "group": "H",
+    "kind": "lecture"
+  }
+}

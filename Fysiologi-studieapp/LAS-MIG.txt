@@ -1,0 +1,106 @@
+FYSIOLOGI · RÖRELSEAPPARATEN
+Studieapp för medicinsk massageterapi
+
+KOM IGÅNG PÅ DIN DOMÄN
+1. Packa upp Fysiologi-studieapp.zip.
+2. Skapa exempelvis mappen fysiologi på ditt webbhotell.
+3. Ladda upp allt innehåll till mappen, inklusive pages och figures.
+4. Besök https://din-doman.se/fysiologi/
+Index.html ska ligga direkt i den mapp du öppnar.
+
+Appen är statisk HTML/CSS/JavaScript och kräver varken databas, installation
+eller byggprocess. Öppna den via webbserver. Dubbelklick som lokal file://-fil
+kan blockera JSON-inläsning. Alla filer använder relativa sökvägar.
+
+INNEHÅLL
+9 områden med 81 lektioner från grunden.
+204 unika övningskort/frågor: 35 originalfrågor, 81 lektionskontroller och
+88 begreppskort. 142 av dessa frågor har dessutom flervalsalternativ.
+8 studiesituationer för tillämpning.
+261 källsidor: 54 boksidor, 206 föreläsningsbilder och frågebladet.
+32 beskurna figurer kan förstoras i lektionerna.
+
+Kapitel 1: Histologi och vävnadslära
+Kapitel 2: Skelettlära och frakturer
+Kapitel 3: Ledlära och diskar
+Kapitel 4: Muskelfysiologi
+Kapitel 5: Patologi, läkning och smärta
+Kapitel 6–7: Undersökning, skador och rehabilitering
+A1: Anatomisk terminologi
+A2: Skelettet regionalt
+A3: Leder och ligament regionalt
+A-delarna är kompletterande spår från de anatomiska föreläsningarna.
+Lektionsinnehållet är en pedagogisk bearbetning, inte en ordagrann utskrift.
+Originalen finns som sidbilder under Källmaterial, ordnade efter fil.
+
+REKOMMENDERAT STUDIEUPPLÄGG
+1. Läs/lyssna på en lektion och formulera ett svar på kontrollfrågan.
+2. Öppna förklaringen och jämför. Markera lektionen genomgången när du förstår.
+3. Repetera med kort och bedöm Kan inte / Osäker / Kan.
+4. Öva samtliga 35 instuderingsfrågor med egna ord i tentaspåret.
+5. Gör prov och använd Behöver öva för att återkomma till osäkra frågor.
+6. Öva begrepp och tillämpningsfall när du vill koppla ihop kunskapen.
+Milstolpar och studiedagar räknas när nya lektioner markeras genomgångna.
+
+PROV OCH SVAR
+Flervalsfrågor rättas automatiskt. Fritext bedömer du själv mot förklaringen.
+Instuderingsfrågor i provläge använder egna ord, även om flerval är valt.
+Ett prov blir kortare om urvalet har färre frågor än önskat antal.
+Det uppladdade frågebladet saknar facit. Appens svar är skrivna utifrån
+kursboken/föreläsningarna och är inte ett officiellt lärarfacit.
+
+UPPLÄSNING
+Använder webbläsarens/enhetens talsyntes. Svensk röst behöver finnas på din
+enhet. Appen har röstval, paus/fortsätt, stopp och tre lästempon.
+Röstens kvalitet och tillgänglighet beror på enheten. Uppläsning omfattar
+lektionens text, konkreta exempel, förtydliganden och kontrollfrågan.
+Det är inga färdiginspelade ljudfiler.
+
+PROGRESS OCH SÄKERHETSKOPIA
+Sparas lokalt i webbläsaren under fysiologi-v1, separat från Grundmedicin.
+Under Min progress kan du spara en JSON-kopia och läsa in den på en annan
+enhet. Import ersätter fysiologiprogressen i den aktuella webbläsaren efter
+bekräftelse. Det finns ingen automatisk molnsynk. Exportera innan du byter
+webbläsare, rensar webbdata eller flyttar appen till annan domän.
+Ingen inloggning eller serverdatabas ingår. Externa källänkar öppnas endast
+när du klickar på dem; talsyntes kan använda enhetens rösttjänst.
+
+KÄLLOR OCH FÖRTYDLIGANDEN
+Underlag: de tre kursboksdelarna, nio föreläsnings-PDF:er och frågebladet
+som skickades i Fyisologi.zip. Sidnummer i appen avser PDF-sidor.
+Originalbilderna kan vara oskarpa. Läs därför lektionerna och jämför vid
+behov med den tryckta boken. Bilderna bevarar underlagets egna formuleringar.
+Appen återger inte alla påståenden som medicinska fakta: bland annat
+muskelkontraktion, tand-/broskvävnad, ledklassifikation, hypertrofi,
+långvarig smärta och akuta åtgärder har förtydligats där det behövts.
+Utvalda kompletterande källor från OpenStax, 1177 och NHS länkas i lektionerna.
+Kursens ligamentuppgift 10–20 procent är uttryckligen markerad som en
+kursuppgift och ska inte användas som individuell prognos.
+Appen är ett studiestöd; den ersätter inte medicinsk bedömning eller praktisk
+handledning. Kursen täcker rörelseapparaten, inte allmän fysiologi i sin helhet.
+
+VERIFIERING
+JavaScript-syntax, alla vyer och lektionsflikar, fråge- och källreferenser,
+lektionsprogress/återupptagning, korturval, automatisk rättning,
+fritexträttning, 35-frågors självtest, progressvalidering och återställning
+har kontrollerats. Samtliga 293 bildfiler har lästs och verifierats.
+Startsida, lektioner, begreppssökning och provstart har granskats i Chrome.
+Mobilanpassningen använder samma grundlayout som Grundmedicin, med
+kompletterande CSS för de nya vyerna. Den har inte testats på fysisk telefon.
+
+REDIGERA
+index.html: ingång och inläsning av filer
+style.css, learning.css, learning-extras.css: utseende och mobilanpassning
+lessons.js: lektionernas innehåll
+data.json: kapitel och frågor
+app.js: grundfunktioner, prov och flervalsalternativ
+learning-ui.js: lektionsvyer och progress
+learning-extras.js: uppläsning, figurer och milstolpar
+course-ui.js: tentaspår, begreppsbank, fall, urval och progresskopior
+pages.json: katalog över källsidor
+pages/: källsidornas bilder
+figures/: utvalda beskurna figurer
+references.json: kompletterande källor
+glossary.json: begreppsdata (begreppsvyn använder data.json)
+
+Använd kursmaterialet inom de rättigheter du har till litteraturen.
