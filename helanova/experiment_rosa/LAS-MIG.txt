@@ -1,0 +1,11 @@
+Helanova – tre experiment med rosa och lila
+
+Öppna index.html och välj ett uttryck överst. Växla sedan till Personal för att se samma färgriktning där.
+
+Rosa detaljer: mindre rosa hover- och fokusytor, med neutral grund.
+Puder & lavendel: ljusa lavendelfades, lila knappar, en mjukare footer och vita läsytor.
+Plommon & guld: djup plommonlila i inledning och footer, med guldlinjer och ljusa kort.
+
+Färgvalet följer med när du navigerar mellan startsidan och personalsidan. Alla persontexter, bilder, gemensam meny och footer, slumpningen och den loopande mobilsliden finns kvar. Inga scrollentréer har lagts tillbaka.
+
+För uppladdning: lägg index.html, personal.html och hela assets-mappen i samma testmapp. Kontrollpanelen överst är enbart till för detta färgexperiment.

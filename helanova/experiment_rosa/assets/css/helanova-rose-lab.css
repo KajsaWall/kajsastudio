@@ -1,0 +1,52 @@
+/* Tre nivåer av samma rosa/lila accent. Guldlinjerna behålls genomgående. */
+:root{--rose-hover:#eee8f0;--rose-surface:#f1ebf3;--rose-strong:#d8cadf;--rose-button:#69546f;--rose-ink:#463b4b;--rose-footer:#493e4e}
+html[data-rose=plum]{--rose-hover:#e4d6e9;--rose-surface:#e9dfed;--rose-strong:#c4accf;--rose-button:#604568;--rose-ink:#413348;--rose-footer:#382c40}
+.rose-lab-bar{display:flex;justify-content:center;align-items:center;gap:10px 22px;flex-wrap:wrap;background:#fff;padding:12px 20px;border-bottom:1px solid #ddd5e1;color:#4b4151;font:12px/1.5 Arial,sans-serif}
+.rose-lab-label{font-size:11px;letter-spacing:1.2px;text-transform:uppercase}
+.rose-lab-options{display:flex;gap:7px;flex-wrap:wrap}
+.rose-lab-bar button{font:inherit;min-height:38px;border:1px solid #d9cedf;border-radius:22px;background:#faf8fb;color:#4b4151;padding:8px 15px;cursor:pointer;transition:background-color .2s,border-color .2s}
+.rose-lab-bar button[aria-pressed=true]{background:#65516d;border-color:#65516d;color:#fff}
+/* Nivå ett: rosa interaktion, neutral grund och små permanenta detaljer. */
+#hn-directions .hd-jump-link{border-color:#d5c9dc}
+.hn-design .hn-names a{border-color:#d5c9dc}
+@media(hover:hover) and (pointer:fine){
+html #hn-directions a.hd-tag:hover,html #hn-directions .hd-jump-link:hover,html .hn-design .hn-names a:hover{background:var(--rose-hover);border-color:var(--rose-strong);color:#413348}
+html #helanova-header-soft .book:hover,html #hn-directions .hd-button:hover{background:#e8deec;color:#413348;box-shadow:inset 0 0 0 1px #cbbbd4}
+}
+/* Nivå två och tre: färgen får bära större ytor och de viktigaste knapparna. */
+html[data-rose=powder] #helanova-header-soft,html[data-rose=plum] #helanova-header-soft{--ink:var(--rose-ink);--sage:var(--rose-surface)}
+html[data-rose=powder] #helanova-header-soft .hero{background:#e9dfed}
+html[data-rose=powder] #helanova-header-soft .wash{background:linear-gradient(90deg,#e9dfed 0%,#e9dfed 39%,#e9dfedf0 44%,#e9dfed75 55%,#e9dfed00 70%)}
+html[data-rose=powder] #helanova-header-soft .book,html[data-rose=plum] #helanova-header-soft .book,
+html[data-rose=powder] #hn-directions .hd-button,html[data-rose=plum] #hn-directions .hd-button,
+html[data-rose=powder] .hn-design .hn-btn:not(.hn-btn-light),html[data-rose=plum] .hn-design .hn-btn:not(.hn-btn-light){background:var(--rose-button);border-color:var(--rose-button);color:#fff}
+html[data-rose=powder] .hn-design .hn-trust,html[data-rose=plum] .hn-design .hn-trust{background:var(--rose-surface);border-color:var(--rose-strong)}
+html[data-rose=powder] .hn-design .hn-visit-editorial,html[data-rose=plum] .hn-design .hn-visit-editorial{background:linear-gradient(180deg,#fafaf7,var(--rose-surface) 140px,var(--rose-surface) calc(100% - 140px),#fafaf7)}
+html[data-rose=powder] .hn-design .hn-ending,html[data-rose=plum] .hn-design .hn-ending{background:linear-gradient(180deg,#fafaf7 0px,#fafaf7 135px,var(--rose-footer) 135px,var(--rose-footer) 100%)}
+html[data-rose=powder] .hn-design .hn-booking-bridge::before,html[data-rose=plum] .hn-design .hn-booking-bridge::before{background:linear-gradient(90deg,#49394ff2,#49394fda 42%,#49394f55 100%)}
+html[data-rose=powder] #hn-directions,html[data-rose=plum] #hn-directions{--hd-ink:var(--rose-ink);--hd-sage:var(--rose-surface);--hd-line:#ddd3e1}
+html[data-rose=powder] #hn-directions .hd-hybrid .hd-intro{background:linear-gradient(180deg,#e5dbe9,#f2edf4 65%,#fafaf7)}
+html[data-rose=powder] #hn-directions .hd-hybrid .hd-feature,html[data-rose=plum] #hn-directions .hd-hybrid .hd-feature{background:#fff;border-color:var(--rose-strong);box-shadow:0 0 0 9px var(--rose-surface)}
+html[data-rose=powder] #hn-directions .hd-help-card,html[data-rose=plum] #hn-directions .hd-help-card{background:var(--rose-surface);border-color:var(--rose-strong)}
+html[data-rose=powder] #hn-directions .hd-person,html[data-rose=plum] #hn-directions .hd-person{border-color:var(--rose-strong)}
+html[data-rose=powder] #hn-directions .hd-pick[aria-pressed=true],html[data-rose=plum] #hn-directions .hd-pick[aria-pressed=true]{color:var(--rose-ink)}
+/* Nivå tre: djup plommonlila i inledning och footer, med ljusa läsytor. */
+html[data-rose=plum] #helanova-header-soft .hero{background:#513b59}
+html[data-rose=plum] #helanova-header-soft .wash{background:linear-gradient(90deg,#513b59 0%,#513b59 37%,#513b59f5 44%,#513b5980 58%,#513b5900 75%)}
+html[data-rose=plum] #helanova-header-soft .copy,html[data-rose=plum] #helanova-header-soft h1{color:#fff}
+html[data-rose=plum] #helanova-header-soft .copy .intro,html[data-rose=plum] #helanova-header-soft .copy .location{color:#eee5f1}
+html[data-rose=plum] #helanova-header-soft .copy .explore{color:#fff;border-color:#cbb8d2}
+html[data-rose=plum] #helanova-header-soft .copy .book{background:#e4d5e9;border-color:#e4d5e9;color:#413348}
+html[data-rose=plum] #hn-directions .hd-hybrid .hd-intro{background:linear-gradient(135deg,#513b59,#6d5374);color:#fff}
+html[data-rose=plum] #hn-directions .hd-hybrid .hd-intro p{color:#eee5f1}
+html[data-rose=plum] #hn-directions .hd-hybrid .hd-intro .hd-title{color:#fff}
+@media(max-width:650px){
+html[data-rose=powder] #helanova-header-soft .wash{background:linear-gradient(180deg,#e9dfed00 0%,#e9dfed40 20%,#e9dfed 46%,#e9dfed 100%)}
+html[data-rose=plum] #helanova-header-soft .wash{background:linear-gradient(180deg,#513b5900 0%,#513b5960 20%,#513b59 46%,#513b59 100%)}
+.rose-lab-bar{gap:8px;padding:10px}.rose-lab-label{width:100%;text-align:center}.rose-lab-bar button{min-height:42px;padding:8px 12px}
+}
+@container helanova (max-width:600px){
+html[data-rose=powder] #hn-directions .hd-hybrid .hd-top,html[data-rose=plum] #hn-directions .hd-hybrid .hd-top{background:var(--rose-surface);border-top-color:var(--rose-strong)}
+html[data-rose=powder] #hn-directions .hd-slide-surface,html[data-rose=plum] #hn-directions .hd-slide-surface{background:#fff}
+}
+@media(prefers-reduced-motion:reduce){.rose-lab-bar button{transition:none}}
