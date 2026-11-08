@@ -1,0 +1,9 @@
+Helanova – experimentellt webbpaket med diskreta accenter
+
+Öppna index.html. Personal leder till personal.html. Ladda upp index.html, personal.html och hela assets-mappen tillsammans. Paketet kan läggas i en separat testmapp för jämförelse.
+
+Guld #B9AA80 används i små linjer, menymarkeringar samt runt porträttet i personalslidern. Den valda terapeuten får samma markering oavsett person. Den rosa nyansen #DDD5E1 används som en tunn avdelare i sidfoten och som en utspädd hover- och fokusfärg på behandlingstaggar och namngenvägar. Facebook och Instagram följer footerns textfärg. Kontaktrutan är fortsatt salviagrön.
+
+Profilerna animeras inte längre in vid scrollning. Sidans ankarlänkar använder direkt scrollning. Mjuka hovereffekter och övergången när du väljer en annan terapeut finns kvar. Mobilsliden loopar fortfarande och de inaktiva korten är mindre och nedtonade.
+
+Alla persontexter, bilder, den slumpade ordningen, gemensam meny, footer och designer-credit finns kvar.
