@@ -18,14 +18,14 @@
 <section data-variant="Kombinerat förslag" class="hd-clinical hd-hybrid"></section>
 </div>
 <template id="hd-help-template">
-<aside class="hd-help-card" aria-label="Hjälp att välja terapeut">
+<aside class="hd-help-card" aria-label="Hjälp att välja terapeut"><div class="hd-help-inner">
 <span class="hd-help-mark" aria-hidden="true">Helanova</span>
 <span class="hd-eyebrow">Vi hjälper dig att hitta rätt</span>
 <h3>Du behöver inte<br>välja själv.</h3>
 <p>Osäker på vilken terapeut eller behandling som passar dig? Berätta vad du söker, så hjälper vi dig att hitta rätt i vårt team.</p>
 <a class="hd-button" href="mailto:info@helanova.nu">Kontakta oss <span>↗</span></a>
 <p class="hd-help-foot">Ett personligt möte börjar med ett samtal.</p>
-</aside>
+</div></aside>
 </template>
 
 <template id="hd-page-template">
@@ -47,6 +47,7 @@
 </template>
 <template id="hd-feature-template"><img class="hd-feature-photo"><div class="hd-feature-copy"><span class="hd-eyebrow">Lär känna <span class="hd-first"></span></span><h2></h2><div class="hd-role"></div><p class="hd-short"></p><div class="hd-tags"></div><div class="hd-actions"><a class="hd-button" href="https://helahuma.hlthy.se/booking" target="_blank" rel="noopener">Boka tid <span>→</span></a><a class="hd-textlink" data-profile-link>Hela presentationen ↓</a></div></div></template>
 <template id="hd-slide-template"><article class="hd-slide"><img><div class="hd-slide-copy"><h2></h2><div class="hd-role"></div><p></p><div class="hd-tags"></div><div class="hd-actions"><a class="hd-button" href="https://helahuma.hlthy.se/booking" target="_blank" rel="noopener">Boka tid →</a><a class="hd-textlink" data-profile-link>Hela presentationen ↓</a></div></div></article></template>
+<script src="assets/js/personal-carousel.js"></script>
 <script>
 (()=>{
 const root=document.getElementById('hn-directions');
@@ -56,17 +57,17 @@ const clone=id=>root.querySelector('#'+id).content.cloneNode(true);
 function fill(container,p,i,variant){const photo=container.querySelector('img');photo.src=p.img;photo.alt=p.name;const heading=container.querySelector('h2,h3');if(heading)heading.textContent=p.name;const role=container.querySelector('.hd-role');if(role)role.textContent=p.role;container.querySelectorAll('.hd-first').forEach(n=>n.textContent=p.first);const tagbox=container.querySelector('.hd-tags');if(tagbox)p.tags.forEach((t,index)=>{const span=document.createElement('a');span.className='hd-tag';span.textContent=t;span.href='https://www.helanova.nu/behandlingar/'+p.links[index];span.target='_blank';span.rel='noopener';tagbox.append(span);});const link=container.querySelector('[data-profile-link]');if(link)link.href='#'+p.slug;}
 root.querySelectorAll('[data-variant]').forEach((section,v)=>{
 section.append(clone('hd-page-template'));const team=section.querySelector('.hd-team');team.id='hd-team-'+v;section.querySelector('[data-team-link]').href='#'+team.id;
-const feature=section.querySelector('.hd-feature'),rail=section.querySelector('.hd-rail'),swipe=section.querySelector('.hd-swipe'),dots=section.querySelector('.hd-dots');let active=0;
+const feature=section.querySelector('.hd-feature'),rail=section.querySelector('.hd-rail'),swipe=section.querySelector('.hd-swipe'),dots=section.querySelector('.hd-dots');let active=0;let carousel;
 function select(i){active=i;feature.replaceChildren(clone('hd-feature-template'));fill(feature,people[i],i,v);feature.querySelector('.hd-short').textContent=people[i].short;rail.querySelectorAll('button').forEach((b,j)=>b.setAttribute('aria-pressed',j===i));}
-function go(i){active=(i+people.length)%people.length;const target=swipe.children[active];swipe.scrollTo({left:target.offsetLeft-swipe.children[0].offsetLeft,behavior:window.matchMedia('(prefers-reduced-motion: reduce)').matches?'instant':'smooth'});dots.querySelectorAll('button').forEach((b,j)=>b.setAttribute('aria-pressed',j===active));}
+function go(i){if(carousel)carousel.go(i);}
 people.forEach((p,i)=>{
 const pick=document.createElement('button');pick.className='hd-pick cursor-interaction';pick.type='button';const avatar=document.createElement('img');avatar.src=p.img;avatar.alt='';pick.append(avatar,document.createTextNode(p.first));pick.setAttribute('aria-label','Lär känna '+p.name);pick.onclick=()=>{select(i);go(i);};rail.append(pick);
 const card=clone('hd-person-template');fill(card,p,i,v);card.querySelector('article').id=p.slug;p.paragraphs.forEach(text=>{const para=document.createElement('p');para.textContent=text;card.querySelector('.hd-bio').append(para);});section.querySelector('.hd-grid').append(card);const jump=document.createElement('a');jump.className='hd-jump-link';jump.textContent=p.first;jump.href='#'+p.slug;jump.setAttribute('aria-label','Gå till hela presentationen av '+p.name);section.querySelector('.hd-jump-buttons').append(jump);
 const slide=clone('hd-slide-template');fill(slide,p,i,v);slide.querySelector('p').textContent=p.short;swipe.append(slide);
 const dot=document.createElement('button');dot.className='hd-dot cursor-interaction';dot.setAttribute('aria-label',p.name);dot.setAttribute('aria-pressed',i===0);dot.onclick=()=>go(i);dots.append(dot);
-});section.querySelector('.hd-grid').append(clone('hd-help-template'));select(0);new ResizeObserver(()=>{if(swipe.clientWidth>0){const selected=swipe.children[active];swipe.scrollTo({left:selected.offsetLeft-swipe.children[0].offsetLeft,behavior:"instant"});}}).observe(swipe);
+});section.querySelector('.hd-grid').append(clone('hd-help-template'));carousel=window.createHelanovaCarousel({track:swipe,dots,onChange:select});
 section.querySelectorAll('[data-step]').forEach(b=>b.onclick=()=>go(active+Number(b.dataset.step)));
-swipe.addEventListener('scroll',()=>{let distance=Infinity;Array.from(swipe.children).forEach((el,i)=>{const d=Math.abs(el.offsetLeft-swipe.children[0].offsetLeft-swipe.scrollLeft);if(d<distance){active=i;distance=d;}});dots.querySelectorAll('button').forEach((b,i)=>b.setAttribute('aria-pressed',active===i));select(active);});
+
 });
 requestAnimationFrame(()=>{const target=document.getElementById(decodeURIComponent(location.hash.slice(1)));if(target)target.scrollIntoView({block:'start',behavior:'instant'});});
 })();

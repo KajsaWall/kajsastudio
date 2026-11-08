@@ -11,3 +11,5 @@ Meny och footer är gemensamma för båda sidorna. Bilderna kommer från din bif
 Designen från den senaste förhandsvisningen är behållen: vänsterställd inledning med kant-till-kant-fade på desktop och centrerad inledning på tablet, vit slide med salviagrön ram på tablet samt swipe på mobil.
 
 Mobilporträtten har rundade överkanter. Desktopporträtten är högre och kortens beskrivningar ligger närmare taggarna på mobil.
+
+Senaste justering: centrerat men vänsterställt innehåll i kontaktrutan, mer kvadratiska profilbilder på desktop, ljusrosa accent #DDD5E1 och mobilslide som går runt med svep i båda riktningarna.

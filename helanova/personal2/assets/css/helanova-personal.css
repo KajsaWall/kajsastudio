@@ -192,3 +192,15 @@ body{margin:0;background:#fafaf7}html{scroll-behavior:smooth}#hn-directions{max-
 #hn-directions .hd-hybrid .hd-slide p{min-height:0;margin:12px 0 9px}
 #hn-directions .hd-hybrid .hd-slide .hd-tags{margin:0 0 12px}
 }
+
+/* Centrera innehållsblocket i kontaktrutan, men behåll vänsterställd text. */
+#hn-directions .hd-help-card{align-items:center;justify-content:center;background:#ddd5e1;text-align:left}
+#hn-directions .hd-help-inner{width:100%;max-width:310px}
+#hn-directions .hd-help-inner .hd-help-mark{display:block}
+#hn-directions .hd-jump-link:hover{background:#ddd5e1}
+@container helanova (min-width:1001px){
+#hn-directions .hd-hybrid .hd-person-photo{width:112px;height:126px}
+}
+@container helanova (min-width:601px) and (max-width:1000px){
+#hn-directions .hd-hybrid .hd-feature{box-shadow:inset 0 0 0 2px #ddd5e1}
+}
