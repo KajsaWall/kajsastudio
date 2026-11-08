@@ -1,0 +1,13 @@
+Helanova – startsida och personalsida
+
+Packa upp zip-filen och ladda upp index.html, personal.html och hela assets-mappen till samma webbplatsmapp.
+
+Öppna index.html för startsidan. Menylänken Personal, länken Möt våra terapeuter och länkarna i sidfoten leder till personal.html. Logotypen leder tillbaka till index.html.
+
+Namnen i startsidans teamsektion leder direkt till rätt profil. Personalens ordning slumpas vid varje sidladdning; samma ordning används i hela personalsidan. Alla fullständiga personaltexter finns med.
+
+Meny och footer är gemensamma för båda sidorna. Bilderna kommer från din bifogade assets-mapp. De övriga undersidorna och bokningen använder sina befintliga länkar.
+
+Designen från den senaste förhandsvisningen är behållen: vänsterställd inledning med kant-till-kant-fade på desktop och centrerad inledning på tablet, vit slide med salviagrön ram på tablet samt swipe på mobil.
+
+Mobilporträtten har rundade överkanter. Desktopporträtten är högre och kortens beskrivningar ligger närmare taggarna på mobil.
