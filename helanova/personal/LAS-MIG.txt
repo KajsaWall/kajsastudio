@@ -8,4 +8,6 @@ Namnen i startsidans teamsektion leder direkt till rätt profil. Personalens ord
 
 Meny och footer är gemensamma för båda sidorna. Bilderna kommer från din bifogade assets-mapp. De övriga undersidorna och bokningen använder sina befintliga länkar.
 
-Designen från den senaste förhandsvisningen är behållen: centrerad inledning på desktop och tablet, vit slide med salviagrön ram på tablet samt swipe på mobil.
+Designen från den senaste förhandsvisningen är behållen: vänsterställd inledning med kant-till-kant-fade på desktop och centrerad inledning på tablet, vit slide med salviagrön ram på tablet samt swipe på mobil.
+
+Mobilporträtten har rundade överkanter. Desktopporträtten är högre och kortens beskrivningar ligger närmare taggarna på mobil.

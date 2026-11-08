@@ -176,3 +176,19 @@
 
 body{margin:0;background:#fafaf7}html{scroll-behavior:smooth}#hn-directions{max-width:1320px;margin:0 auto}#hn-directions .hd-person{scroll-margin-top:115px}#hn-directions .hd-team{scroll-margin-top:100px}
 @media(prefers-reduced-motion:reduce){html{scroll-behavior:auto}}
+
+/* Låt bakgrundsfaden gå hela vägen ut, men behåll innehållets läsbredd. */
+#hn-directions{width:100%;max-width:none;margin:0}
+#hn-directions .hd-hybrid .hd-top,#hn-directions .hd-hybrid .hd-team{max-width:1320px;margin-inline:auto}
+@container helanova (min-width:1001px){
+#hn-directions[data-desktop-intro=left] .hd-hybrid .hd-intro{display:block;width:100%;max-width:none;margin:0;padding:46px max(7%,calc((100% - 1135px)/2)) 38px;text-align:left;background:linear-gradient(180deg,var(--hd-sage) 0%,#f5f7f2 60%,var(--hd-paper) 100%);border-bottom:0}
+#hn-directions .hd-hybrid .hd-feature-photo{height:410px}
+#hn-directions .hd-hybrid .hd-person-photo{height:148px}
+}
+@container helanova (max-width:600px){
+#hn-directions .hd-hybrid .hd-slide{border-radius:48px 48px 3px 3px;overflow:hidden}
+#hn-directions .hd-hybrid .hd-slide img{border-radius:48px 48px 0 0}
+#hn-directions .hd-hybrid .hd-person-photo{border-radius:48px 48px 3px 3px}
+#hn-directions .hd-hybrid .hd-slide p{min-height:0;margin:12px 0 9px}
+#hn-directions .hd-hybrid .hd-slide .hd-tags{margin:0 0 12px}
+}
