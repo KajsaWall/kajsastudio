@@ -1,0 +1,17 @@
+HELANOVA – BILD, FORM OCH LÄSRUTA
+
+Packa upp hela zip-filen och öppna behandlingar.html. Startsidan, personalsidan och assets-mappen ingår också.
+
+Läs mer
+Fullständiga behandlingstexter och de sex massageteknikerna öppnas i en dialogruta ovanpå sidan. Den har bred textspalt, egen scrollning och alltid synliga stäng- och bokningsknappar. Sidans höjd ändras inte när en beskrivning öppnas. Stäng med knappen, Escape eller klick utanför läsrutan. Fokus och scrollposition återgår till platsen där läsrutan öppnades.
+
+Behandlingskorten öppnar läsrutan direkt. Massage-kortet går till massageavsnittet. Direkta ankarlänkar öppnar fortfarande rätt behandling. Utan JavaScript, eller om dialog inte stöds, fungerar de ursprungliga details/summary-utfällningarna som reserv.
+
+Utseende och innehåll
+Alla fulltexter, fotografier, färgformer och ikonernas gröna/blå växling är bevarade. Kontaktavslutningen finns endast på behandlingssidan. Startsida och personal behåller bokningsbilden och samma gemensamma meny/sidfot.
+
+Kontroller
+Sidans höjd har jämförts före och under läsning. Egen scrollning, synlig stängknapp, Escape, fokusåtergång och mobil dialog har kontrollerats i webbläsare.
+
+Införande
+Detta är ett fristående förhandsgranskningspaket, inte ett WordPress-tema. Vid införande i Elementor behöver HTML, CSS och JavaScript följa med, samt bildadresser och sidlänkar anpassas. Färgfiltren i HTML ska också behållas. Ta bort noindex när sidan ska publiceras.
