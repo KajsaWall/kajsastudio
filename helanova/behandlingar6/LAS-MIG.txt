@@ -1,0 +1,26 @@
+HELANOVA – BEHANDLINGAR V3, REDAKTIONELL KOMBINATION
+
+Packa upp hela zip-filen och öppna behandlingar.html. Startsidan, personalsidan och hela assets-mappen ingår också.
+
+Layout
+Kompakt översikt med fyra kort per rad på dator och två på surfplatta/mobil. Massage är en öppen läsdel med sex teknikdragspel. Därefter kommer bild- och textpresentationer av övriga behandlingar, med alla rubriker och korta introduktioner synliga under scrollning. De kompletta beskrivningarna öppnas på samma plats via Läs mer. Ett klick på ett kort öppnar motsvarande text och går till rätt avsnitt. Direkta ankarlänkar från andra sidor fungerar också. Ingen separat behandlingsväljare behövs.
+
+Ikonfärger
+Grön, blå, grön, blå – i läsordning, upprepat på andra raden. De befintliga PNG-illustrationerna återanvänds. Två små SVG-färgfilter i HTML-koden omvandlar enbart pastellfyllningen för avslappning och gravidmassage; grå linjer och genomskinlighet bevaras. Filtren måste följa med vid införande i WordPress.
+
+Innehåll
+Alla fullständiga behandlings- och tekniktexter från version 1 är bevarade. Kortens och presentationernas sammanfattningar är korta för att göra överblicken lättläst. Foto i toppen: IMG_3184. Foto vid Avslappning: IMG_3207. Inga färgändringar i fotografierna.
+
+Teknik
+Nya sidstilar: assets/css/helanova-hybrid.css. Ny beteendefil: assets/js/helanova-hybrid.js. Gemensam meny, footer och designer-credit återanvänds. Native details/summary gör att fulltexter går att läsa även utan JavaScript.
+
+Detta är ett fristående förhandsgranskningspaket, inte ett WordPress-tema. Vid införande i Elementor förs innehåll och stilar över, bildadresser och sidlänkar anpassas och noindex tas bort när sidan ska publiceras.
+
+Gemensam navigering och sidfot
+Samma header och hela sidfoten inklusive bokningsdelen används på alla tre sidor. Aktiv menylänk följer den aktuella sidan. Mobilmenyn använder den gemensamma filen assets/js/helanova-navigation.js. Behandlingssidans egna stilar är avskilda från sidfoten.
+
+ALTERNATIV: KONTAKT I SIDFOTEN
+Den gemensamma bokningsbilden ”Ge kroppen lite omtanke” har ersatts med ”Du behöver inte välja själv”, kontaktknapp och länk till terapeuterna endast på behandlingssidan. Den dubbla kontaktrutan har tagits bort från behandlingssidans innehåll. Menyn, övriga sidfoten, alla behandlingstexter och ikonernas färgväxling behålls.
+
+KORRIGERAD OMFATTNING
+Startsida och personalsida är återställda till exakt samma HTML som i den gemensamma version 3, inklusive bokningsbilden. Enbart behandlingssidan använder kontaktavslutningen. Själva footern med kontaktuppgifter, länkar och designer-credit är gemensam. Första besöket-rutan har nu en tunn blågrå ram. Gradientsektionen med gravidmassage och lymfmassage behålls.
