@@ -1,0 +1,25 @@
+HELANOVA – BEHANDLINGAR, VERSION 1
+
+Börja här
+Packa upp hela zip-filen. Öppna behandlingar.html i din webbläsare.
+Index.html är startsidan och personal.html är personalsidan. Alla tre sidor finns med och länkar till varandra. Behåll assets-mappen bredvid HTML-filerna.
+
+I denna version
+– Ny behandlingssida med åtta kort och separata läsbara informationsavsnitt.
+– Era befintliga ikoner, meny, sidfot och designer-credit återanvänds.
+– IMG_3184.JPG i toppen, IMG_3207.JPG vid avslappningsavsnittet. Bilderna är kopierade utan färgändringar.
+– Sidans egna stilar ligger i assets/css/helanova-behandlingar.css.
+– Massageavsnittets tekniker använder vanliga tillgängliga details/summary-dragspel som fungerar utan JavaScript.
+– Mobilmenyn, behandlingskortens ankarlänkar och dragspelen har provats i webbläsare. Smal layout har granskats vid 390 och 768 pixlars ram, utan sidledes överflöde.
+– Länkar från start- och personalsidan till behandlingar leder till den nya lokala sidan. Övrig utformning behålls.
+
+Text och bokning
+Hela textunderlaget från användarens meddelande har lagts in i samtliga åtta avsnitt och sex teknikdragspel. HTML-entiteter, trasiga formateringsmarkeringar, stavfel och vissa grammatiska fel har rättats. Sakuppgifter och behandlingspåståenden har behållits enligt underlaget.
+Behandlingsutbudet utgår från den uppladdade startsidan och https://www.helanova.nu/behandlingar/ (läst 10 november 2026).
+Bokningsknappar leder till er befintliga bokningssida; välj behandling där. Inga priser har lagts till. Behandlingstiderna för MER (90 minuter och prova på-sessioner på 45 och 60 minuter) följer det inskickade underlaget.
+
+WordPress
+Detta är ett fristående paket för förhandsgranskning, inte ett installerbart WordPress-tema. Sidorna innehåller noindex/nofollow som i originalpaketet. Vid införande i Elementor behöver innehåll, CSS och bildadresser föras över till WordPress och provlänkarna anpassas till era riktiga sid-URL:er.
+
+Fulltextuppdatering
+Tydliga stycken, punktlistor och numrerade steg. Bokningsknapp efter varje fulltext. På större skärmar följer vänsterkolumnens rubrik och bokning med när du läser de längre beskrivningarna. På mobil ligger allt i en kolumn.
