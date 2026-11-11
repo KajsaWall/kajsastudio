@@ -1,0 +1,13 @@
+HELANOVA – TRADITIONELL NAVIGERING MED EGNA BEHANDLINGSSIDOR
+
+Öppna behandlingar.html efter att ha packat upp hela zip-filen.
+
+Den bildrika översikten är kvar. Läs mer och behandlingskorten leder till vanliga HTML-sidor med fullständiga beskrivningar. Inga läsrutor eller långa utfällningar används i översikten. Teknikerna länkar till rätt avsnitt på massage.html.
+
+Åtta behandlingssidor ingår, med gemensam meny, sidfot, bokningsväg, brödsmulor, länk tillbaka och föregående/nästa behandling. Massage har en innehållslista till samtliga sex tekniker. Webbläsarens bakåtknapp fungerar som vanligt.
+
+Alla originaltexter och bilder är bevarade. Startsida och personalsida har samma HTML som i tidigare version. Kontaktavslutningen används endast på behandlingsrelaterade sidor. Startsida och personal behåller bokningsbilden.
+
+Detta är en separat jämförelsevariant; den sparade versionen med läsruta finns kvar.
+
+WordPress: paketet är fristående för förhandsgranskning, inte ett tema. Vid införande behöver respektive HTML-sida få en motsvarande WordPress-sida, länkar och bildadresser anpassas och noindex tas bort när sidan ska publiceras.
