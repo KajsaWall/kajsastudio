@@ -1,0 +1,12 @@
+HELANOVA – PRISER OCH BOKNING
+
+Packa upp allt och öppna behandlingar.html.
+Separat variant baserad på versionen med egna behandlingssidor; tidigare alternativ är kvar.
+
+Ny prislista med ordinarie pris samt klippkort 5/10 gånger och 10 procent rabatt. Alla belopp från det lämnade underlaget.
+
+Bokning: Den riktiga HLTHY-sidan laddas automatiskt och visas alltid i en iframe på behandlingssidan. Inga bokningar skapas av förhandsgranskningen. Direktlänk till HLTHY finns alltid som alternativ. Bokningsknappar på behandlingssidorna leder till den nya sektionen.
+
+Kontrollera hela bokningsflödet på den riktiga domänen vid införande, inklusive eventuell inloggning/betalning och mobil. Inga kontouppgifter eller testbokningar har skickats in. HLTHY-koden och webbplatsens regler kan förändras; kontakta HLTHY för deras rekommenderade integrationskod om det inbäddade flödet inte fungerar i aktuell miljö.
+
+Paketet är en fristående förhandsgranskning, inte ett WordPress-tema. Länkar, bildadresser och noindex behöver anpassas vid införande.
